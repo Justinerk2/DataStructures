@@ -6,20 +6,9 @@ var fileContent = fs.readFileSync('/home/ubuntu/workspace/data/aameetinglist02M.
 var $ = cheerio.load(fileContent);
 //using cheerio to only collect the data within the table with cellpadding = 5 and naming that variable table
 var table = $('tr').attr('cellpadding', '5');
-// creating a varable address to parse the table to find the adresss within the data, and split the text
-var address = $(table).find('td:first-child').children().remove().end().text().split("<br />");
-
-var firstLine = address[0];
-
-console.log(firstLine.trim());
-
-//var address = [];
-//var table = $('tr').attr('cellpadding', '5');
-//$(table).children("td:first-child").each(function(i, elem) {
-
-//    var tableInfo = $(this);
-//    address[i] = tableInfo.children().remove().end().text();
-
-//    console.log(address.trim());
-
-//});
+// creating a varable address to parse the table to find the rows and creating the each function
+ $(table).find('tr').each(function(i, elem) {
+    $(elem).find('td').eq(0).each(function(i,elem){
+        console.log($(elem).html().split("<br>")[2].trim());
+    });
+});
