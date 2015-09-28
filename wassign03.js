@@ -30,7 +30,7 @@ for (var i = 0; i < addresses.length; i++) {
             }
             //having zero results appear in the console if no results appear
             if (JSON.parse(body).status == "ZERO_RESULTS") {
-                console.log("ZERO RESULTS for" + value);
+                console.log("ZERO RESULTS for" + thisMeeting.address);
             } else {
             thisMeeting.latLong = JSON.parse(body).results[0].geometry.location;
             meetingsData.push(thisMeeting);
