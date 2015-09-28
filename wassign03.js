@@ -37,9 +37,9 @@ for (var i = 0; i < addresses.length; i++) {
              }
         });
         //slowing down the results so that the API rules are met
-        setTimeout(callback, 1000);
+        setTimeout(callback, 500);
     }, function() {
-        fs.writeFile('assign3AddrData.txt', JSON.stringify(meetingsData), function(err){
+        fs.writeFile('/home/ubuntu/workspace/data/assign3AddrData.txt', JSON.stringify(meetingsData), function(err){
             if (err) 
                 return console.log('Error');
             console.log('Wrote ' + meetingsData.length + ' entries to file ' + 'assign3AddrData.txt');
