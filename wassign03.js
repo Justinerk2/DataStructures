@@ -15,7 +15,8 @@ for (var i = 0; i < addresses.length; i++) {
     // fixing addresses, removing comma issues, replacing spaces with + for the google api, and adding New York, NY at the end of each address line
     addressClean.push(((addresses[i].substring(0, addresses[i].indexOf(','))) + ', New York, NY').split(' ').join('+'));
     // eachSeries in the async module iterates over an array and operates on each item in the array in series
-    async.eachSeries(addressClean, function(value, callback) {
+   }
+   async.eachSeries(addressClean, function(value, callback) {
 
         // requesting API
         var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + value.split(' ').join('+') + '&key=' + apiKey;
@@ -45,4 +46,3 @@ for (var i = 0; i < addresses.length; i++) {
             console.log('Wrote ' + meetingsData.length + ' entries to file ' + 'assign3AddrData.txt');
         });
     });
-}
