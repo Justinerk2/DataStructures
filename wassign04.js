@@ -3,7 +3,7 @@ var fs = require('fs'); // nmp instal fs
 
 var aameetings = JSON.parse(fs.readFileSync('/home/ubuntu/workspace/data/geocodeMeetings.txt'));
     // Connection URL
-    var url = 'mongod://localhost:27017/aameetings';
+    var url = 'mongodb://localhost:27017/aameetings';
 
     // Retrieve
     var MongoClient = require('mongodb').MongoClient; // npm install mongodb
