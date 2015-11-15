@@ -7,7 +7,6 @@ var apiKey = process.env.API_KEY; //api key calling from the enviornment
 var apiGoogleURL = 'https://maps.googleapis.com/maps/api/geocode/json?address='
 var addressesUpdated = [];
 
-
 var addresses = []; //array for meeting addresses
 var cleanAddresses = []; //array for clean addresses
 var meetings = []; //array for meeting names
@@ -16,9 +15,6 @@ var locations = []; //array for meeting locations
 var cleanLocations = []; //array for cleaning locations
 var details = []; // array for meeting details
 var cleanDetails = []; //array for cleaning meetings details
-
-
-
 
 var content = fs.readFileSync('/home/ubuntu/workspace/data/aameetinglist02M.txt') //load website text
 
@@ -107,4 +103,6 @@ $('tbody').find('tr').each(function(i, elem) {
             return console.log('Error');
     });
 });
-}
+
+
+
