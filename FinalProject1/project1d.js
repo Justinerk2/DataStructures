@@ -39,21 +39,18 @@ MongoClient.connect(url, function(err, db) {
                                 }]
                             }
                         ],
-                        { $group : {  _id : { 
+                         $group : {  _id : { 
             meetingName : "$meetingName",
-            meetingAddress : "$meetingAddress",
-            meetingLocation: "$meetingLocation"
-            directions : "$directions",
-            details : "$details",
-            meetingAccess : "$meetingAccess",
-            latLong : "$latLong"
-        }, 
-            meetingDay : { $push : "$meeting.meetingDay" },
-            meetingDayNum : { $push : "$meeting.meetingDayNumb" },
-            meetingStartTime : { $push : "$meeting.meetingStartTime" },
-            meetingEndTime : { $push: "$meetingEndTime"
-            meetingType : { $push : "$meeting.meetingType" },
-            specialInterest : { $push : "$meeting.meetingSpecialInt" }
+            Address : "$meetingAddress",
+            Location: "$meetingLocation",
+            details : "$meetingAddInfo",
+            wheelchairAccess : "$meetingwheelChairAccessable", 
+            Day : "$meeting.meetingDay" ,
+            DayNum :  "$meeting.meetingDayNumb" ,
+            StartTime :  "$meeting.meetingStartTime" ,
+            EndTime :  "$meetingEndTime",
+            meetingType : "$meeting.meetingType" ,
+            specialInterest :  "$meeting.meetingSpecialInt"
         }},
                     }
                 }].toArray(function(err, aameetings) {
