@@ -23,6 +23,7 @@
             if clauses to coorespond numbers to days
             add meeting days to object
             add meeting days numbers to object
+            if clauses to alter times to numbers (remove AM/ PM, make PM + 12 hours) and seperate hours and minutes **Have not finished
             add meeting start times to object
             add meeting end times to object
             add meeting type to object
