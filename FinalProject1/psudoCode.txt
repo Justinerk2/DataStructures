@@ -1,0 +1,107 @@
+1a. Creating array of object holding all the meeting information
+    Request, fs, cheerio to use later
+    Global Varaibles
+        array (meetingsDetails) to help seperate out the days, times, meeting types, and special interests
+        array (daysNumb) to add a numerical value for days
+        array (meetings) for object, when all finished creating object
+    load cleanMeetingNames content from project1c.js
+    load cleanAddresses content from project1b.js (text file)
+    load content into variable fs.readFileSync
+    load content into cheero
+    Use cheerio to parse though the table
+        create an object for meetings
+        put meeting names into object (from cleaned meeting names loaded above)
+        put addresses into object (from cleaned addresses loaded above)
+        put meeting details into array to seperate before putting into object
+            run a loop to parse through meeting details array
+            pull out days and clean (glitch meeting day "s" does not pull becuase of if clause)
+            pull out start times and clean
+            pull out end times and clean
+            pull out meeting type and clean
+            for loop for special interests
+                pull out special interests and clean
+            if clauses to coorespond numbers to days
+            add meeting days to object
+            add meeting days numbers to object
+            add meeting start times to object
+            add meeting end times to object
+            add meeting type to object
+            add meeting special interests to object and use function to replace missing values
+        put wheelchair accessablity into object and clean it and use function to fix values
+        put additional meeting info into object and clean it
+    push object(meetingsObj) into the meetings array
+    write text file of meetings array
+        if error throw error
+        state in what was added to the text file
+    function to replace missing values for special interests
+    function to clean wheelchair accessable and not accessable values
+    
+1b. Cleaning Addresses and Using google API to get Lat and Long
+    Request, fs, async, cheerio to use later
+    Global Varaibles
+        API key varaible to get access to google API
+        addresses array for pulling in the addresses into before cleaning
+        addressClean array for full addresses including lat and long
+        cleanAddresses array for final clean and full addresses
+    load content into variable fs.readFileSync
+    load content into cheero
+    Use cheerio to parse though the table
+        Pull the first line of the address
+        for loop of addresses to clean
+            clean addresses by taking the first thing before the comma, adding New York, NY, breaking up everything by spaces to use a + instead
+        use async to go through google api in order given of clean addresses
+            create a varaible for api request, made of url and api key
+            create an object for each meeting address (thisMeeting)
+            request API to get lat and long
+                if there is an error throw error
+                if there are no results put it in the console
+                else retrun the latitude and longitude in the This meeting object
+                push the object into the cleanAddresses array
+        use setTimeout to show down results for the API
+        create text file of clean addresses
+            if error throw error
+            state in what was added to the text file
+
+1c. Cleaning Meeting Names
+    Request, fs, cheerio to use later
+    Global Varaibles
+        array for clean meeting names (cleanMeetings)
+    load content into variable fs.readFileSync
+    load content into cheero
+    Use cheerio to parse though the table
+        Pull the meeting names and clean them
+            replace odd symbols, specific name issues, and trimming
+        Remove repeting name (seperated by -)
+            second variable for the second part of the name (broken up by -)
+            first variable for the first part of the meeting name (broken up by -)
+            
+            if the first part matches the second (when the second is all uppercase), then add the first part into the clean meetings array
+            if the second part is not there, add only the first part into the clean meetings array
+            else make the second part uppercase and add the second part into the clean meetings array
+            return the clean meetings array
+    write a text file of clean meetings array
+        if error throw error
+        state in what was added to the text file
+
+1d. Using Mongo to pull out specific meeting information
+    call fs
+    global variables
+        pull in meeting object
+        url for mongodb
+        MongoClient call mongodb
+        connect to MongoClient
+        if error report in console
+        put collection in the aameetings collection
+        for loop to aggregate
+        aggregate
+            search for tuesday meetings that start at 7
+            and wednesdays
+        push to an array
+        if error display it in the console
+        if not show collection
+        close database
+1e. Pulling in AA Meeting DataDetails
+    call request and fs
+    request AA url
+    if no error write html file
+    else (error) write Error in console

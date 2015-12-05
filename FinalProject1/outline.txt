@@ -1,0 +1,82 @@
+Global variables (1)
+    Packages needed
+    API Google Url and API Key
+    Object
+    Array
+Pull in AAMeeting Data (html document) (21)
+Pull out useful information (and push each into Object)
+    Meeting Names
+    Addresses (first line)
+    Wheelchair accessable
+    Meeting Details
+        Meeting Time
+        Meetings Days
+        Meeting Type
+        Meeting Special Interests
+    Meeting Location
+    Additional Meeting Information (detailsBox)
+Clean up Data
+    Meeting Names (30, 44)
+        Remove double names
+        Remove odd symbols
+        standardize Capitalization
+        Trim off spaces
+        Push into Object
+    Addresses
+        Add to first line of address ",New York, NY"
+        Fix formating for the Google API
+        Use the Clean address to pull Latitude and Longitude coridnates from the Google API
+        Trim off spaces
+        Push into Object
+    Wheelchair accessable
+        Trim off the spaces
+        Make Wheelchair accessable into a boolean
+        Push into Object
+    Meeting Details
+        Need to seperate times, days, types, and special interests
+    Meeting Time
+        Pull out start and end times (From and To)
+        Trim off spaces
+        Push into Object
+    Meeting Days
+        Change Days into numbers (1-7)
+        Trim off spaces
+        Push into Object
+    Meeting Type
+        Pull out meeting types from times
+        Trim off spaces
+        Push into Object
+    Meeting Special Interest
+        Trim off spaces
+        Push into Object
+    Meeting Location
+        Remove symbols and clean up meeting locations
+        Replace @ with "at"
+        remove \s
+        Trim off spaces
+    Meeting Addtional Information
+        
+Process Data
+    Format data
+        Push information into Objects
+            Structure:
+            ID
+            Meeting Names
+            Location Names
+            Addresses
+            Latitude and Longitude
+            Meeting Type
+            Meeting Info
+            Days and Times
+            Wheelchair Accessiblity 
+        Push Objects into an array
+    Mongo
+        Put Array of Objects into a Database
+        Aggrigate data
+        Find current time
+        Find meetings for the rest of the day plus 4 hours of the next day
+        Change days and times into integers
+        Return All information on meetings that start currently and end 4 am next day
+            
+            
+            
