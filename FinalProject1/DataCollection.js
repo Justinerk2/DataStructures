@@ -25,7 +25,7 @@ $('table[cellpadding=5]').find('tbody').find('tr').each(function(i, elem) { //pu
 
                 meetingsObj.wheelChairAccessable = $(elem).find('span').eq(0).text().trim(); //fill array with wheelchair accessable information
 
-                meetingsObj.meetingAddInfo = $(elem).find('.detailsBox').eq(0).text().trim(); //fill meetingAddInfo with extra info about the meetings
+                meetingsObj.meetingAddInfo = $(elem).find('.detailsBox').eq(0).text().replace(/@/g, "at").trim(); //fill meetingAddInfo with extra info about the meetings
 
                 meetings.push(meetingsObj);
                 console.log(meetingsObj);

@@ -4,7 +4,8 @@ var async = require('async'); // call async
 
 var apiKey = 'AIzaSyBz-zx0VOedjDn7QlOR-BpoZqPovRMoIn0'; //api key, process.env.API_KEY; //api key calling from the enviornment
 
-var AddressLatLong = [];
+var meetingsObj = new Object;
+
 
 var meetingObj = JSON.parse(fs.readFileSync('/home/ubuntu/workspace/FinalProject1/aameetingsCleanData.txt'));
 
@@ -15,7 +16,6 @@ for (var i in meetingObj) {
 async.eachSeries(address, function(value, callback) { // eachSeries in the async module iterates over an array and operates on each item in the array in series
 
             var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + value.split(' ').join('+') + '&key=' + apiKey; // requesting API
-
         
          address = value;
 
@@ -32,11 +32,12 @@ async.eachSeries(address, function(value, callback) { // eachSeries in the async
 
                   var  latLong = JSON.parse(body).results[0].geometry.location;
                  console.log(latLong);
+                 meetingsObj[i].latLong;
+console.log(meetingsObj[i]);
                 }
             });
 
             setTimeout(callback, 500); //slowing downthe results so that the API rules are met
 
-    console.log(AddressLatLong);
 });
-        // fs.writeFileSync('/home/ubuntu/workspace/FinalProject1/cleanAddresses.txt', JSON.stringify(cleanAddresses))
+        fs.writeFileSync('/home/ubuntu/workspace/FinalProject1/MeetingscleanAddresses.txt', JSON.stringify(meetingsObj))

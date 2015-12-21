@@ -103,7 +103,7 @@
   ],
   "meetingLocation": "St Andrews Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays"
+  "meetingAddInfo": "atDuane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays"
  },
  {
   "meetingName": "A NEW DAY - A New Day",
@@ -973,7 +973,7 @@
   ],
   "meetingLocation": "Good Shepherd Faith Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Enter basement level @ red door on left side of the building."
+  "meetingAddInfo": "Enter basement level at red door on left side of the building."
  },
  {
   "meetingName": "CLEAN AND DRY - Clean And Dry",
@@ -1211,7 +1211,7 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions"
+  "meetingAddInfo": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215atyahoo.com for questions"
  },
  {
   "meetingName": "EXCHANGE VIEWS at ST. MARGARET'S HOUSE -",
@@ -1345,7 +1345,7 @@
   ],
   "meetingLocation": "West Side YMCA",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T 1st Saturday @ 12:30pm"
+  "meetingAddInfo": "T 1st Saturday at 12:30pm"
  },
  {
   "meetingName": "FIRST THINGS FIRST - First Things First",
@@ -2937,7 +2937,7 @@
   ],
   "meetingLocation": "Brick Church Parish House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Tue.8pm=Topic Round Robin, Anniv Last Fri.@ 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking."
+  "meetingAddInfo": "Tue.8pm=Topic Round Robin, Anniv Last Fri.at 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking."
  },
  {
   "meetingName": "PASSING THE BAR - Passing The Bar",
@@ -2952,7 +2952,7 @@
   ],
   "meetingLocation": "St. Andrew's Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE"
+  "meetingAddInfo": "*Business meeting last Tuesday at Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE"
  },
  {
   "meetingName": "PERRY STREET WORKSHOP - Perry Street Workshop",
@@ -3303,7 +3303,7 @@
   ],
   "meetingLocation": "St. James Episcopal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon.6pm & Thu.6pm Meetings end @ 6:50pm."
+  "meetingAddInfo": "Mon.6pm & Thu.6pm Meetings end at 6:50pm."
  },
  {
   "meetingName": "RIVERSIDE - Riverside",
@@ -4239,7 +4239,7 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com"
+  "meetingAddInfo": "Monday step - 3rd and 11th step workshop tribecagroup2014atgmail.com"
  },
  {
   "meetingName": "TRIBECA GROUP at ST. MARGARET'S HOUSE -",
@@ -4254,7 +4254,7 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com"
+  "meetingAddInfo": "this is the new location as of 9/8/14 tribecagroup2014atgmail.com"
  },
  {
   "meetingName": "TRINITY - Trinity",
@@ -4268,7 +4268,7 @@
   ],
   "meetingLocation": "Holy Trinity Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv Last Tuesday @ 7:15pm All meetings are non-smoking. Last Fri. @ 7PM = T"
+  "meetingAddInfo": "Anniv Last Tuesday at 7:15pm All meetings are non-smoking. Last Fri. at 7PM = T"
  },
  {
   "meetingName": "TUDOR - Tudor",

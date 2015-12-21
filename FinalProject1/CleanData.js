@@ -7,8 +7,8 @@ for (var i = 0; i < meetingObj.length; i++) {
 
     meetingObj[i].cleanMeetingAddress = cleanAddresses(meetingObj[i].meetingAddress);
     meetingObj[i].cleanMeetingDetails = cleanMeetingDet(splitDet(meetingObj[i].meetingDetails));
-    meetingObj[i].cleanMeetingNames = cleanMeetingNames(meetingObj[i].meetingName);
-    console.log(meetingObj[i].meetingDetails);
+    meetingObj[i].cleanMeetingName = cleanMeetingNames(meetingObj[i].meetingName);
+    console.log(meetingObj[i]);
 }
 
 function cleanAddresses(oldAddress) {

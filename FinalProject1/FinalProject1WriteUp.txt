@@ -1,0 +1,39 @@
+Final Project 1
+Mongo returns specific time related meeting data which includes the Latitude and Longitude gathered from the google API (collected using the first line of the address, in the GoogleAPI.js file). Using the Latitude and Longitude values I would then use a for loop to run through each meeting in the object and add each marker to the map. Bellow is the general javascript for the Google API markers, which I have filled out the basic structure of what information will be listed.  Instead of myLatLng I would have an array of latitude and longitude values for each meeting location (each meeting in the same location need to be consolidated. I would then alter the marker function to include meeting details, and change the title to the meeting name (with multiple meeting names for locations with multiple meetings).  The display text would have the important information from the meetings, which is in the meeting object including wheelchair accessibility, start and end times, days (since we will continue until 4am the next day), meeting type, special interests, location details, and any additional information provided. After placing all these values in from the Mongo queried object, the Google API will display the markers.
+function initMap() {
+  var meetingLatLong = {lat: -25.363, lng: 131.044};
+  var aamap = new google.maps.Map(document.getElementById('aamap'), {
+    zoom: 4,
+    center: meetingLatLong
+  });
+
+  var contentString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">MeetingName</h1>'+
+      '<div id="bodyContent">'+
+      '<p><b>Meeting Location</b> Meeting Location information' +
+     
+      '<b>Wheel Chair Accessibility </b> Boolean of Wheel Chair Accessible or Not Wheel Chair Accessible'+
+      '<b>Times</b> Day: Start Time – End Time'+
+     '<b>Meeting Type</b> Meeting Type(if one, if not, then No Meeting Type)'+
+'<b> Special Interest</b> Meeting special interest information(if one, if not, then remove special interest section)'+
+'<b>Additional Information</b> Additional Meeting information '+      'Manhattan AA Meeting Site.</p>'+
+      '<p>Attribution: Uluru, <a href="https:// http://www.nyintergroup.org/meetinglist/meetinglist.cfm?searchstr=&Search=Search&borough=M&zone=Zone&zipcode=Zip+Code&day=&StartTime=&EndTime=&meetingtype=&SpecialInterest='</a> '+
+      '</div>'+
+      '</div>';
+
+  var infowindow = new google.maps.InfoWindow({
+    content: contentString
+  });
+
+  var marker = new google.maps.Marker({
+    position: meetingLatLong,
+    map: map,
+    title: ‘Meeting Title'
+  });
+  marker.addListener('click', function() {
+    infowindow.open(map, marker);
+  });
+}
+
