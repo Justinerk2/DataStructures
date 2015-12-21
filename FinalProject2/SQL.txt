@@ -1,7 +1,8 @@
 CREATE TABLE tempData (
 id int,
 dateTime timestamp DEFAULT current_timestamp,
-buttonVal Boolean,
 temp varchar(30));
 INSERT INTO tempData
-FROM VALUES (1,DEFAULT,true,75);
+FROM VALUES (1,DEFAULT,75 degreesF);
+
+creating table with 3 columns (ID number, TimeStamp, Temperature)

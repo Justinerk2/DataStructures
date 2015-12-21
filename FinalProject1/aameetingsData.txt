@@ -136,7 +136,7 @@
  },
  {
   "meetingName": "A NEW WAY OF LIVING - A New Way Of Living",
-  "meetingAddress": "701 West 168th Street @ Fort Washington Avenue,",
+  "meetingAddress": "701 West 168th Street , Fort Washington Avenue,",
   "meetingDetails": [
    "<b>Mondays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>BB = Big Book meeting",
    "<b>Tuesdays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -174,7 +174,7 @@
  },
  {
   "meetingName": "AA TRADITIONS AND HISTORY -",
-  "meetingAddress": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign.,",
+  "meetingAddress": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign,,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>T = Tradition meeting",
    ""
@@ -254,7 +254,7 @@
   "meetingAddInfo": "Gay & Lesbian Focus.  All are welcome."
  },
  {
-  "meetingName": "AFTER EIGHT (:i) - After Eight",
+  "meetingName": "AFTER EIGHT  - After Eight",
   "meetingAddress": "422 West 57th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:30 PM<b>to</b>7:45 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -265,7 +265,7 @@
   "meetingAddInfo": "Tues= AA Literature/Topic meeting The group's focus is on long-term sobriety; but all A.A. members are welcome."
  },
  {
-  "meetingName": "AFTER EIGHT (:ii) -",
+  "meetingName": "AFTER EIGHT  -",
   "meetingAddress": "164 West 74th Street, 1st floor, \r\n\t\t\t\t\t\t10023",
   "meetingDetails": [
    "<b>Thursdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>AA Literature",
@@ -403,8 +403,8 @@
   "meetingAddInfo": "T - Last Friday, Anniversary-Last Saturday."
  },
  {
-  "meetingName": "ANNEX (:I) - Annex (:I)",
-  "meetingAddress": "441 West 26th Street, 2nd Fl., Activity Room A,",
+  "meetingName": "ANNEX  - Annex (:I)",
+  "meetingAddress": "441 West 26th Street, 2nd Fl,, Activity Room A,",
   "meetingDetails": [
    "<b>Saturdays From</b>3:00 PM<b>to</b>4:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    ""
@@ -414,7 +414,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "ANNEX (:II) - Annex (:II)",
+  "meetingName": "ANNEX  - Annex (:II)",
   "meetingAddress": "446 West 33rd Street, 6th Floor, Room #6046,",
   "meetingDetails": [
    "<b>Tuesdays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>O = Open meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -448,7 +448,7 @@
  },
  {
   "meetingName": "ARTISTS IN RECOVERY (A.R.T.) -",
-  "meetingAddress": "232 W. 11th Street,",
+  "meetingAddress": "232 W, 11th Street,",
   "meetingDetails": [
    "<b>Sundays From</b>6:30 PM<b>to</b>7:45 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
@@ -502,7 +502,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "ATLANTIC GROUP (:I) - Atlantic (:I)",
+  "meetingName": "ATLANTIC GROUP  - Atlantic (:I)",
   "meetingAddress": "520 Park Avenue,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>O = Open meeting",
@@ -513,8 +513,8 @@
   "meetingAddInfo": "Three speaker"
  },
  {
-  "meetingName": "ATLANTIC GROUP (:II) -",
-  "meetingAddress": "337 E. 74th St.,",
+  "meetingName": "ATLANTIC GROUP  -",
+  "meetingAddress": "337 E, 74th St.,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
@@ -535,8 +535,8 @@
   "meetingAddInfo": "Two speaker"
  },
  {
-  "meetingName": "ATLANTIC WEST STEP & TRADITION - Atlantic West Step & Tradition",
-  "meetingAddress": "4 West 76th Street. Meeting in the gym.,",
+  "meetingName": "ATLANTIC WEST STEP and TRADITION - Atlantic West Step & Tradition",
+  "meetingAddress": "4 West 76th Street, Meeting in the gym.,",
   "meetingDetails": [
    "<b>Fridays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
@@ -701,7 +701,7 @@
   "meetingAddInfo": "*Open Last Friday Check with front desk security for meeting room location."
  },
  {
-  "meetingName": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+  "meetingName": "BRIDGE TO SOBRIETY  - Bridge To Sobriety",
   "meetingAddress": "715 West 179th Street,",
   "meetingDetails": [
    "<b>Wednesdays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -716,7 +716,7 @@
   "meetingAddInfo": "Living Sober Last Tuesday, T Last Wednesday"
  },
  {
-  "meetingName": "BRIDGE TO SOBRIETY (:II) -",
+  "meetingName": "BRIDGE TO SOBRIETY  -",
   "meetingAddress": "715 West 179th Street,",
   "meetingDetails": [
    "<b>Sundays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>S = Step meeting",
@@ -762,7 +762,7 @@
  },
  {
   "meetingName": "CAMPUS CHEER - Campus Cheer",
-  "meetingAddress": "601 West 114th Street, (2nd Red Door), \r\n\t\t\t\t\t\tNY 10025",
+  "meetingAddress": "601 West 114th Street, ,2nd Red Door), \r\n\t\t\t\t\t\tNY 10025",
   "meetingDetails": [
    "<b>Tuesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    "<b>Thursdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -822,7 +822,7 @@
  },
  {
   "meetingName": "CENTRAL PARK WEST - Central Park West",
-  "meetingAddress": "Central Park West &amp; 76th Street - basement gymnasium,",
+  "meetingAddress": "Central Park West &amp; 76th Street , basement gymnasium,",
   "meetingDetails": [
    "<b>Tuesdays From</b>8:15 PM<b>to</b>9:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
@@ -833,7 +833,7 @@
  },
  {
   "meetingName": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
-  "meetingAddress": "20 Cardinal Hayes Place, Enter through driveway behind Church.,",
+  "meetingAddress": "20 Cardinal Hayes Place, Enter through driveway behind Church,,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Fridays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -846,7 +846,7 @@
   "meetingAddInfo": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group"
  },
  {
-  "meetingName": "CHAPTER FIVE - Chapter Five (:I)",
+  "meetingName": "CHAPTER FIVE - Chapter Five",
   "meetingAddress": "1296 Lexington Avenue, Basement,",
   "meetingDetails": [
    "<b>Wednesdays From</b>7:15 AM<b>to</b>8:15 AM<br><b>Meeting Type</b>S = Step meeting",
@@ -868,7 +868,7 @@
  },
  {
   "meetingName": "CHELSEA MORNINGS -",
-  "meetingAddress": "346 W. 20th Street,",
+  "meetingAddress": "346 W, 20th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>8:00 AM<b>to</b>9:00 AM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Mondays From</b>8:00 AM<b>to</b>9:00 AM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -896,7 +896,7 @@
  },
  {
   "meetingName": "CHELSEA RIVERSIDE -",
-  "meetingAddress": "5 West 63rd Street, Downstairs in large meeting room.,",
+  "meetingAddress": "5 West 63rd Street, Downstairs in large meeting room,,",
   "meetingDetails": [
    "<b>Mondays From</b>7:30 PM<b>to</b>8:45 PM<br><b>Meeting Type</b>O = Open meeting",
    "<b>Mondays From</b>9:00 PM<b>to</b>10:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -920,7 +920,7 @@
  },
  {
   "meetingName": "CHOCK FULL OF SOBRIETY -",
-  "meetingAddress": "4 West 76th Street, (In the gym),",
+  "meetingAddress": "4 West 76th Street, ,In the gym),",
   "meetingDetails": [
    "<b>Fridays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
@@ -954,8 +954,8 @@
   "meetingAddInfo": "T -7:30am last Mon., Anniv -12:30 Last Thursday"
  },
  {
-  "meetingName": "CLASSEN HALL (:II) - Classen Hall (:II)",
-  "meetingAddress": "160 Central Park West, Gym basement.,",
+  "meetingName": "CLASSEN HALL  - Classen Hall (:II)",
+  "meetingAddress": "160 Central Park West, Gym basement,,",
   "meetingDetails": [
    "<b>Sundays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
@@ -1199,7 +1199,7 @@
   "meetingAddInfo": "T Last Wednesday"
  },
  {
-  "meetingName": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+  "meetingName": "EXCHANGE VIEWS at JOHN STREET CHURCH -",
   "meetingAddress": "44 John Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>S = Step meeting",
@@ -1214,7 +1214,7 @@
   "meetingAddInfo": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions"
  },
  {
-  "meetingName": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+  "meetingName": "EXCHANGE VIEWS at ST. MARGARET'S HOUSE -",
   "meetingAddress": "49 Fulton Street,",
   "meetingDetails": [
    "<b>Mondays From</b>6:30 AM<b>to</b>7:30 AM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Topic",
@@ -1292,7 +1292,7 @@
  },
  {
   "meetingName": "FELLOWSHIP AT NOON - Fellowship At Noon",
-  "meetingAddress": "2044 Adam Clayton Powell Blvd.,",
+  "meetingAddress": "2044 Adam Clayton Powell Blvd,,",
   "meetingDetails": [
    "<b>Mondays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Wednesdays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>S = Step meeting",
@@ -1315,7 +1315,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY - Fireside",
+  "meetingName": "FIRESIDE  WEEKDAY MEETINGS ONLY - Fireside",
   "meetingAddress": "422 West 57th Street,",
   "meetingDetails": [
    "<b>Wednesdays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -1335,7 +1335,7 @@
   "meetingAddInfo": "Tue.12:30 = T 1st Tuesday Beginners upstairs; other meetings in the chapel"
  },
  {
-  "meetingName": "FIRESIDE (:II) WEEKEND MEETINGS ONLY -",
+  "meetingName": "FIRESIDE  WEEKEND MEETINGS ONLY -",
   "meetingAddress": "5 West 63rd Street,",
   "meetingDetails": [
    "<b>Saturdays From</b>10:30 AM<b>to</b>11:30 AM<br><b>Meeting Type</b>S = Step meeting<br><b>Special Interest</b>First Step Workshop",
@@ -1446,7 +1446,7 @@
  },
  {
   "meetingName": "FRIDAY DOWNTOWN - Friday Downtown",
-  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church,,",
   "meetingDetails": [
    "<b>Fridays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    ""
@@ -1456,7 +1456,7 @@
   "meetingAddInfo": "Note: Location Subject to change"
  },
  {
-  "meetingName": "FRIDAY NIGHT GAY MEN & WOMEN - Friday Night Gay Men & Women",
+  "meetingName": "FRIDAY NIGHT GAY MEN and WOMEN - Friday Night Gay Men & Women",
   "meetingAddress": "351 East 74th Street, 2nd Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>S = Step meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -1859,7 +1859,7 @@
  },
  {
   "meetingName": "HELL'S KITCHEN - Hell's Kitchen",
-  "meetingAddress": "1000 Tenth Avenue, 8th Floor (Room #8G49,",
+  "meetingAddress": "1000 Tenth Avenue, 8th Floor ,Room #8G49,",
   "meetingDetails": [
    "<b>Mondays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    "<b>Thursdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -1893,7 +1893,7 @@
  },
  {
   "meetingName": "HUMANISTS TOO -",
-  "meetingAddress": "65 East 89th Street - Rectory basement, \r\n\t\t\t\t\t\t10128",
+  "meetingAddress": "65 East 89th Street , Rectory basement, \r\n\t\t\t\t\t\t10128",
   "meetingDetails": [
    "<b>Mondays From</b>6:15 PM<b>to</b>7:15 PM<br><b>Special Interest</b>Agnostic",
    ""
@@ -2025,7 +2025,7 @@
  },
  {
   "meetingName": "LEARNING TO LIVE ( :1) -",
-  "meetingAddress": "307 W. 26th St.,",
+  "meetingAddress": "307 W, 26th St.,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:00 PM<b>to</b>1:00 AM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Promises",
    "<b>Fridays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -2050,7 +2050,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "LEARNING TO LIVE (:I) - Learning To Live",
+  "meetingName": "LEARNING TO LIVE  - Learning To Live",
   "meetingAddress": "307 West 26th Street,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Promises",
@@ -2138,8 +2138,8 @@
   "meetingAddInfo": "S 2nd, BB 3rd, OD 4th, Living Sober 5th wk."
  },
  {
-  "meetingName": "LIVING NOW - Living Now (:II)",
-  "meetingAddress": "80 St. Mark&apos;s Place, 2nd Floor,",
+  "meetingName": "LIVING NOW - Living Now",
+  "meetingAddress": "80 St, Mark&apos;s Place, 2nd Floor,",
   "meetingDetails": [
    "<b>Saturdays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>O = Open meeting",
    "<b>Sundays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -2186,7 +2186,7 @@
  },
  {
   "meetingName": "LUNCH BUNCH - Lunch Bunch",
-  "meetingAddress": "141 East 43rd Street, Basement Hall, elevator is available.,",
+  "meetingAddress": "141 East 43rd Street, Basement Hall, elevator is available,,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    "<b>Fridays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -2201,7 +2201,7 @@
  },
  {
   "meetingName": "LUNCHTIME EXPRESS AT THE MUSTARD SEED -",
-  "meetingAddress": "122 E 37TH St.,",
+  "meetingAddress": "122 E 37TH St,,",
   "meetingDetails": [
    "<b>Wednesdays From</b>12:30 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>O = Open meeting",
    ""
@@ -2437,7 +2437,7 @@
  },
  {
   "meetingName": "MIRACLE - Miracle",
-  "meetingAddress": "422 W. 57th St.,",
+  "meetingAddress": "422 W, 57th St.,",
   "meetingDetails": [
    "<b>Mondays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
@@ -2506,7 +2506,7 @@
  },
  {
   "meetingName": "MORNING REFLECTIONS -",
-  "meetingAddress": "351 East 74th Street,  2nd Floor - Front Room,",
+  "meetingAddress": "351 East 74th Street,  2nd Floor , Front Room,",
   "meetingDetails": [
    "<b>Mondays From</b>9:30 AM<b>to</b>10:30 AM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Daily Reflections",
    "<b>Tuesdays From</b>9:30 AM<b>to</b>10:30 AM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Daily Reflections",
@@ -2557,7 +2557,7 @@
   "meetingAddInfo": "No Meetings on Legal Holidays."
  },
  {
-  "meetingName": "MUSTARD SEED - Mustard Seed (:I)",
+  "meetingName": "MUSTARD SEED - Mustard Seed",
   "meetingAddress": "122 East 37th Street,  Basement,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:15 AM<b>to</b>7:15 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -2629,7 +2629,7 @@
  },
  {
   "meetingName": "N.Y.U. (NOW YOU UNDERSTAND) - N.Y.U. (Now You Understand)",
-  "meetingAddress": "7 East 10th Street, 2nd Floor (Note: A photo ID is required to enter the building.),",
+  "meetingAddress": "7 East 10th Street, 2nd Floor ,Note: A photo ID is required to enter the building,),",
   "meetingDetails": [
    "<b>Mondays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    "<b>Tuesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -2715,7 +2715,7 @@
  },
  {
   "meetingName": "NEW GROUP - New Group",
-  "meetingAddress": "83 Christopher Street (Red Door, Left of Church),",
+  "meetingAddress": "83 Christopher Street ,Red Door, Left of Church),",
   "meetingDetails": [
    "<b>Sundays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>O = Open meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
    "<b>Wednesdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -2795,7 +2795,7 @@
  },
  {
   "meetingName": "NINJAS IN RECOVERY -",
-  "meetingAddress": "25 East 15th- Conference Room H, \r\n\t\t\t\t\t\t10003",
+  "meetingAddress": "25 East 15th, Conference Room H, \r\n\t\t\t\t\t\t10003",
   "meetingDetails": [
    "<b>Wednesdays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
@@ -2805,7 +2805,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "NINTH AVENUE (:I) - Ninth Avenue (:I)",
+  "meetingName": "NINTH AVENUE  - Ninth Avenue (:I)",
   "meetingAddress": "296 9th Avenue, 2nd Floor,",
   "meetingDetails": [
    "<b>Wednesdays From</b>6:15 PM<b>to</b>7:15 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -2821,7 +2821,7 @@
   "meetingAddInfo": "Business meeting held on 1st Monday at 7:45pm LGBTQ Friendly.  All are welcome."
  },
  {
-  "meetingName": "NINTH AVENUE (:II) - Ninth Avenue (:II)",
+  "meetingName": "NINTH AVENUE  - Ninth Avenue (:II)",
   "meetingAddress": "175 9th Avenue, 1st and 2nd Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -2874,7 +2874,7 @@
   "meetingAddInfo": "Women's Meeting."
  },
  {
-  "meetingName": "OXFORD (:I) - Oxford",
+  "meetingName": "OXFORD  - Oxford",
   "meetingAddress": "26 West 84th Street,",
   "meetingDetails": [
    "<b>s From</b>12:00 AM<b>to</b>12:00 AM",
@@ -2903,7 +2903,7 @@
   "meetingAddInfo": "Tue.6:45pm=T Last Tue. Meeting moved temporarily due to construction In the Gregory Sanctuary"
  },
  {
-  "meetingName": "PARK BENCH (:I) -",
+  "meetingName": "PARK BENCH  -",
   "meetingAddress": "1 West 53rd Street, 3rd Floor, \r\n\t\t\t\t\t\t10019",
   "meetingDetails": [
    "<b>Tuesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -2914,7 +2914,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "PARK BENCH (:II) -",
+  "meetingName": "PARK BENCH  -",
   "meetingAddress": "865 Madison Avenue, 3rd Floor,",
   "meetingDetails": [
    "<b>Wednesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -2941,7 +2941,7 @@
  },
  {
   "meetingName": "PASSING THE BAR - Passing The Bar",
-  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church,,",
   "meetingDetails": [
    "<b>Mondays From</b>1:15 PM<b>to</b>2:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Tuesdays From</b>1:15 PM<b>to</b>2:15 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -2955,7 +2955,7 @@
   "meetingAddInfo": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE"
  },
  {
-  "meetingName": "PERRY STREET WORKSHOP - Perry Street Workshop (:I)",
+  "meetingName": "PERRY STREET WORKSHOP - Perry Street Workshop",
   "meetingAddress": "50 Perry Street, Ground Floor,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Meeting Type</b>S = Step meeting",
@@ -3154,7 +3154,7 @@
  },
  {
   "meetingName": "PROMISES TWO FOR ONE - Promises Two For One",
-  "meetingAddress": "1727 Amsterdam Avenue, 1st Floor in the rear.,",
+  "meetingAddress": "1727 Amsterdam Avenue, 1st Floor in the rear,,",
   "meetingDetails": [
    "<b>Sundays From</b>9:30 AM<b>to</b>10:30 AM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Sundays From</b>11:00 AM<b>to</b>12:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -3230,7 +3230,7 @@
  },
  {
   "meetingName": "RED DOOR - Red Door",
-  "meetingAddress": "224 Waverly Place, 1st floor event room.,",
+  "meetingAddress": "224 Waverly Place, 1st floor event room,,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
    "<b>Fridays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Promises",
@@ -3307,7 +3307,7 @@
  },
  {
   "meetingName": "RIVERSIDE - Riverside",
-  "meetingAddress": "91 Claremont Avenue,  @ The Cloisters Club Room,",
+  "meetingAddress": "91 Claremont Avenue,  , The Cloisters Club Room,",
   "meetingDetails": [
    "<b>Mondays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
@@ -3330,7 +3330,7 @@
   "meetingAddInfo": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings."
  },
  {
-  "meetingName": "ROOM FOR IMPROVEMENT (:I) - Room For Improvement",
+  "meetingName": "ROOM FOR IMPROVEMENT  - Room For Improvement",
   "meetingAddress": "154 Sullivan Street,",
   "meetingDetails": [
    "<b>Mondays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -3345,7 +3345,7 @@
   "meetingAddInfo": "Wed.=Topic, Thu.=Promises & Fri.=T Last Fri."
  },
  {
-  "meetingName": "ROOM FOR IMPROVEMENT (:II) -",
+  "meetingName": "ROOM FOR IMPROVEMENT  -",
   "meetingAddress": "273 Bowery Street, \r\n\t\t\t\t\t\t10012",
   "meetingDetails": [
    "<b>Sundays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Special Interest</b>Topic",
@@ -3358,7 +3358,7 @@
  },
  {
   "meetingName": "ROOSEVELT ISLAND SERENITY -",
-  "meetingAddress": "Church of the Good Shepard, 543 Main St., Basement 10044,",
+  "meetingAddress": "Church of the Good Shepard, 543 Main St,, Basement 10044,",
   "meetingDetails": [
    "<b>Saturdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
@@ -3369,7 +3369,7 @@
  },
  {
   "meetingName": "ROUTES -",
-  "meetingAddress": "164 West 74 Street, 1st Floor, (ask at Front Desk),",
+  "meetingAddress": "164 West 74 Street, 1st Floor, ,ask at Front Desk),",
   "meetingDetails": [
    "<b>Saturdays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -3392,7 +3392,7 @@
  },
  {
   "meetingName": "S.O.B.E.R. -",
-  "meetingAddress": "22 Barclay Street (Basement),",
+  "meetingAddress": "22 Barclay Street ,Basement),",
   "meetingDetails": [
    "<b>Thursdays From</b>7:30 PM<b>to</b>8:45 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    ""
@@ -3492,7 +3492,7 @@
  },
  {
   "meetingName": "SAVE HER A SEAT - Save Her A Seat",
-  "meetingAddress": "12 West 12th Street, 6th Floor-Roof Level,",
+  "meetingAddress": "12 West 12th Street, 6th Floor,Roof Level,",
   "meetingDetails": [
    "<b>Fridays From</b>6:30 PM<b>to</b>7:45 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Women",
    "<b>Tuesdays From</b>7:15 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Women",
@@ -3541,7 +3541,7 @@
  },
  {
   "meetingName": "SERENITY EAST - Serenity East",
-  "meetingAddress": "230 East 60th Street (Basement) ,",
+  "meetingAddress": "230 East 60th Street ,Basement) ,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Meeting Type</b>BB = Big Book meeting",
    "<b>Fridays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>S = Step meeting",
@@ -3553,7 +3553,7 @@
   "meetingAddInfo": "Fri.6:30=Steps 3 & 11"
  },
  {
-  "meetingName": "SERENITY EAST (:I) -",
+  "meetingName": "SERENITY EAST  -",
   "meetingAddress": "244 East 58th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>5:30 PM<b>to</b>6:30 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -3564,7 +3564,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop (:I)",
+  "meetingName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop",
   "meetingAddress": "413 East 79th Street,  Basement,",
   "meetingDetails": [
    "<b>Fridays From</b>6:00 AM<b>to</b>7:00 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -3727,7 +3727,7 @@
   "meetingAddInfo": "T Last Tue., Fri=Topic, Sat=11th Step Meditation"
  },
  {
-  "meetingName": "SOHO (:I) -",
+  "meetingName": "SOHO  -",
   "meetingAddress": "155 Sullivan Street, Basement,",
   "meetingDetails": [
    "<b>Fridays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Interpreted for the Deaf",
@@ -3867,7 +3867,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "STRAIGHT 12 (:II) DOWNTOWN SATURDAY NIGHT -",
+  "meetingName": "STRAIGHT 12  DOWNTOWN SATURDAY NIGHT -",
   "meetingAddress": "80 5th Avenue, 14th Floor, Room #1408C,",
   "meetingDetails": [
    "<b>Saturdays From</b>6:15 PM<b>to</b>7:15 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -3890,7 +3890,7 @@
  },
  {
   "meetingName": "SUNDAY AT SIX - Sunday At Six",
-  "meetingAddress": "116 W. 11th Street, Cafeteria,",
+  "meetingAddress": "116 W, 11th Street, Cafeteria,",
   "meetingDetails": [
    "<b>Sundays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>BB = Big Book meeting",
    ""
@@ -3967,7 +3967,7 @@
  },
  {
   "meetingName": "SURVIVORS IN SOBRIETY -",
-  "meetingAddress": "10 East Union Square, 4th Floor, Conf.Rm.#4A18,",
+  "meetingAddress": "10 East Union Square, 4th Floor, Conf,Rm.#4A18,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Special Purpose Groups",
    ""
@@ -3989,7 +3989,7 @@
  },
  {
   "meetingName": "SVOBODA -",
-  "meetingAddress": "206-208 East 11th Street,",
+  "meetingAddress": "206,208 East 11th Street,",
   "meetingDetails": [
    "<b>Sundays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>As Bill Sees It",
    "<b>Mondays From</b>7:00 PM<b>to</b>8:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -4001,7 +4001,7 @@
   "meetingAddInfo": "Sunday=As Bill Sees It Ukrainian language translation is available if needed."
  },
  {
-  "meetingName": "TOGETHERNESS & ACTION -",
+  "meetingName": "TandA-TOGETHERNESS & ACTION -",
   "meetingAddress": "232 West 11th Street, Basement,",
   "meetingDetails": [
    "<b>Mondays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Special Interest</b>Women",
@@ -4012,7 +4012,7 @@
   "meetingAddInfo": "Literature"
  },
  {
-  "meetingName": "T.G.I.F. & S. - T.G.I.F. & S.",
+  "meetingName": "T.G.I.F. and S. - T.G.I.F. & S.",
   "meetingAddress": "123 East 15th Street, 2nd Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -4140,7 +4140,7 @@
  },
  {
   "meetingName": "THE MEN UPSTAIRS -",
-  "meetingAddress": "178 Bennett Avenue, 2nd Floor (Lorenz Library),",
+  "meetingAddress": "178 Bennett Avenue, 2nd Floor ,Lorenz Library),",
   "meetingDetails": [
    "<b>Mondays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Men",
    ""
@@ -4231,7 +4231,7 @@
   "meetingAddInfo": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full"
  },
  {
-  "meetingName": "TRIBECA GROUP @ Elizabeth Seton Shrine - Tribeca",
+  "meetingName": "TRIBECA GROUP at Elizabeth Seton Shrine - Tribeca",
   "meetingAddress": "7 State Street,",
   "meetingDetails": [
    "<b>Wednesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -4242,7 +4242,7 @@
   "meetingAddInfo": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com"
  },
  {
-  "meetingName": "TRIBECA GROUP @ ST. MARGARET'S HOUSE -",
+  "meetingName": "TRIBECA GROUP at ST. MARGARET'S HOUSE -",
   "meetingAddress": "49 Fulton Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -4258,7 +4258,7 @@
  },
  {
   "meetingName": "TRINITY - Trinity",
-  "meetingAddress": "341 East 87th Street,  Choir Room (Ring Bell),",
+  "meetingAddress": "341 East 87th Street,  Choir Room ,Ring Bell),",
   "meetingDetails": [
    "<b>Fridays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>S = Step meeting",
    "<b>Tuesdays From</b>7:15 PM<b>to</b>8:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -4294,7 +4294,7 @@
  },
  {
   "meetingName": "TUESDAY SOBER AGNOSTICS -",
-  "meetingAddress": "134 West 29th Street - 2nd floor Studio 203, \r\n\t\t\t\t\t\t10001",
+  "meetingAddress": "134 West 29th Street , 2nd floor Studio 203, \r\n\t\t\t\t\t\t10001",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Agnostic",
    ""
@@ -4386,7 +4386,7 @@
   "meetingAddInfo": "Sun.5:30pm meets only on the last Sunday of the month No Prayers - All Welcome - Check listing for Rm #"
  },
  {
-  "meetingName": "VILLAGE OPEN DISCUSSION (V.O.D.) - Village Open Discussion",
+  "meetingName": "VILLAGE OPEN DISCUSSION  - Village Open Discussion",
   "meetingAddress": "12 West 12th Street, Third Floor,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -4397,7 +4397,7 @@
   "meetingAddInfo": "1st & 3rd Wk=Step/Big Book , 2nd & 4th Wk=Promises"
  },
  {
-  "meetingName": "VILLAGE SOBER - OVER & UNDER 60 -",
+  "meetingName": "VILLAGE SOBER - OVER and UNDER 60 -",
   "meetingAddress": "20 Washington Square North, 2nd Floor,",
   "meetingDetails": [
    "<b>Thursdays From</b>3:30 PM<b>to</b>4:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -4408,7 +4408,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "WASHINGTON HEIGHTS (:I) - Washington Heights (:I)",
+  "meetingName": "WASHINGTON HEIGHTS  - Washington Heights (:I)",
   "meetingAddress": "715 West 179th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>O = Open meeting",
@@ -4419,7 +4419,7 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "WASHINGTON HEIGHTS (:II) - Washington Heights (:II)",
+  "meetingName": "WASHINGTON HEIGHTS  - Washington Heights (:II)",
   "meetingAddress": "189th Street &amp; Bennett Avenue, Kitchen,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -4520,7 +4520,7 @@
  },
  {
   "meetingName": "WEST 58th STREET STEP - West 58th Street Step",
-  "meetingAddress": "1000 Tenth Avenue, 8th Fl, Room #8G-49,",
+  "meetingAddress": "1000 Tenth Avenue, 8th Fl, Room #8G,49,",
   "meetingDetails": [
    "<b>Fridays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
@@ -4578,7 +4578,7 @@
  },
  {
   "meetingName": "WESTSIDE YOUNG PEOPLE - Westside Young People",
-  "meetingAddress": "26 West 84th Street, Stanford Room (blue door),",
+  "meetingAddress": "26 West 84th Street, Stanford Room ,blue door),",
   "meetingDetails": [
    "<b>Saturdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Young People",
    ""
@@ -4588,7 +4588,7 @@
   "meetingAddInfo": "Anniv. Meeting Last Saturday."
  },
  {
-  "meetingName": "WESTWINGERS - Westwingers (:I)",
+  "meetingName": "WESTWINGERS - Westwingers",
   "meetingAddress": "208 West 13th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -4678,7 +4678,7 @@
   "meetingAddInfo": "S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday Women's Meeting."
  },
  {
-  "meetingName": "WOMEN TOGETHER (:I) - Women Together (:I)",
+  "meetingName": "WOMEN TOGETHER  - Women Together (:I)",
   "meetingAddress": "208 West 13th Street,",
   "meetingDetails": [
    "<b>Saturdays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Lesbian",
@@ -4689,7 +4689,7 @@
   "meetingAddInfo": "Women's Meeting Lesbian Focus.  All are welcome"
  },
  {
-  "meetingName": "WOMEN TOGETHER (:II) - Women Together (:II)",
+  "meetingName": "WOMEN TOGETHER  - Women Together (:II)",
   "meetingAddress": "273 Bowery, Classroom Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>6:15 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Lesbian",
@@ -4769,7 +4769,7 @@
  },
  {
   "meetingName": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION - Women's Saturday Eleventh Step Meditation",
-  "meetingAddress": "19 Union Square West, 7th Floor, Ask for room #.,",
+  "meetingAddress": "19 Union Square West, 7th Floor, Ask for room #,,",
   "meetingDetails": [
    "<b>Saturdays From</b>11:00 AM<b>to</b>12:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
@@ -4802,7 +4802,7 @@
  },
  {
   "meetingName": "WORKS IN PROGRESS -",
-  "meetingAddress": "173 East 3rd Street- basement,",
+  "meetingAddress": "173 East 3rd Street, basement,",
   "meetingDetails": [
    "<b>Mondays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>AA Literature",
    ""
@@ -4835,7 +4835,7 @@
  },
  {
   "meetingName": "YOU MAY CARE AFTER - You May Care After",
-  "meetingAddress": "58-66 West 135th Street,",
+  "meetingAddress": "58,66 West 135th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
@@ -4900,8 +4900,8 @@
   "meetingAddInfo": ""
  },
  {
-  "meetingName": "YOUTH ENJOYING SOBRIETY (Y.E.S.) - Youth Enjoying Sobriety (Yes)",
-  "meetingAddress": "283 W. Broadway,",
+  "meetingName": "YOUTH ENJOYING SOBRIETY (YES) - Youth Enjoying Sobriety (Yes)",
+  "meetingAddress": "283 W, Broadway,",
   "meetingDetails": [
    "<b>Saturdays From</b>7:00 PM<b>to</b>8:15 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Young People",
    ""

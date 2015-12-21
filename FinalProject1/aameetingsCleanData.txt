@@ -8,7 +8,9 @@
   ],
   "meetingLocation": "N.Y.U Bronfman Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Only meets on the 1st Wednesday of the month. A.A.'s 12 Concepts Meeting."
+  "meetingAddInfo": "Only meets on the 1st Wednesday of the month. A.A.'s 12 Concepts Meeting.",
+  "cleanMeetingAddress": "7 East 10th Street, New York, NY",
+  "cleanMeetingNames": "12 CONCEPTS WORKSHOP"
  },
  {
   "meetingName": "125 - TWO FOR ONE -",
@@ -19,7 +21,9 @@
   ],
   "meetingLocation": "Harlem Children's Zone Admin. Offices",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat."
+  "meetingAddInfo": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat.",
+  "cleanMeetingAddress": "35 East 125 Street, New York, NY",
+  "cleanMeetingNames": "TWO FOR ONE -"
  },
  {
   "meetingName": "22 BELOW - Twenty-Two Below",
@@ -34,7 +38,9 @@
   ],
   "meetingLocation": "Gustavus Adolphus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Trad.1st Wed., Fri.=Topic, Sat.=Round Robin Sharing All meetings are non-smoking."
+  "meetingAddInfo": "Trad.1st Wed., Fri.=Topic, Sat.=Round Robin Sharing All meetings are non-smoking.",
+  "cleanMeetingAddress": "155 East 22nd Street, New York, NY",
+  "cleanMeetingNames": "TWENTY-TWO BELOW"
  },
  {
   "meetingName": "4 THE GRACE -",
@@ -51,7 +57,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "4 THE GRACE"
  },
  {
   "meetingName": "42nd AT 9:00pm -",
@@ -68,7 +76,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sat=A.A. Literature"
+  "meetingAddInfo": "Sat=A.A. Literature",
+  "cleanMeetingAddress": "303 West 42nd Street, New York, NY",
+  "cleanMeetingNames": "42nd AT 9:00pm"
  },
  {
   "meetingName": "A BAFFLED LOT -",
@@ -79,7 +89,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Topic Meeting"
+  "meetingAddInfo": "Topic Meeting",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "A BAFFLED LOT"
  },
  {
   "meetingName": "A CHANCE TO LIVE AAN - A Chance To Live Again",
@@ -91,7 +103,9 @@
   ],
   "meetingLocation": "SRO Building",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "109 West 129th Street, New York, NY",
+  "cleanMeetingNames": "A CHANCE TO LIVE AGAIN"
  },
  {
   "meetingName": "A DESIGN FOR LIVING -",
@@ -103,7 +117,9 @@
   ],
   "meetingLocation": "St Andrews Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays"
+  "meetingAddInfo": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays",
+  "cleanMeetingAddress": "20 Cardinal Hayes Place, New York, NY",
+  "cleanMeetingNames": "A DESIGN FOR LIVING"
  },
  {
   "meetingName": "A NEW DAY - A New Day",
@@ -115,7 +131,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon=As Bill Sees It, Wed=Living Sober"
+  "meetingAddInfo": "Mon=As Bill Sees It, Wed=Living Sober",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "A NEW DAY"
  },
  {
   "meetingName": "A NEW FREEDOM -",
@@ -132,11 +150,13 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun=11th Step, Wed=Gratitude, Thu=Daily Reflections"
+  "meetingAddInfo": "Sun=11th Step, Wed=Gratitude, Thu=Daily Reflections",
+  "cleanMeetingAddress": "303 West 42nd Street, New York, NY",
+  "cleanMeetingNames": "A NEW FREEDOM"
  },
  {
   "meetingName": "A NEW WAY OF LIVING - A New Way Of Living",
-  "meetingAddress": "701 West 168th Street @ Fort Washington Avenue,",
+  "meetingAddress": "701 West 168th Street , Fort Washington Avenue,",
   "meetingDetails": [
    "<b>Mondays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>BB = Big Book meeting",
    "<b>Tuesdays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -147,7 +167,9 @@
   ],
   "meetingLocation": "Columbia Presbyterian Hospital",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays"
+  "meetingAddInfo": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
+  "cleanMeetingAddress": "701 West 168th Street , New York, NY",
+  "cleanMeetingNames": "A NEW WAY OF LIVING"
  },
  {
   "meetingName": "A VISION FOR YOU - A Vision For You",
@@ -159,7 +181,9 @@
   ],
   "meetingLocation": "Christ & St. Stephen's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "120 West 69th Street, New York, NY",
+  "cleanMeetingNames": "A VISION FOR YOU"
  },
  {
   "meetingName": "AA ON THE BOWERY - AA On The Bowery",
@@ -170,18 +194,22 @@
   ],
   "meetingLocation": "University Settlement",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "273 Bowery, New York, NY",
+  "cleanMeetingNames": "AA ON THE BOWERY"
  },
  {
   "meetingName": "AA TRADITIONS AND HISTORY -",
-  "meetingAddress": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign.,",
+  "meetingAddress": "48 East 80th Street, 2nd Floor Library, Ring Bell Next to Sign,,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>T = Tradition meeting",
    ""
   ],
   "meetingLocation": "Manhattan Church of Christ",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Traditions Meeting"
+  "meetingAddInfo": "Traditions Meeting",
+  "cleanMeetingAddress": "48 East 80th Street, New York, NY",
+  "cleanMeetingNames": "AA TRADITIONS AND HISTORY"
  },
  {
   "meetingName": "AAA THE THREE JEWELS - MEDITATION -",
@@ -193,7 +221,9 @@
   ],
   "meetingLocation": "Three Jewels Community Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Topic meeting, focus is on meditation Thursday meeting ends at 7:10"
+  "meetingAddInfo": "Topic meeting, focus is on meditation Thursday meeting ends at 7:10",
+  "cleanMeetingAddress": "61 Fourth Avenue, New York, NY",
+  "cleanMeetingNames": "MEDITATION -"
  },
  {
   "meetingName": "AA IT WORKS II - AA It Works II",
@@ -207,7 +237,9 @@
   ],
   "meetingLocation": "Union Baptist Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition."
+  "meetingAddInfo": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
+  "cleanMeetingAddress": "240 West 145th Street, New York, NY",
+  "cleanMeetingNames": "AA IT WORKS II"
  },
  {
   "meetingName": "AA LITERATURE - AA Literature",
@@ -218,7 +250,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "FRONT BASEMENT ONLY"
+  "meetingAddInfo": "FRONT BASEMENT ONLY",
+  "cleanMeetingAddress": "122 East 37th Street, New York, NY",
+  "cleanMeetingNames": "AA LITERATURE"
  },
  {
   "meetingName": "ABINGDON SQUARE IN CHELSEA - Abingdon Square In Chelsea",
@@ -229,7 +263,9 @@
   ],
   "meetingLocation": "S.A.G.E.",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "305 7th Avenue, New York, NY",
+  "cleanMeetingNames": "ABINGDON SQUARE IN CHELSEA"
  },
  {
   "meetingName": "ACTIVE - Active",
@@ -240,7 +276,9 @@
   ],
   "meetingLocation": "St. Jean Baptiste Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "184 East 76th Street, New York, NY",
+  "cleanMeetingNames": "ACTIVE"
  },
  {
   "meetingName": "ADVENTURES IN SOBRIETY -",
@@ -251,10 +289,12 @@
   ],
   "meetingLocation": "Saint Thomas Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Gay & Lesbian Focus.  All are welcome."
+  "meetingAddInfo": "Gay & Lesbian Focus.  All are welcome.",
+  "cleanMeetingAddress": "1 West 53rd Street, New York, NY",
+  "cleanMeetingNames": "ADVENTURES IN SOBRIETY"
  },
  {
-  "meetingName": "AFTER EIGHT (:i) - After Eight",
+  "meetingName": "AFTER EIGHT  - After Eight",
   "meetingAddress": "422 West 57th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:30 PM<b>to</b>7:45 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -262,10 +302,12 @@
   ],
   "meetingLocation": "Trinity Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tues= AA Literature/Topic meeting The group's focus is on long-term sobriety; but all A.A. members are welcome."
+  "meetingAddInfo": "Tues= AA Literature/Topic meeting The group's focus is on long-term sobriety; but all A.A. members are welcome.",
+  "cleanMeetingAddress": "422 West 57th Street, New York, NY",
+  "cleanMeetingNames": "AFTER EIGHT"
  },
  {
-  "meetingName": "AFTER EIGHT (:ii) -",
+  "meetingName": "AFTER EIGHT  -",
   "meetingAddress": "164 West 74th Street, 1st floor, \r\n\t\t\t\t\t\t10023",
   "meetingDetails": [
    "<b>Thursdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>AA Literature",
@@ -273,7 +315,9 @@
   ],
   "meetingLocation": "Phoenix House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "164 West 74th Street, New York, NY",
+  "cleanMeetingNames": "AFTER EIGHT "
  },
  {
   "meetingName": "AFTERNOON AAENING -",
@@ -288,7 +332,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon=Living Sober, Thu=11 Step with meditation, Fri=3rd Step"
+  "meetingAddInfo": "Mon=Living Sober, Thu=11 Step with meditation, Fri=3rd Step",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "AFTERNOON AAENING"
  },
  {
   "meetingName": "AFTERNOON DELIGHT -",
@@ -299,7 +345,9 @@
   ],
   "meetingLocation": "Hazelden Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Sex inventory 4th step literature meeting Meets 1st and 3rd Saturday of the month from noon-1"
+  "meetingAddInfo": "Sex inventory 4th step literature meeting Meets 1st and 3rd Saturday of the month from noon-1",
+  "cleanMeetingAddress": "283 West Broadway, New York, NY",
+  "cleanMeetingNames": "AFTERNOON DELIGHT"
  },
  {
   "meetingName": "AGNOSTICS AT NOON - Agnostics At Noon",
@@ -310,7 +358,9 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "GLBT Focus. All are welcome."
+  "meetingAddInfo": "GLBT Focus. All are welcome.",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "AGNOSTICS AT NOON"
  },
  {
   "meetingName": "AAON HOUSE (AA Meetings Only) -",
@@ -347,7 +397,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun.2pm=Women's Meeting"
+  "meetingAddInfo": "Sun.2pm=Women's Meeting",
+  "cleanMeetingAddress": "303 West 42nd Street, New York, NY",
+  "cleanMeetingNames": "AAON HOUSE (AA Meetings Only)"
  },
  {
   "meetingName": "ALIVE AAN - Alive Again",
@@ -358,7 +410,9 @@
   ],
   "meetingLocation": "Seafarers & Intl House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "123 East 15th Street, New York, NY",
+  "cleanMeetingNames": "ALIVE AGAIN"
  },
  {
   "meetingName": "ALTERED ATTITUDES - Altered Attitudes",
@@ -369,7 +423,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "ALTERED ATTITUDES"
  },
  {
   "meetingName": "AAING GRACE - Amazing Grace",
@@ -384,7 +440,9 @@
   ],
   "meetingLocation": "St. Mary the Virgin Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Thursday All meetings are non-smoking."
+  "meetingAddInfo": "T Last Thursday All meetings are non-smoking.",
+  "cleanMeetingAddress": "133 West 46th Street, New York, NY",
+  "cleanMeetingNames": "AMAZING GRACE"
  },
  {
   "meetingName": "AMSTERDAM - Amsterdam",
@@ -400,21 +458,25 @@
   ],
   "meetingLocation": "St. Gregory's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T - Last Friday, Anniversary-Last Saturday."
+  "meetingAddInfo": "T - Last Friday, Anniversary-Last Saturday.",
+  "cleanMeetingAddress": "144 West 90th Street, New York, NY",
+  "cleanMeetingNames": "AMSTERDAM"
  },
  {
-  "meetingName": "ANNEX (:I) - Annex (:I)",
-  "meetingAddress": "441 West 26th Street, 2nd Fl., Activity Room A,",
+  "meetingName": "ANNEX  - Annex (:I)",
+  "meetingAddress": "441 West 26th Street, 2nd Fl,, Activity Room A,",
   "meetingDetails": [
    "<b>Saturdays From</b>3:00 PM<b>to</b>4:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    ""
   ],
   "meetingLocation": "Hudson Guild",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "441 West 26th Street, New York, NY",
+  "cleanMeetingNames": "ANNEX (:I)"
  },
  {
-  "meetingName": "ANNEX (:II) - Annex (:II)",
+  "meetingName": "ANNEX  - Annex (:II)",
   "meetingAddress": "446 West 33rd Street, 6th Floor, Room #6046,",
   "meetingDetails": [
    "<b>Tuesdays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>O = Open meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -422,7 +484,9 @@
   ],
   "meetingLocation": "GMHC",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Gay & Lesbian focus.  All are welcome."
+  "meetingAddInfo": "Gay & Lesbian focus.  All are welcome.",
+  "cleanMeetingAddress": "446 West 33rd Street, New York, NY",
+  "cleanMeetingNames": "ANNEX (:II)"
  },
  {
   "meetingName": "ANSONIA - Ansonia",
@@ -433,7 +497,9 @@
   ],
   "meetingLocation": "Hamilton House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Anniv. Meeting last Monday."
+  "meetingAddInfo": "Anniv. Meeting last Monday.",
+  "cleanMeetingAddress": "141 West 73rd Street, New York, NY",
+  "cleanMeetingNames": "ANSONIA"
  },
  {
   "meetingName": "ARTISTS IN RECOVERY -",
@@ -444,18 +510,22 @@
   ],
   "meetingLocation": "46th Street Clubhouse",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All are welcome."
+  "meetingAddInfo": "All are welcome.",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "ARTISTS IN RECOVERY"
  },
  {
   "meetingName": "ARTISTS IN RECOVERY (A.R.T.) -",
-  "meetingAddress": "232 W. 11th Street,",
+  "meetingAddress": "232 W, 11th Street,",
   "meetingDetails": [
    "<b>Sundays From</b>6:30 PM<b>to</b>7:45 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
   ],
   "meetingLocation": "Seventh Day Adventist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "232 West 11th Street, New York, NY",
+  "cleanMeetingNames": "ARTISTS IN RECOVERY (A.R.T.)"
  },
  {
   "meetingName": "AT BILL'S PLACE - At Bill's Place",
@@ -466,7 +536,9 @@
   ],
   "meetingLocation": "Calvary Church Parish House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "61 Gramercy Park North, New York, NY",
+  "cleanMeetingNames": "AT BILL'S PLACE"
  },
  {
   "meetingName": "ATLANTIC BY THE BOOK - Atlantic By The Book",
@@ -477,7 +549,9 @@
   ],
   "meetingLocation": "Gustavus Adolphus Lutheran Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "155 East 22nd Street, New York, NY",
+  "cleanMeetingNames": "ATLANTIC BY THE BOOK"
  },
  {
   "meetingName": "ATLANTIC DOWNTOWN -",
@@ -488,7 +562,9 @@
   ],
   "meetingLocation": "Mabel Bacon High School of the Future",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "no entry before 5:30"
+  "meetingAddInfo": "no entry before 5:30",
+  "cleanMeetingAddress": "127 East 22nd Street, New York, NY",
+  "cleanMeetingNames": "ATLANTIC DOWNTOWN"
  },
  {
   "meetingName": "ATLANTIC ELEVENTH STEP MEDITATION -",
@@ -499,10 +575,12 @@
   ],
   "meetingLocation": "Church of the Epiphany",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "1393 York Avenue, New York, NY",
+  "cleanMeetingNames": "ATLANTIC ELEVENTH STEP MEDITATION"
  },
  {
-  "meetingName": "ATLANTIC GROUP (:I) - Atlantic (:I)",
+  "meetingName": "ATLANTIC GROUP  - Atlantic (:I)",
   "meetingAddress": "520 Park Avenue,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>O = Open meeting",
@@ -510,18 +588,22 @@
   ],
   "meetingLocation": "Christ United Methodist Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Three speaker"
+  "meetingAddInfo": "Three speaker",
+  "cleanMeetingAddress": "520 Park Avenue, New York, NY",
+  "cleanMeetingNames": "ATLANTIC (:I)"
  },
  {
-  "meetingName": "ATLANTIC GROUP (:II) -",
-  "meetingAddress": "337 E. 74th St.,",
+  "meetingName": "ATLANTIC GROUP  -",
+  "meetingAddress": "337 E, 74th St.,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
   ],
   "meetingLocation": "Archdiocian Cathedral of the Holy Trinity",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "337 East 74th St., New York, NY",
+  "cleanMeetingNames": "ATLANTIC GROUP "
  },
  {
   "meetingName": "ATLANTIC GROUP (:III) -",
@@ -532,18 +614,22 @@
   ],
   "meetingLocation": "All Souls Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Two speaker"
+  "meetingAddInfo": "Two speaker",
+  "cleanMeetingAddress": "1157 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "ATLANTIC GROUP (:III)"
  },
  {
-  "meetingName": "ATLANTIC WEST STEP & TRADITION - Atlantic West Step & Tradition",
-  "meetingAddress": "4 West 76th Street. Meeting in the gym.,",
+  "meetingName": "ATLANTIC WEST STEP and TRADITION - Atlantic West Step & Tradition",
+  "meetingAddress": "4 West 76th Street, Meeting in the gym.,",
   "meetingDetails": [
    "<b>Fridays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
   ],
   "meetingLocation": "Fourth Universalist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Alternating Step and Tradition meeting."
+  "meetingAddInfo": "Alternating Step and Tradition meeting.",
+  "cleanMeetingAddress": "4 West 76th Street, New York, NY",
+  "cleanMeetingNames": "ATLANTIC WEST STEP & TRADITION"
  },
  {
   "meetingName": "ATTITUDE ADJUSTMENT - Attitude Adjustment",
@@ -554,7 +640,9 @@
   ],
   "meetingLocation": "Upper Manhattan Mental Health Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "1st Sat- Step, Last Sat.- Anniversary"
+  "meetingAddInfo": "1st Sat- Step, Last Sat.- Anniversary",
+  "cleanMeetingAddress": "1727 Amsterdam Avenue, New York, NY",
+  "cleanMeetingNames": "ATTITUDE ADJUSTMENT"
  },
  {
   "meetingName": "AVENUE B CLEAN AND DRY -",
@@ -565,7 +653,9 @@
   ],
   "meetingLocation": "Trinity Lower East Side Lutheran Parish",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Ground Floor Anniversaries last Thursday of month"
+  "meetingAddInfo": "Ground Floor Anniversaries last Thursday of month",
+  "cleanMeetingAddress": "602 East 9th Street, New York, NY",
+  "cleanMeetingNames": "AVENUE B CLEAN AND DRY"
  },
  {
   "meetingName": "BAGELS AND BIG BOOK -",
@@ -576,7 +666,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "NOTE: Meeting only meets on the 1st & 3rd Sunday of each month *Big Book Workshop, Meeting ends at Noon."
+  "meetingAddInfo": "NOTE: Meeting only meets on the 1st & 3rd Sunday of each month *Big Book Workshop, Meeting ends at Noon.",
+  "cleanMeetingAddress": "220 West Houston Street, New York, NY",
+  "cleanMeetingNames": "BAGELS AND BIG BOOK"
  },
  {
   "meetingName": "BEGINNERS -",
@@ -592,7 +684,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Readings from Living Sober"
+  "meetingAddInfo": "Readings from Living Sober",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "BEGINNERS"
  },
  {
   "meetingName": "BEGINNERS -",
@@ -609,7 +703,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "BEGINNERS"
  },
  {
   "meetingName": "BETWEEN SHOWS - Between Shows",
@@ -620,7 +716,9 @@
   ],
   "meetingLocation": "The Actor's Temple",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "339 West 47th Street, New York, NY",
+  "cleanMeetingNames": "BETWEEN SHOWS"
  },
  {
   "meetingName": "BIG BOOK MAGIC -",
@@ -631,7 +729,9 @@
   ],
   "meetingLocation": "Church of Holy Apostles",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "296 9th Ave, New York, NY",
+  "cleanMeetingNames": "BIG BOOK MAGIC"
  },
  {
   "meetingName": "BLOOMINGDALE - Bloomingdale",
@@ -643,7 +743,9 @@
   ],
   "meetingLocation": "Church of the Ascension",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All Meetings Are Non-Smoking. Anniversary meeting last Tues at 6:15"
+  "meetingAddInfo": "All Meetings Are Non-Smoking. Anniversary meeting last Tues at 6:15",
+  "cleanMeetingAddress": "221 West 107th Street, New York, NY",
+  "cleanMeetingNames": "BLOOMINGDALE"
  },
  {
   "meetingName": "BLUEPRINT FOR LIVING -",
@@ -659,7 +761,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "303 West 42nd St Rm 306, New York, NY",
+  "cleanMeetingNames": "BLUEPRINT FOR LIVING"
  },
  {
   "meetingName": "BOOKSHOP AT NOON - Bookshop At Noon",
@@ -672,7 +776,9 @@
   ],
   "meetingLocation": "St. Francis of Assisi Education Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "No Meeting on Legal Holidays All meetings are non-smoking."
+  "meetingAddInfo": "No Meeting on Legal Holidays All meetings are non-smoking.",
+  "cleanMeetingAddress": "139 West 31st Street, New York, NY",
+  "cleanMeetingNames": "BOOKSHOP AT NOON"
  },
  {
   "meetingName": "BREAKFAST CLUB - Breakfast Club",
@@ -687,7 +793,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All meetings are Round Robin format except Thursday. Tue=Alternating Step/Trad."
+  "meetingAddInfo": "All meetings are Round Robin format except Thursday. Tue=Alternating Step/Trad.",
+  "cleanMeetingAddress": "30 East 35th Street, New York, NY",
+  "cleanMeetingNames": "BREAKFAST CLUB"
  },
  {
   "meetingName": "BREAKING THROUGH - Breaking Through",
@@ -698,10 +806,12 @@
   ],
   "meetingLocation": "Gracie Square Hospital",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "*Open Last Friday Check with front desk security for meeting room location."
+  "meetingAddInfo": "*Open Last Friday Check with front desk security for meeting room location.",
+  "cleanMeetingAddress": "420 East 76th Street, New York, NY",
+  "cleanMeetingNames": "BREAKING THROUGH"
  },
  {
-  "meetingName": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+  "meetingName": "BRIDGE TO SOBRIETY  - Bridge To Sobriety",
   "meetingAddress": "715 West 179th Street,",
   "meetingDetails": [
    "<b>Wednesdays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -713,10 +823,12 @@
   ],
   "meetingLocation": "Holy Rood Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Living Sober Last Tuesday, T Last Wednesday"
+  "meetingAddInfo": "Living Sober Last Tuesday, T Last Wednesday",
+  "cleanMeetingAddress": "715 West 179th Street, New York, NY",
+  "cleanMeetingNames": "BRIDGE TO SOBRIETY"
  },
  {
-  "meetingName": "BRIDGE TO SOBRIETY (:II) -",
+  "meetingName": "BRIDGE TO SOBRIETY  -",
   "meetingAddress": "715 West 179th Street,",
   "meetingDetails": [
    "<b>Sundays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>S = Step meeting",
@@ -724,7 +836,9 @@
   ],
   "meetingLocation": "Holy Rood Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "10th Step"
+  "meetingAddInfo": "10th Step",
+  "cleanMeetingAddress": "715 West 179th Street, New York, NY",
+  "cleanMeetingNames": "BRIDGE TO SOBRIETY "
  },
  {
   "meetingName": "BROADWAY AT 96TH - Broadway At 96th",
@@ -736,7 +850,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "BROADWAY AT 96TH"
  },
  {
   "meetingName": "CADILLACS FOR EVERYONE - Cadillacs For Everyone",
@@ -747,7 +863,9 @@
   ],
   "meetingLocation": "Holy Trinity Rectory",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Men's Meeting"
+  "meetingAddInfo": "Men's Meeting",
+  "cleanMeetingAddress": "215 West 82nd Street, New York, NY",
+  "cleanMeetingNames": "CADILLACS FOR EVERYONE"
  },
  {
   "meetingName": "CAME TO BELIEVE - Came To Believe",
@@ -758,11 +876,13 @@
   ],
   "meetingLocation": "Our Lady of Good Counsel Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv. Last Sunday; every other month."
+  "meetingAddInfo": "Anniv. Last Sunday; every other month.",
+  "cleanMeetingAddress": "230 East 90th Street, New York, NY",
+  "cleanMeetingNames": "CAME TO BELIEVE"
  },
  {
   "meetingName": "CAMPUS CHEER - Campus Cheer",
-  "meetingAddress": "601 West 114th Street, (2nd Red Door), \r\n\t\t\t\t\t\tNY 10025",
+  "meetingAddress": "601 West 114th Street, ,2nd Red Door), \r\n\t\t\t\t\t\tNY 10025",
   "meetingDetails": [
    "<b>Tuesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    "<b>Thursdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -770,7 +890,9 @@
   ],
   "meetingLocation": "Broadway Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "601 West 114th Street, New York, NY",
+  "cleanMeetingNames": "CAMPUS CHEER"
  },
  {
   "meetingName": "CARLYLE - Carlyle",
@@ -782,7 +904,9 @@
   ],
   "meetingLocation": "Cathedral High School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "3rd Floor library"
+  "meetingAddInfo": "3rd Floor library",
+  "cleanMeetingAddress": "350 East 56th Street, New York, NY",
+  "cleanMeetingNames": "CARLYLE"
  },
  {
   "meetingName": "CARNEGIE HILL - Carnegie Hill",
@@ -793,7 +917,9 @@
   ],
   "meetingLocation": "St. Thomas More Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "65 East 89th Street, New York, NY",
+  "cleanMeetingNames": "CARNEGIE HILL"
  },
  {
   "meetingName": "CENTER MEETING -",
@@ -804,7 +930,9 @@
   ],
   "meetingLocation": "Golden Bridge Yoga Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "No shoes worn in meeting location. A short meditation opens the meeting."
+  "meetingAddInfo": "No shoes worn in meeting location. A short meditation opens the meeting.",
+  "cleanMeetingAddress": "253 Center Street, New York, NY",
+  "cleanMeetingNames": "CENTER MEETING"
  },
  {
   "meetingName": "CENTRAL - Central I",
@@ -818,22 +946,26 @@
   ],
   "meetingLocation": "St. James Episcopal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "865 Madison Avenue, New York, NY",
+  "cleanMeetingNames": "CENTRAL I"
  },
  {
   "meetingName": "CENTRAL PARK WEST - Central Park West",
-  "meetingAddress": "Central Park West &amp; 76th Street - basement gymnasium,",
+  "meetingAddress": "Central Park West &amp; 76th Street , basement gymnasium,",
   "meetingDetails": [
    "<b>Tuesdays From</b>8:15 PM<b>to</b>9:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
   ],
   "meetingLocation": "Universalist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Thursday"
+  "meetingAddInfo": "T Last Thursday",
+  "cleanMeetingAddress": "Central Park West and 76th Street , New York, NY",
+  "cleanMeetingNames": "CENTRAL PARK WEST"
  },
  {
   "meetingName": "CHAMBERS STREET - A BRIDGE BACK - Chambers Street - A Bridge Back",
-  "meetingAddress": "20 Cardinal Hayes Place, Enter through driveway behind Church.,",
+  "meetingAddress": "20 Cardinal Hayes Place, Enter through driveway behind Church,,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Fridays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -843,10 +975,12 @@
   ],
   "meetingLocation": "St. Andrew's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group"
+  "meetingAddInfo": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
+  "cleanMeetingAddress": "20 Cardinal Hayes Place, New York, NY",
+  "cleanMeetingNames": "A BRIDGE BACK - CHAMBERS STREET - A BRIDGE BACK"
  },
  {
-  "meetingName": "CHAPTER FIVE - Chapter Five (:I)",
+  "meetingName": "CHAPTER FIVE - Chapter Five",
   "meetingAddress": "1296 Lexington Avenue, Basement,",
   "meetingDetails": [
    "<b>Wednesdays From</b>7:15 AM<b>to</b>8:15 AM<br><b>Meeting Type</b>S = Step meeting",
@@ -864,11 +998,13 @@
   ],
   "meetingLocation": "Immanuel Lutheran Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Fri.6:15=Women's Meeting"
+  "meetingAddInfo": "Fri.6:15=Women's Meeting",
+  "cleanMeetingAddress": "1296 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "CHAPTER FIVE"
  },
  {
   "meetingName": "CHELSEA MORNINGS -",
-  "meetingAddress": "346 W. 20th Street,",
+  "meetingAddress": "346 W, 20th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>8:00 AM<b>to</b>9:00 AM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Mondays From</b>8:00 AM<b>to</b>9:00 AM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -880,7 +1016,9 @@
   ],
   "meetingLocation": "St. Peters Episcopal Church- Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Wed. alternates between Step and Tradition"
+  "meetingAddInfo": "Wed. alternates between Step and Tradition",
+  "cleanMeetingAddress": "346 West 20th Street, New York, NY",
+  "cleanMeetingNames": "CHELSEA MORNINGS"
  },
  {
   "meetingName": "CHELSEA NOONERS - Chelsea Nooners",
@@ -892,11 +1030,13 @@
   ],
   "meetingLocation": "McBurney YMCA",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Anniv. Last Thursday All Meetings Are Non-Smoking"
+  "meetingAddInfo": "Anniv. Last Thursday All Meetings Are Non-Smoking",
+  "cleanMeetingAddress": "125 West 14th Street, New York, NY",
+  "cleanMeetingNames": "CHELSEA NOONERS"
  },
  {
   "meetingName": "CHELSEA RIVERSIDE -",
-  "meetingAddress": "5 West 63rd Street, Downstairs in large meeting room.,",
+  "meetingAddress": "5 West 63rd Street, Downstairs in large meeting room,,",
   "meetingDetails": [
    "<b>Mondays From</b>7:30 PM<b>to</b>8:45 PM<br><b>Meeting Type</b>O = Open meeting",
    "<b>Mondays From</b>9:00 PM<b>to</b>10:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -905,7 +1045,9 @@
   ],
   "meetingLocation": "West Side YMCA at 63rd Street",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "10:15pm = Topic Meeting"
+  "meetingAddInfo": "10:15pm = Topic Meeting",
+  "cleanMeetingAddress": "5 West 63rd Street, New York, NY",
+  "cleanMeetingNames": "CHELSEA RIVERSIDE"
  },
  {
   "meetingName": "CHINATOWN - Chinatown",
@@ -916,18 +1058,22 @@
   ],
   "meetingLocation": "Church of the Transfiguration",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "29 Mott Street, New York, NY",
+  "cleanMeetingNames": "CHINATOWN"
  },
  {
   "meetingName": "CHOCK FULL OF SOBRIETY -",
-  "meetingAddress": "4 West 76th Street, (In the gym),",
+  "meetingAddress": "4 West 76th Street, ,In the gym),",
   "meetingDetails": [
    "<b>Fridays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
   ],
   "meetingLocation": "Universalist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "S 1st & T Last Friday"
+  "meetingAddInfo": "S 1st & T Last Friday",
+  "cleanMeetingAddress": "4 West 76th Street, New York, NY",
+  "cleanMeetingNames": "CHOCK FULL OF SOBRIETY"
  },
  {
   "meetingName": "CITY GROUP - Citikorp",
@@ -951,18 +1097,22 @@
   ],
   "meetingLocation": "St. Peter's Lutheran Church at Citicorp Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "T -7:30am last Mon., Anniv -12:30 Last Thursday"
+  "meetingAddInfo": "T -7:30am last Mon., Anniv -12:30 Last Thursday",
+  "cleanMeetingAddress": "619 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "CITIKORP"
  },
  {
-  "meetingName": "CLASSEN HALL (:II) - Classen Hall (:II)",
-  "meetingAddress": "160 Central Park West, Gym basement.,",
+  "meetingName": "CLASSEN HALL  - Classen Hall (:II)",
+  "meetingAddress": "160 Central Park West, Gym basement,,",
   "meetingDetails": [
    "<b>Sundays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
   ],
   "meetingLocation": "Fourth Universalist Society",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "160 Central Park West, New York, NY",
+  "cleanMeetingNames": "CLASSEN HALL (:II)"
  },
  {
   "meetingName": "CLASSEN HALL STEP MEETING ( :I ) - Classen Hall",
@@ -973,7 +1123,9 @@
   ],
   "meetingLocation": "Good Shepherd Faith Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Enter basement level @ red door on left side of the building."
+  "meetingAddInfo": "Enter basement level @ red door on left side of the building.",
+  "cleanMeetingAddress": "152 West 66th Street, New York, NY",
+  "cleanMeetingNames": "CLASSEN HALL"
  },
  {
   "meetingName": "CLEAN AND DRY - Clean And Dry",
@@ -985,7 +1137,9 @@
   ],
   "meetingLocation": "Trinity Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "422 West 57th Street, New York, NY",
+  "cleanMeetingNames": "CLEAN AND DRY"
  },
  {
   "meetingName": "COLUMBUS AT FIVE - Columbus At Five",
@@ -998,7 +1152,9 @@
   ],
   "meetingLocation": "Second Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Children are welcome at all meetings. All meetings are non-smoking."
+  "meetingAddInfo": "Children are welcome at all meetings. All meetings are non-smoking.",
+  "cleanMeetingAddress": "3 West 95th Street, New York, NY",
+  "cleanMeetingNames": "COLUMBUS AT FIVE"
  },
  {
   "meetingName": "COMMUTERS SPECIAL - Commuters Special",
@@ -1011,7 +1167,9 @@
   ],
   "meetingLocation": "St. John's Hall",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Last Wednesday-Anniv.Open"
+  "meetingAddInfo": "Last Wednesday-Anniv.Open",
+  "cleanMeetingAddress": "211 West 30th Street, New York, NY",
+  "cleanMeetingNames": "COMMUTERS SPECIAL"
  },
  {
   "meetingName": "COMPLETE AADON - Complete Abandon",
@@ -1022,7 +1180,9 @@
   ],
   "meetingLocation": "Our Lady of Immaculate Conception",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "414 East 14th Street, New York, NY",
+  "cleanMeetingNames": "COMPLETE ABANDON"
  },
  {
   "meetingName": "COMPLETELY SOBER - Completely Sober",
@@ -1033,7 +1193,9 @@
   ],
   "meetingLocation": "Fulton Senior Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "119 Ninth Avenue, New York, NY",
+  "cleanMeetingNames": "COMPLETELY SOBER"
  },
  {
   "meetingName": "CONVENT -",
@@ -1044,7 +1206,9 @@
   ],
   "meetingLocation": "St. Phillip Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "B-3rd Saturday"
+  "meetingAddInfo": "B-3rd Saturday",
+  "cleanMeetingAddress": "204 West 134th Street, New York, NY",
+  "cleanMeetingNames": "CONVENT"
  },
  {
   "meetingName": "COURAGE TO CHANGE - Courage To Change",
@@ -1065,7 +1229,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Wed.6:15 BB=OD Big Book Study Fri.7:30pm=Anniv. Meeting every Fri."
+  "meetingAddInfo": "Wed.6:15 BB=OD Big Book Study Fri.7:30pm=Anniv. Meeting every Fri.",
+  "cleanMeetingAddress": "122 East 37th Street, New York, NY",
+  "cleanMeetingNames": "COURAGE TO CHANGE"
  },
  {
   "meetingName": "CROSSROADS -",
@@ -1077,7 +1243,9 @@
   ],
   "meetingLocation": "Christopher House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Check in at front desk all meetings are non-smoking"
+  "meetingAddInfo": "Check in at front desk all meetings are non-smoking",
+  "cleanMeetingAddress": "202 West 24 Street, New York, NY",
+  "cleanMeetingNames": "CROSSROADS"
  },
  {
   "meetingName": "D.I.V.A. (Divinely Inspired Vivacious Alcoholics) -",
@@ -1088,7 +1256,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Women's Meeting"
+  "meetingAddInfo": "Women's Meeting",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "D.I.V.A. (Divinely Inspired Vivacious Alcoholics)"
  },
  {
   "meetingName": "DOWNTOWN -",
@@ -1099,7 +1269,9 @@
   ],
   "meetingLocation": "St. Margaret's Residence",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "49 Fulton Street, New York, NY",
+  "cleanMeetingNames": "DOWNTOWN"
  },
  {
   "meetingName": "DYCKMAN - Dyckman",
@@ -1111,7 +1283,9 @@
   ],
   "meetingLocation": "St. Jude's School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "BB 1st & T Last Wed."
+  "meetingAddInfo": "BB 1st & T Last Wed.",
+  "cleanMeetingAddress": "431 West 204th Street, New York, NY",
+  "cleanMeetingNames": "DYCKMAN"
  },
  {
   "meetingName": "EAST HARLEM - East Harlem",
@@ -1122,7 +1296,9 @@
   ],
   "meetingLocation": "Peter Jay Sharpe Building",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Living Sober 1st Tuesday."
+  "meetingAddInfo": "Living Sober 1st Tuesday.",
+  "cleanMeetingAddress": "223 East 117th Street, New York, NY",
+  "cleanMeetingNames": "EAST HARLEM"
  },
  {
   "meetingName": "EAST MEETS WEST IN SOBRIETY - East Meets West In Sobriety",
@@ -1133,7 +1309,9 @@
   ],
   "meetingLocation": "Brotherhood Synagogue",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "*Open Anniv Last Wednesday Non-Smoking Meeting."
+  "meetingAddInfo": "*Open Anniv Last Wednesday Non-Smoking Meeting.",
+  "cleanMeetingAddress": "28 Gramercy Park South, New York, NY",
+  "cleanMeetingNames": "EAST MEETS WEST IN SOBRIETY"
  },
  {
   "meetingName": "EAST VILLAGE GROUP - East Village",
@@ -1150,7 +1328,9 @@
   ],
   "meetingLocation": "Middle Collegiate Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "LGBT; all welcome. Tues 7pm=Artists in Recovery, all welcome. 8:30 1st Tues of Month Bus mtg. at 8:05"
+  "meetingAddInfo": "LGBT; all welcome. Tues 7pm=Artists in Recovery, all welcome. 8:30 1st Tues of Month Bus mtg. at 8:05",
+  "cleanMeetingAddress": "50 East 7th Street, New York, NY",
+  "cleanMeetingNames": "EAST VILLAGE"
  },
  {
   "meetingName": "EAST VILLAGE SOBER AGNOSTICS - Sober Agnostics",
@@ -1161,7 +1341,9 @@
   ],
   "meetingLocation": "University Settlement (The Chinatown YMCA)",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Ask front desk for meeting location"
+  "meetingAddInfo": "Ask front desk for meeting location",
+  "cleanMeetingAddress": "273 Bowery, New York, NY",
+  "cleanMeetingNames": "SOBER AGNOSTICS"
  },
  {
   "meetingName": "EIGHTIETH STREET BEGINNERS -",
@@ -1172,7 +1354,9 @@
   ],
   "meetingLocation": "All Angels Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "251 West 80th Street, New York, NY",
+  "cleanMeetingNames": "EIGHTIETH STREET BEGINNERS"
  },
  {
   "meetingName": "ELEVENTH STEP AT JAN HUS - Eleventh Step At Jan Hus",
@@ -1183,7 +1367,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "11th Step Meditation Meeting."
+  "meetingAddInfo": "11th Step Meditation Meeting.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "ELEVENTH STEP AT JAN HUS"
  },
  {
   "meetingName": "EMPIRE STATE - Empire State",
@@ -1196,10 +1382,12 @@
   ],
   "meetingLocation": "J.H. Holmes Community House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Wednesday"
+  "meetingAddInfo": "T Last Wednesday",
+  "cleanMeetingAddress": "28 East 35th Street, New York, NY",
+  "cleanMeetingNames": "EMPIRE STATE"
  },
  {
-  "meetingName": "EXCHANGE VIEWS @ JOHN STREET CHURCH -",
+  "meetingName": "EXCHANGE VIEWS at JOHN STREET CHURCH -",
   "meetingAddress": "44 John Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>S = Step meeting",
@@ -1211,10 +1399,12 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions"
+  "meetingAddInfo": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
+  "cleanMeetingAddress": "44 John Street, New York, NY",
+  "cleanMeetingNames": "EXCHANGE VIEWS at JOHN STREET CHURCH"
  },
  {
-  "meetingName": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE -",
+  "meetingName": "EXCHANGE VIEWS at ST. MARGARET'S HOUSE -",
   "meetingAddress": "49 Fulton Street,",
   "meetingDetails": [
    "<b>Mondays From</b>6:30 AM<b>to</b>7:30 AM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Topic",
@@ -1234,7 +1424,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday."
+  "meetingAddInfo": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
+  "cleanMeetingAddress": "49 Fulton Street, New York, NY",
+  "cleanMeetingNames": "EXCHANGE VIEWS at ST. MARGARET'S HOUSE"
  },
  {
   "meetingName": "EXPERIENCE STRENGTH AND HOPE - Experience Strength And Hope",
@@ -1245,7 +1437,9 @@
   ],
   "meetingLocation": "University Settlement House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "273 Bowery, New York, NY",
+  "cleanMeetingNames": "EXPERIENCE STRENGTH AND HOPE"
  },
  {
   "meetingName": "FAST BREAK - Fast Break",
@@ -1265,7 +1459,9 @@
   ],
   "meetingLocation": "Hargrave House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "111 West 71st Street, New York, NY",
+  "cleanMeetingNames": "FAST BREAK"
  },
  {
   "meetingName": "FAST BREAK WEEKEND -",
@@ -1277,7 +1473,9 @@
   ],
   "meetingLocation": "West Side YMCA",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "5 West 63rd Street, New York, NY",
+  "cleanMeetingNames": "FAST BREAK WEEKEND"
  },
  {
   "meetingName": "FEARLESS -",
@@ -1288,11 +1486,13 @@
   ],
   "meetingLocation": "All Souls Uniterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Topic Meeting"
+  "meetingAddInfo": "Topic Meeting",
+  "cleanMeetingAddress": "1157 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "FEARLESS"
  },
  {
   "meetingName": "FELLOWSHIP AT NOON - Fellowship At Noon",
-  "meetingAddress": "2044 Adam Clayton Powell Blvd.,",
+  "meetingAddress": "2044 Adam Clayton Powell Blvd,,",
   "meetingDetails": [
    "<b>Mondays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Wednesdays From</b>12:15 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>S = Step meeting",
@@ -1301,7 +1501,9 @@
   ],
   "meetingLocation": "Spiritual Renewal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T If there is a fifth Wednesday."
+  "meetingAddInfo": "T If there is a fifth Wednesday.",
+  "cleanMeetingAddress": "2044 Adam Clayton Powell Blvd, New York, NY",
+  "cleanMeetingNames": "FELLOWSHIP AT NOON"
  },
  {
   "meetingName": "FIFTH AVENUE STEP -",
@@ -1312,10 +1514,12 @@
   ],
   "meetingLocation": "St. Thomas Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "1 West 53rd Street, New York, NY",
+  "cleanMeetingNames": "FIFTH AVENUE STEP"
  },
  {
-  "meetingName": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY - Fireside",
+  "meetingName": "FIRESIDE  WEEKDAY MEETINGS ONLY - Fireside",
   "meetingAddress": "422 West 57th Street,",
   "meetingDetails": [
    "<b>Wednesdays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -1332,10 +1536,12 @@
   ],
   "meetingLocation": "Trinity Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tue.12:30 = T 1st Tuesday Beginners upstairs; other meetings in the chapel"
+  "meetingAddInfo": "Tue.12:30 = T 1st Tuesday Beginners upstairs; other meetings in the chapel",
+  "cleanMeetingAddress": "422 West 57th Street, New York, NY",
+  "cleanMeetingNames": "FIRESIDE"
  },
  {
-  "meetingName": "FIRESIDE (:II) WEEKEND MEETINGS ONLY -",
+  "meetingName": "FIRESIDE  WEEKEND MEETINGS ONLY -",
   "meetingAddress": "5 West 63rd Street,",
   "meetingDetails": [
    "<b>Saturdays From</b>10:30 AM<b>to</b>11:30 AM<br><b>Meeting Type</b>S = Step meeting<br><b>Special Interest</b>First Step Workshop",
@@ -1345,7 +1551,9 @@
   ],
   "meetingLocation": "West Side YMCA",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T 1st Saturday @ 12:30pm"
+  "meetingAddInfo": "T 1st Saturday @ 12:30pm",
+  "cleanMeetingAddress": "5 West 63rd Street, New York, NY",
+  "cleanMeetingNames": "FIRESIDE  WEEKEND MEETINGS ONLY"
  },
  {
   "meetingName": "FIRST THINGS FIRST - First Things First",
@@ -1383,7 +1591,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Last Sat. of month at 10:15 = anniversary meeting"
+  "meetingAddInfo": "Last Sat. of month at 10:15 = anniversary meeting",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "FIRST THINGS FIRST"
  },
  {
   "meetingName": "FOGLIFTERS-FIFTH AVENUE - Foglifters-Fifth Avenue",
@@ -1403,7 +1613,9 @@
   ],
   "meetingLocation": "Fifth Av Presbyterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Monday thru Thursday Beginners Meeting 5th floor Monday thru Thursday Open Discussion 3rd floor Wednesday Step Meeting"
+  "meetingAddInfo": "Monday thru Thursday Beginners Meeting 5th floor Monday thru Thursday Open Discussion 3rd floor Wednesday Step Meeting",
+  "cleanMeetingAddress": "7 West 55th Street, New York, NY",
+  "cleanMeetingNames": "IFTH AVENUE - FOGLIFTERS-FIFTH AVENUE"
  },
  {
   "meetingName": "FORTY-FIVE SOLUTIONS - Forty-Five Solutions",
@@ -1420,7 +1632,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "IVE SOLUTIONS - FORTY-FIVE SOLUTIONS"
  },
  {
   "meetingName": "FOUND-A-WAY - Found-A-Way",
@@ -1431,7 +1645,9 @@
   ],
   "meetingLocation": "Church of the Intercession",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Men's meeting & Gay men's focus. All are welcome. Anniversary last Sat., 1st Sat.=S followed by Bus. Mtg."
+  "meetingAddInfo": "Men's meeting & Gay men's focus. All are welcome. Anniversary last Sat., 1st Sat.=S followed by Bus. Mtg.",
+  "cleanMeetingAddress": "550 West 155th Street, New York, NY",
+  "cleanMeetingNames": "-WAY - FOUND-A-WAY"
  },
  {
   "meetingName": "FRIDAY CENTRAL -",
@@ -1442,21 +1658,25 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "FRIDAY CENTRAL"
  },
  {
   "meetingName": "FRIDAY DOWNTOWN - Friday Downtown",
-  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church,,",
   "meetingDetails": [
    "<b>Fridays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    ""
   ],
   "meetingLocation": "St. Andrew's Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Note: Location Subject to change"
+  "meetingAddInfo": "Note: Location Subject to change",
+  "cleanMeetingAddress": "20 Cardinal Hayes Place, New York, NY",
+  "cleanMeetingNames": "FRIDAY DOWNTOWN"
  },
  {
-  "meetingName": "FRIDAY NIGHT GAY MEN & WOMEN - Friday Night Gay Men & Women",
+  "meetingName": "FRIDAY NIGHT GAY MEN and WOMEN - Friday Night Gay Men & Women",
   "meetingAddress": "351 East 74th Street, 2nd Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>S = Step meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -1464,7 +1684,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "1st Step Gay & lesbian focus.  All are welcome."
+  "meetingAddInfo": "1st Step Gay & lesbian focus.  All are welcome.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "FRIDAY NIGHT GAY MEN & WOMEN"
  },
  {
   "meetingName": "FRIDAY NIGHT MEN'S STEP - Friday Night Men's Step",
@@ -1475,7 +1697,9 @@
   ],
   "meetingLocation": "St. Thomas More Church Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Men's Meeting"
+  "meetingAddInfo": "Men's Meeting",
+  "cleanMeetingAddress": "65 East 89th Street, New York, NY",
+  "cleanMeetingNames": "FRIDAY NIGHT MEN'S STEP"
  },
  {
   "meetingName": "FRIDAY NIGHT STEP -",
@@ -1486,7 +1710,9 @@
   ],
   "meetingLocation": "Church of St. Matthew and St. Timothy",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "MEETING NOW TAKES PLACE YEAR ROUND! Up concrete steps, take stairs on left, 2nd Floor (Sandford Hall)"
+  "meetingAddInfo": "MEETING NOW TAKES PLACE YEAR ROUND! Up concrete steps, take stairs on left, 2nd Floor (Sandford Hall)",
+  "cleanMeetingAddress": "26 West 84th Street, New York, NY",
+  "cleanMeetingNames": "FRIDAY NIGHT STEP"
  },
  {
   "meetingName": "GATEWAY - Gateway",
@@ -1497,7 +1723,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "18 Vesey Street, New York, NY",
+  "cleanMeetingNames": "GATEWAY"
  },
  {
   "meetingName": "GOTHAM - Gotham",
@@ -1510,7 +1738,9 @@
   ],
   "meetingLocation": "Cathedral High School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Beginners Meeting 2nd & 4th Sunday Step Meeting 1st &3rd Sunday"
+  "meetingAddInfo": "Beginners Meeting 2nd & 4th Sunday Step Meeting 1st &3rd Sunday",
+  "cleanMeetingAddress": "350 East 56th Street , New York, NY",
+  "cleanMeetingNames": "GOTHAM"
  },
  {
   "meetingName": "GRACE ON BROADWAY - Grace On Broadway",
@@ -1523,7 +1753,9 @@
   ],
   "meetingLocation": "Grace Church Office Building",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "802 Broadway, New York, NY",
+  "cleanMeetingNames": "GRACE ON BROADWAY"
  },
  {
   "meetingName": "GRAMERCY - Gramercy",
@@ -1535,7 +1767,9 @@
   ],
   "meetingLocation": "Brothhood Synagogue",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Last Mon.6:30pm=Anniv Last Thursday Tradition"
+  "meetingAddInfo": "Last Mon.6:30pm=Anniv Last Thursday Tradition",
+  "cleanMeetingAddress": "28 Grammercy Park South, New York, NY",
+  "cleanMeetingNames": "GRAMERCY"
  },
  {
   "meetingName": "GRAND CENTRAL - Grand Central",
@@ -1550,7 +1784,9 @@
   ],
   "meetingLocation": "Soldiers, Sailors, Marines & Airmen's Club",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T=Last Tuesday, Fri=Anniv. 2nd to Last Friday. All meetings are non-smoking."
+  "meetingAddInfo": "T=Last Tuesday, Fri=Anniv. 2nd to Last Friday. All meetings are non-smoking.",
+  "cleanMeetingAddress": "283 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "GRAND CENTRAL"
  },
  {
   "meetingName": "GRATEFUL GROUP OF AA -",
@@ -1567,7 +1803,9 @@
   ],
   "meetingLocation": "Saint George Episcopal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tue.Topic=Gratitude, Thu=11th Step Meditation Meeting,"
+  "meetingAddInfo": "Tue.Topic=Gratitude, Thu=11th Step Meditation Meeting,",
+  "cleanMeetingAddress": "209 East 16th Street, New York, NY",
+  "cleanMeetingNames": "GRATEFUL GROUP OF AA"
  },
  {
   "meetingName": "GREEN ROOM - Green Room",
@@ -1578,7 +1816,9 @@
   ],
   "meetingLocation": "The Actors Fund of America",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Focus is on those in the entertainment industry.  All are welcome. As Bill Sees It"
+  "meetingAddInfo": "Focus is on those in the entertainment industry.  All are welcome. As Bill Sees It",
+  "cleanMeetingAddress": "729 7th Avenue, New York, NY",
+  "cleanMeetingNames": "GREEN ROOM"
  },
  {
   "meetingName": "GREENWICH VILLAGE - Greenwich Village",
@@ -1593,7 +1833,9 @@
   ],
   "meetingLocation": "The Archive Building",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome. Basement St. Lukes Dance Center"
+  "meetingAddInfo": "Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome. Basement St. Lukes Dance Center",
+  "cleanMeetingAddress": "154 Christopher Street , New York, NY",
+  "cleanMeetingNames": "GREENWICH VILLAGE"
  },
  {
   "meetingName": "GRUPO BRASIL -",
@@ -1605,7 +1847,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Portugese speaking meeting."
+  "meetingAddInfo": "Portugese speaking meeting.",
+  "cleanMeetingAddress": "122 East 37th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO BRASIL"
  },
  {
   "meetingName": "GRUPO BUENA VOLUNTAD - Grupo Buena Voluntad",
@@ -1618,7 +1862,9 @@
   ],
   "meetingLocation": "Apartment Building",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All meetings are Open Discussion format."
+  "meetingAddInfo": "All meetings are Open Discussion format.",
+  "cleanMeetingAddress": "538 West 47th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO BUENA VOLUNTAD"
  },
  {
   "meetingName": "GRUPO CAMINO REAL - Grupo Camino Real",
@@ -1630,7 +1876,9 @@
   ],
   "meetingLocation": "Holy Name School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Spanish speaking meetings."
+  "meetingAddInfo": "Spanish speaking meetings.",
+  "cleanMeetingAddress": "200 West 97th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO CAMINO REAL"
  },
  {
   "meetingName": "GRUPO CENTRAL - Grupo Central",
@@ -1643,7 +1891,9 @@
   ],
   "meetingLocation": "St. Augustine's Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish speaking meetings."
+  "meetingAddInfo": "Spanish speaking meetings.",
+  "cleanMeetingAddress": "292 Henry Street, New York, NY",
+  "cleanMeetingNames": "GRUPO CENTRAL"
  },
  {
   "meetingName": "GRUPO DESPERTAR - Grupo Despertar",
@@ -1655,7 +1905,9 @@
   ],
   "meetingLocation": "Casita Esperanza",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish Speaking Meetings."
+  "meetingAddInfo": "Spanish Speaking Meetings.",
+  "cleanMeetingAddress": "557 West 156th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO DESPERTAR"
  },
  {
   "meetingName": "GRUPO DULCES 24 - Grupo Dulces 24",
@@ -1669,7 +1921,9 @@
   ],
   "meetingLocation": "Grace House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "B Last Friday Bilingual (English-Spanish) Meetings."
+  "meetingAddInfo": "B Last Friday Bilingual (English-Spanish) Meetings.",
+  "cleanMeetingAddress": "218 West 108th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO DULCES 24"
  },
  {
   "meetingName": "GRUPO EL MILAGRO - Grupo El Milagro",
@@ -1680,7 +1934,9 @@
   ],
   "meetingLocation": "Good Reedemer Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish speaking meeting."
+  "meetingAddInfo": "Spanish speaking meeting.",
+  "cleanMeetingAddress": "173 East 3rd Street, New York, NY",
+  "cleanMeetingNames": "GRUPO EL MILAGRO"
  },
  {
   "meetingName": "GRUPO GRATITUD - Grupo Gratitud",
@@ -1692,7 +1948,9 @@
   ],
   "meetingLocation": "Our Lady of Guadalupe Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon=Step 1st Mon. Spanish speaking meetings."
+  "meetingAddInfo": "Mon=Step 1st Mon. Spanish speaking meetings.",
+  "cleanMeetingAddress": "229 West 14th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO GRATITUD"
  },
  {
   "meetingName": "GRUPO LA FLAAPAAERICAA- Grupo La Flama Panamericana",
@@ -1706,7 +1964,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish speaking meetings."
+  "meetingAddInfo": "Spanish speaking meetings.",
+  "cleanMeetingAddress": "35 Thayer Street, New York, NY",
+  "cleanMeetingNames": "GRUPO LA FLAMA PANAMERICANA"
  },
  {
   "meetingName": "GRUPO LIBERTAD - Grupo Libertad",
@@ -1720,7 +1980,9 @@
   ],
   "meetingLocation": "Episcopal Holy Rood Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish speaking meetings."
+  "meetingAddInfo": "Spanish speaking meetings.",
+  "cleanMeetingAddress": "715 West 179th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO LIBERTAD"
  },
  {
   "meetingName": "GRUPO LUZ DIVINA -",
@@ -1731,7 +1993,9 @@
   ],
   "meetingLocation": "Iglesia Metodista Grace",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish speaking meeting."
+  "meetingAddInfo": "Spanish speaking meeting.",
+  "cleanMeetingAddress": "125 West 104th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO LUZ DIVINA"
  },
  {
   "meetingName": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
@@ -1748,7 +2012,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Spanish speaking meetings."
+  "meetingAddInfo": "Spanish speaking meetings.",
+  "cleanMeetingAddress": "2126 2nd Avenue, New York, NY",
+  "cleanMeetingNames": "GRUPO NUEVA VIDA"
  },
  {
   "meetingName": "GRUPO RECUPERACION - Grupo Recuperacion",
@@ -1761,7 +2027,9 @@
   ],
   "meetingLocation": "Church Santa Rosa de Lima",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Spanish speaking meetings."
+  "meetingAddInfo": "Spanish speaking meetings.",
+  "cleanMeetingAddress": "502 West165th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO RECUPERACION"
  },
  {
   "meetingName": "GRUPO SOBRIEDAD - Grupo Sobriedad",
@@ -1772,7 +2040,9 @@
   ],
   "meetingLocation": "Our Lady of Guadalupe Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Spanish speaking meeting."
+  "meetingAddInfo": "Spanish speaking meeting.",
+  "cleanMeetingAddress": "229 West 14th Street, New York, NY",
+  "cleanMeetingNames": "GRUPO SOBRIEDAD"
  },
  {
   "meetingName": "GRUPO TRASMITELO -",
@@ -1783,7 +2053,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Spanish speaking meeting."
+  "meetingAddInfo": "Spanish speaking meeting.",
+  "cleanMeetingAddress": "469 West 142nd Street, New York, NY",
+  "cleanMeetingNames": "GRUPO TRASMITELO"
  },
  {
   "meetingName": "GRUPO UN NUEVO AAECER - Grupo Un Nuevo Amanecer",
@@ -1795,7 +2067,9 @@
   ],
   "meetingLocation": "Our Lady Queen of Martyrs",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Spanish Speaking Meetings."
+  "meetingAddInfo": "Spanish Speaking Meetings.",
+  "cleanMeetingAddress": "91 Arden Street, New York, NY",
+  "cleanMeetingNames": "GRUPO UN NUEVO AMANECER"
  },
  {
   "meetingName": "HAPPY DESTINY -",
@@ -1807,7 +2081,9 @@
   ],
   "meetingLocation": "Holy Trinity Episcopal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "LGBT All welcome. Sun= As Bill See it; Wed=Steps1-3 Sun.meeting in Sanctuary; Wed meeting in Auditorium"
+  "meetingAddInfo": "LGBT All welcome. Sun= As Bill See it; Wed=Steps1-3 Sun.meeting in Sanctuary; Wed meeting in Auditorium",
+  "cleanMeetingAddress": "20 Cumming Street, New York, NY",
+  "cleanMeetingNames": "HAPPY DESTINY"
  },
  {
   "meetingName": "HAPPY, JOYOUS AND FREE -",
@@ -1819,7 +2095,9 @@
   ],
   "meetingLocation": "Manhattan Church of The Seventh-day Adventist",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Topic Meeting for gay men approaching and over 40. All are welcome."
+  "meetingAddInfo": "Topic Meeting for gay men approaching and over 40. All are welcome.",
+  "cleanMeetingAddress": "232 West 11th Street, New York, NY",
+  "cleanMeetingNames": "HAPPY, JOYOUS AND FREE"
  },
  {
   "meetingName": "HARGRAVE - Hargrave House",
@@ -1832,7 +2110,9 @@
   ],
   "meetingLocation": "Hamilton House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "141 West 73rd Street, New York, NY",
+  "cleanMeetingNames": "HARGRAVE HOUSE"
  },
  {
   "meetingName": "HARLEM 1 PM RECOVERY - Harlem 1 PM Recovery",
@@ -1844,7 +2124,9 @@
   ],
   "meetingLocation": "Veterans Residence",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "ID REQUIRED TO ENTER BUILDING"
+  "meetingAddInfo": "ID REQUIRED TO ENTER BUILDING",
+  "cleanMeetingAddress": "22 East 119th Street, New York, NY",
+  "cleanMeetingNames": "HARLEM 1 PM RECOVERY"
  },
  {
   "meetingName": "HARLEM HUMANISTS -",
@@ -1855,11 +2137,13 @@
   ],
   "meetingLocation": "St. Mary's Episcopal",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Contact in Advance for Wheelcahir Accessibility"
+  "meetingAddInfo": "Contact in Advance for Wheelcahir Accessibility",
+  "cleanMeetingAddress": "521 W 126th St, New York, NY",
+  "cleanMeetingNames": "HARLEM HUMANISTS"
  },
  {
   "meetingName": "HELL'S KITCHEN - Hell's Kitchen",
-  "meetingAddress": "1000 Tenth Avenue, 8th Floor (Room #8G49,",
+  "meetingAddress": "1000 Tenth Avenue, 8th Floor ,Room #8G49,",
   "meetingDetails": [
    "<b>Mondays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    "<b>Thursdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -1867,7 +2151,9 @@
   ],
   "meetingLocation": "Mount Sinai - Roosevelt Hospital",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Anniv. 1st Monday, T 2nd & S Last Thursday, NOTE: On legal holidays, the meeting meets on the 1st Floor (Ask for the room at the reception desk)"
+  "meetingAddInfo": "Anniv. 1st Monday, T 2nd & S Last Thursday, NOTE: On legal holidays, the meeting meets on the 1st Floor (Ask for the room at the reception desk)",
+  "cleanMeetingAddress": "1000 Tenth Avenue, New York, NY",
+  "cleanMeetingNames": "HELL'S KITCHEN"
  },
  {
   "meetingName": "HENRY HUDSON - Henry Hudson",
@@ -1878,7 +2164,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "303 West 42nd Street, New York, NY",
+  "cleanMeetingNames": "HENRY HUDSON"
  },
  {
   "meetingName": "HIGH NOON - High Noon",
@@ -1889,18 +2177,22 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Interpreted for the deaf and hard of hearing Check listing at the center for the room number."
+  "meetingAddInfo": "Interpreted for the deaf and hard of hearing Check listing at the center for the room number.",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "HIGH NOON"
  },
  {
   "meetingName": "HUMANISTS TOO -",
-  "meetingAddress": "65 East 89th Street - Rectory basement, \r\n\t\t\t\t\t\t10128",
+  "meetingAddress": "65 East 89th Street , Rectory basement, \r\n\t\t\t\t\t\t10128",
   "meetingDetails": [
    "<b>Mondays From</b>6:15 PM<b>to</b>7:15 PM<br><b>Special Interest</b>Agnostic",
    ""
   ],
   "meetingLocation": "Church of Saint Thomas Moore",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Agnostic"
+  "meetingAddInfo": "Agnostic",
+  "cleanMeetingAddress": "65 East 89th Street , New York, NY",
+  "cleanMeetingNames": "HUMANISTS TOO"
  },
  {
   "meetingName": "I'M ALL IN -",
@@ -1916,7 +2208,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "I'M ALL IN"
  },
  {
   "meetingName": "INTO ACTION MANHATTAN - Into Action Manhattan",
@@ -1927,7 +2221,9 @@
   ],
   "meetingLocation": "St. Francis de Sales Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "lower level"
+  "meetingAddInfo": "lower level",
+  "cleanMeetingAddress": "135 East 96th Street, New York, NY",
+  "cleanMeetingNames": "INTO ACTION MANHATTAN"
  },
  {
   "meetingName": "INWOOD FORT TRYON - Inwood-Ft. Tryon",
@@ -1940,7 +2236,9 @@
   ],
   "meetingLocation": "Mount Washington Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting"
+  "meetingAddInfo": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting",
+  "cleanMeetingAddress": "84 Vermilyea Avenue, New York, NY",
+  "cleanMeetingNames": "INWOOD-FT. TRYON"
  },
  {
   "meetingName": "ISHAM PARK - Isham Park",
@@ -1951,7 +2249,9 @@
   ],
   "meetingLocation": "Church of the Good Shepherd",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Open Anniv. Last Mon."
+  "meetingAddInfo": "Open Anniv. Last Mon.",
+  "cleanMeetingAddress": "620 Isham Street, New York, NY",
+  "cleanMeetingNames": "ISHAM PARK"
  },
  {
   "meetingName": "JOE AND CHARLIE CD MEETING -",
@@ -1962,7 +2262,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Big Book Workshop"
+  "meetingAddInfo": "Big Book Workshop",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "JOE AND CHARLIE CD MEETING"
  },
  {
   "meetingName": "JUST FOR TODAY - Just For Today",
@@ -1973,7 +2275,9 @@
   ],
   "meetingLocation": "Brotherhood Synagogue",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Please Do Not Call the Synagogue for Meeting Info."
+  "meetingAddInfo": "Please Do Not Call the Synagogue for Meeting Info.",
+  "cleanMeetingAddress": "28 Gramercy Park South, New York, NY",
+  "cleanMeetingNames": "JUST FOR TODAY"
  },
  {
   "meetingName": "K.I.S.S. - Keep It Simple (Kiss)",
@@ -1985,7 +2289,9 @@
   ],
   "meetingLocation": "SRO Building Community Room",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "All meetings are non-smoking."
+  "meetingAddInfo": "All meetings are non-smoking.",
+  "cleanMeetingAddress": "109 West 129th Street, New York, NY",
+  "cleanMeetingNames": "KEEP IT SIMPLE (KISS)"
  },
  {
   "meetingName": "KITCHEN TABLE MEETING -",
@@ -1996,7 +2302,9 @@
   ],
   "meetingLocation": "Jan Hus Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "KITCHEN TABLE MEETING"
  },
  {
   "meetingName": "LAeX - TERMINAL UNIQUENESS -",
@@ -2007,7 +2315,9 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bisexual, & Transgender Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "LA Transplants/Vistors    All Welcome"
+  "meetingAddInfo": "LA Transplants/Vistors    All Welcome",
+  "cleanMeetingAddress": "208 W 13th Street, New York, NY",
+  "cleanMeetingNames": "TERMINAL UNIQUENESS -"
  },
  {
   "meetingName": "LAMBDA WEST - Lambda West",
@@ -2021,11 +2331,13 @@
   ],
   "meetingLocation": "Rutgers Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome."
+  "meetingAddInfo": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome.",
+  "cleanMeetingAddress": "236 West 73rd Street, New York, NY",
+  "cleanMeetingNames": "LAMBDA WEST"
  },
  {
   "meetingName": "LEARNING TO LIVE ( :1) -",
-  "meetingAddress": "307 W. 26th St.,",
+  "meetingAddress": "307 W, 26th St.,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:00 PM<b>to</b>1:00 AM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Promises",
    "<b>Fridays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -2036,7 +2348,9 @@
   ],
   "meetingLocation": "The Upright Citizens Brigade Theatre",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "307 West 26th St., New York, NY",
+  "cleanMeetingNames": "LEARNING TO LIVE ( :1)"
  },
  {
   "meetingName": "LEARNING TO LIVE ( :II) -",
@@ -2047,10 +2361,12 @@
   ],
   "meetingLocation": "St. Columba Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "343 West 25th Street, New York, NY",
+  "cleanMeetingNames": "LEARNING TO LIVE ( :II)"
  },
  {
-  "meetingName": "LEARNING TO LIVE (:I) - Learning To Live",
+  "meetingName": "LEARNING TO LIVE  - Learning To Live",
   "meetingAddress": "307 West 26th Street,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:00 PM<b>to</b>1:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Promises",
@@ -2062,7 +2378,9 @@
   ],
   "meetingLocation": "Upright Citizens Brigade Theatre",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All meetings are non-smoking."
+  "meetingAddInfo": "All meetings are non-smoking.",
+  "cleanMeetingAddress": "307 West 26th Street, New York, NY",
+  "cleanMeetingNames": "LEARNING TO LIVE"
  },
  {
   "meetingName": "LEARNING TO LIVE SOBER - Learning To Live Sober",
@@ -2073,7 +2391,9 @@
   ],
   "meetingLocation": "Our Lady of Lourdes",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "469 West 142nd Street, New York, NY",
+  "cleanMeetingNames": "LEARNING TO LIVE SOBER"
  },
  {
   "meetingName": "LENOX HILL - Lenox Hill",
@@ -2088,7 +2408,9 @@
   ],
   "meetingLocation": "Church of the Heavenly Rest",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "2 East 90th Street, New York, NY",
+  "cleanMeetingNames": "LENOX HILL"
  },
  {
   "meetingName": "LEX 80 STEP -",
@@ -2099,7 +2421,9 @@
   ],
   "meetingLocation": "All Souls Uniterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Southside Chapel"
+  "meetingAddInfo": "Southside Chapel",
+  "cleanMeetingAddress": "1157 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "LEX 80 STEP"
  },
  {
   "meetingName": "LIFE LINE - Life Line",
@@ -2111,7 +2435,9 @@
   ],
   "meetingLocation": "St. Peter's Lutheran Church at CitiCorp Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "All meetings are non-smoking."
+  "meetingAddInfo": "All meetings are non-smoking.",
+  "cleanMeetingAddress": "619 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "LIFE LINE"
  },
  {
   "meetingName": "LIVE AND LET LIVE - Live And Let Live",
@@ -2124,7 +2450,9 @@
   ],
   "meetingLocation": "Gracie Square Hospital",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Thurs=Topic Meeting, Check in with security at front desk. Gay & lesbian focus.  All are welcome."
+  "meetingAddInfo": "Thurs=Topic Meeting, Check in with security at front desk. Gay & lesbian focus.  All are welcome.",
+  "cleanMeetingAddress": "420 East 76th Street, New York, NY",
+  "cleanMeetingNames": "LIVE AND LET LIVE"
  },
  {
   "meetingName": "LIVING CLEAN AND SOBER ON 121st STREET - Living Clean And Sober On 121st Street",
@@ -2135,11 +2463,13 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "S 2nd, BB 3rd, OD 4th, Living Sober 5th wk."
+  "meetingAddInfo": "S 2nd, BB 3rd, OD 4th, Living Sober 5th wk.",
+  "cleanMeetingAddress": "2044 Seventh Avenue, New York, NY",
+  "cleanMeetingNames": "LIVING CLEAN AND SOBER ON 121ST STREET"
  },
  {
-  "meetingName": "LIVING NOW - Living Now (:II)",
-  "meetingAddress": "80 St. Mark&apos;s Place, 2nd Floor,",
+  "meetingName": "LIVING NOW - Living Now",
+  "meetingAddress": "80 St, Mark&apos;s Place, 2nd Floor,",
   "meetingDetails": [
    "<b>Saturdays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>O = Open meeting",
    "<b>Sundays From</b>10:00 AM<b>to</b>11:00 AM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -2159,7 +2489,9 @@
   ],
   "meetingLocation": "Theatre 80",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tue.7pm=4th & 5th Step Workshop, **Beginners 3 speaker panel Sat.& Sun.10am Meeting is in the main theatre."
+  "meetingAddInfo": "Tue.7pm=4th & 5th Step Workshop, **Beginners 3 speaker panel Sat.& Sun.10am Meeting is in the main theatre.",
+  "cleanMeetingAddress": "80 St, New York, NY",
+  "cleanMeetingNames": "LIVING NOW"
  },
  {
   "meetingName": "LIVING TODAY - Living Today",
@@ -2171,7 +2503,9 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Gay & lesbian focus.  All are welcome."
+  "meetingAddInfo": "Gay & lesbian focus.  All are welcome.",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "LIVING TODAY"
  },
  {
   "meetingName": "LOWER EAST SIDE -",
@@ -2182,11 +2516,13 @@
   ],
   "meetingLocation": "Church of Saint Theresa Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "141 Henry Street, New York, NY",
+  "cleanMeetingNames": "LOWER EAST SIDE"
  },
  {
   "meetingName": "LUNCH BUNCH - Lunch Bunch",
-  "meetingAddress": "141 East 43rd Street, Basement Hall, elevator is available.,",
+  "meetingAddress": "141 East 43rd Street, Basement Hall, elevator is available,,",
   "meetingDetails": [
    "<b>Thursdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    "<b>Fridays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -2197,18 +2533,22 @@
   ],
   "meetingLocation": "Saint Agnes Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Enter main Church entrance, turn left, meeting is downstairs. T 3rd Wed. Open Anniv. or Open Disc. Meeting last Fri."
+  "meetingAddInfo": "Enter main Church entrance, turn left, meeting is downstairs. T 3rd Wed. Open Anniv. or Open Disc. Meeting last Fri.",
+  "cleanMeetingAddress": "141 East 43rd Street, New York, NY",
+  "cleanMeetingNames": "LUNCH BUNCH"
  },
  {
   "meetingName": "LUNCHTIME EXPRESS AT THE MUSTARD SEED -",
-  "meetingAddress": "122 E 37TH St.,",
+  "meetingAddress": "122 E 37TH St,,",
   "meetingDetails": [
    "<b>Wednesdays From</b>12:30 PM<b>to</b>1:15 PM<br><b>Meeting Type</b>O = Open meeting",
    ""
   ],
   "meetingLocation": "MUSTARD SEED",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "122 E 37TH St, New York, NY",
+  "cleanMeetingNames": "LUNCHTIME EXPRESS AT THE MUSTARD SEED"
  },
  {
   "meetingName": "MADISON 73 - Madison 73",
@@ -2220,7 +2560,9 @@
   ],
   "meetingLocation": "Jan Hus Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All Meetings Are Non-Smoking."
+  "meetingAddInfo": "All Meetings Are Non-Smoking.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "MADISON 73"
  },
  {
   "meetingName": "MADISON PARK BEGINNERS - Madison Park Beginners",
@@ -2232,7 +2574,9 @@
   ],
   "meetingLocation": "Intercare",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "51 East 25th Street, New York, NY",
+  "cleanMeetingNames": "MADISON PARK BEGINNERS"
  },
  {
   "meetingName": "MANHATTAN - Manhattan",
@@ -2244,7 +2588,9 @@
   ],
   "meetingLocation": "Gustavus Adolphus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Open Anniv Last Tuesday. All meetings are non-smoking."
+  "meetingAddInfo": "Open Anniv Last Tuesday. All meetings are non-smoking.",
+  "cleanMeetingAddress": "155 East 22nd Street, New York, NY",
+  "cleanMeetingNames": "MANHATTAN"
  },
  {
   "meetingName": "MANHATTAN VALLEY - Manhattan Valley",
@@ -2255,7 +2601,9 @@
   ],
   "meetingLocation": "West End Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "165 West 105th Street, New York, NY",
+  "cleanMeetingNames": "MANHATTAN VALLEY"
  },
  {
   "meetingName": "MEDITATION (EXPECT MIRACLES) - Meditation (Expect Miracles)",
@@ -2271,7 +2619,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All meetings are 11th Step Meditation format."
+  "meetingAddInfo": "All meetings are 11th Step Meditation format.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "MEDITATION (EXPECT MIRACLES)"
  },
  {
   "meetingName": "MEDITATION COMES TO HARLEM - Meditation Comes To Harlem",
@@ -2282,7 +2632,9 @@
   ],
   "meetingLocation": "S.A.G.E.",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Meeting is closed on holidays"
+  "meetingAddInfo": "Meeting is closed on holidays",
+  "cleanMeetingAddress": "127 West 127th Street, New York, NY",
+  "cleanMeetingNames": "MEDITATION COMES TO HARLEM"
  },
  {
   "meetingName": "MEDITATION SATURDAY NIGHT - Meditation Saturday Night",
@@ -2293,7 +2645,9 @@
   ],
   "meetingLocation": "Mustard Seed",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "11th S Meditation ENT BASEMENT ONLY"
+  "meetingAddInfo": "11th S Meditation ENT BASEMENT ONLY",
+  "cleanMeetingAddress": "122 East 37th Street, New York, NY",
+  "cleanMeetingNames": "MEDITATION SATURDAY NIGHT"
  },
  {
   "meetingName": "MEN'S NYC BIG BOOK STEP STUDY -",
@@ -2304,7 +2658,9 @@
   ],
   "meetingLocation": "Philomathist Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Ring Bell for entry"
+  "meetingAddInfo": "Ring Bell for entry",
+  "cleanMeetingAddress": "1285 Madison Avenue, New York, NY",
+  "cleanMeetingNames": "MEN'S NYC BIG BOOK STEP STUDY"
  },
  {
   "meetingName": "METROPOLIS MEN'S MEETING -",
@@ -2315,7 +2671,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "METROPOLIS MEN'S MEETING"
  },
  {
   "meetingName": "METROPOLITAN - Metropolitan",
@@ -2330,7 +2688,9 @@
   ],
   "meetingLocation": "St. Ignatius Loyola School",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Tue.6:30=Literature Topic,Sat=Meets in the Rectory. Wheel Chair Access on Tuesday & Sunday Only"
+  "meetingAddInfo": "Tue.6:30=Literature Topic,Sat=Meets in the Rectory. Wheel Chair Access on Tuesday & Sunday Only",
+  "cleanMeetingAddress": "48 East 84th Street, New York, NY",
+  "cleanMeetingNames": "METROPOLITAN"
  },
  {
   "meetingName": "MID-DAY CHEER - Mid-Day Cheer",
@@ -2345,7 +2705,9 @@
   ],
   "meetingLocation": "Holy Name Church Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting"
+  "meetingAddInfo": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "AY CHEER - MID-DAY CHEER"
  },
  {
   "meetingName": "MID-HARLEM - Mid-Harlem",
@@ -2358,7 +2720,9 @@
   ],
   "meetingLocation": "Grace Congregational Baptist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm"
+  "meetingAddInfo": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
+  "cleanMeetingAddress": "310 West 139th Street, New York, NY",
+  "cleanMeetingNames": "ARLEM - MID-HARLEM"
  },
  {
   "meetingName": "MIDNIGHT IN MIDTOWN -",
@@ -2375,7 +2739,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Sunday, Mon=Came To Believe, Last Sat. Open Anniversary Last Sat. meets at 252 West 46th Street"
+  "meetingAddInfo": "T Last Sunday, Mon=Came To Believe, Last Sat. Open Anniversary Last Sat. meets at 252 West 46th Street",
+  "cleanMeetingAddress": "303 West 42nd Street, New York, NY",
+  "cleanMeetingNames": "MIDNIGHT IN MIDTOWN"
  },
  {
   "meetingName": "MIDNITE -",
@@ -2433,18 +2799,22 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last"
+  "meetingAddInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+  "cleanMeetingAddress": "220 West Houston Street, New York, NY",
+  "cleanMeetingNames": "MIDNITE"
  },
  {
   "meetingName": "MIRACLE - Miracle",
-  "meetingAddress": "422 W. 57th St.,",
+  "meetingAddress": "422 W, 57th St.,",
   "meetingDetails": [
    "<b>Mondays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    ""
   ],
   "meetingLocation": "Trinity Presbyterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Open on Holidays."
+  "meetingAddInfo": "Open on Holidays.",
+  "cleanMeetingAddress": "422 West 57th St., New York, NY",
+  "cleanMeetingNames": "MIRACLE"
  },
  {
   "meetingName": "MONDAY EAST TOPIC - Monday East Topic",
@@ -2455,7 +2825,9 @@
   ],
   "meetingLocation": "St. Stephen of Hungary Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Round Robin format & No Meeting on Legal Holidays."
+  "meetingAddInfo": "Round Robin format & No Meeting on Legal Holidays.",
+  "cleanMeetingAddress": "408 East 82nd Street, New York, NY",
+  "cleanMeetingNames": "MONDAY EAST TOPIC"
  },
  {
   "meetingName": "MONDAY MEN - Monday Men",
@@ -2468,7 +2840,9 @@
   ],
   "meetingLocation": "St. Agnes Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "141 East 43rd Street, New York, NY",
+  "cleanMeetingNames": "MONDAY MEN"
  },
  {
   "meetingName": "MONDAY NIGHT CHALLENGE - Monday Night Challenge",
@@ -2479,7 +2853,9 @@
   ],
   "meetingLocation": "St. James Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "409 West 141st Street, New York, NY",
+  "cleanMeetingNames": "MONDAY NIGHT CHALLENGE"
  },
  {
   "meetingName": "MONDAY WOMEN -",
@@ -2490,7 +2866,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "AA Literature Topic Meeting & Open last Monday. Women's Meeting"
+  "meetingAddInfo": "AA Literature Topic Meeting & Open last Monday. Women's Meeting",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "MONDAY WOMEN"
  },
  {
   "meetingName": "MORNING CALL -",
@@ -2502,11 +2880,13 @@
   ],
   "meetingLocation": "St. Mary the Virgin Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "133 West 46th Street, New York, NY",
+  "cleanMeetingNames": "MORNING CALL"
  },
  {
   "meetingName": "MORNING REFLECTIONS -",
-  "meetingAddress": "351 East 74th Street,  2nd Floor - Front Room,",
+  "meetingAddress": "351 East 74th Street,  2nd Floor , Front Room,",
   "meetingDetails": [
    "<b>Mondays From</b>9:30 AM<b>to</b>10:30 AM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Daily Reflections",
    "<b>Tuesdays From</b>9:30 AM<b>to</b>10:30 AM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Daily Reflections",
@@ -2517,7 +2897,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Daily Reflections readings & round robin format Discussion"
+  "meetingAddInfo": "Daily Reflections readings & round robin format Discussion",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "MORNING REFLECTIONS"
  },
  {
   "meetingName": "MORNINGSIDE - Morningside",
@@ -2531,7 +2913,9 @@
   ],
   "meetingLocation": "Advent Lutheran Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "All meetings are non-smoking."
+  "meetingAddInfo": "All meetings are non-smoking.",
+  "cleanMeetingAddress": "2504 Broadway, New York, NY",
+  "cleanMeetingNames": "MORNINGSIDE"
  },
  {
   "meetingName": "MORNINGSIDE HEIGHTS BEGINNERS -",
@@ -2543,7 +2927,9 @@
   ],
   "meetingLocation": "Church of Notre Dame",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "405 West 114th Street, New York, NY",
+  "cleanMeetingNames": "MORNINGSIDE HEIGHTS BEGINNERS"
  },
  {
   "meetingName": "MURRAY HILL - Murray Hill",
@@ -2554,10 +2940,12 @@
   ],
   "meetingLocation": "Church of the Incarnation",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "No Meetings on Legal Holidays."
+  "meetingAddInfo": "No Meetings on Legal Holidays.",
+  "cleanMeetingAddress": "209 Madison Avenue, New York, NY",
+  "cleanMeetingNames": "MURRAY HILL"
  },
  {
-  "meetingName": "MUSTARD SEED - Mustard Seed (:I)",
+  "meetingName": "MUSTARD SEED - Mustard Seed",
   "meetingAddress": "122 East 37th Street,  Basement,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:15 AM<b>to</b>7:15 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -2625,11 +3013,13 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun.7:30am,Tue.6:15pm B & Wed.6:15pm C =Meditation Wkshp., Sun.9:30am Step=Back to Basics, Fri.7:30pm=Anniv.every Fri. Thurs. 8am back room, Gratitude"
+  "meetingAddInfo": "Sun.7:30am,Tue.6:15pm B & Wed.6:15pm C =Meditation Wkshp., Sun.9:30am Step=Back to Basics, Fri.7:30pm=Anniv.every Fri. Thurs. 8am back room, Gratitude",
+  "cleanMeetingAddress": "122 East 37th Street, New York, NY",
+  "cleanMeetingNames": "MUSTARD SEED"
  },
  {
   "meetingName": "N.Y.U. (NOW YOU UNDERSTAND) - N.Y.U. (Now You Understand)",
-  "meetingAddress": "7 East 10th Street, 2nd Floor (Note: A photo ID is required to enter the building.),",
+  "meetingAddress": "7 East 10th Street, 2nd Floor ,Note: A photo ID is required to enter the building,),",
   "meetingDetails": [
    "<b>Mondays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    "<b>Tuesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -2645,7 +3035,9 @@
   ],
   "meetingLocation": "Bronfman Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tue.2pm=11th Step Meditation, Thu.12:30pm=Topic, Fri.12:30pm Note: There Is No 2:00 Meeting On The Last Day Of The Month Anniv. Last Weekday of the Month"
+  "meetingAddInfo": "Tue.2pm=11th Step Meditation, Thu.12:30pm=Topic, Fri.12:30pm Note: There Is No 2:00 Meeting On The Last Day Of The Month Anniv. Last Weekday of the Month",
+  "cleanMeetingAddress": "7 East 10th Street, New York, NY",
+  "cleanMeetingNames": "N.Y.U. (NOW YOU UNDERSTAND)"
  },
  {
   "meetingName": "NEVER HAD A LEGAL DRINK - Never Had A Legal Drink",
@@ -2656,7 +3048,9 @@
   ],
   "meetingLocation": "German Evangelist Lutheran Church of St. Paul",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv. Last Thursday"
+  "meetingAddInfo": "Anniv. Last Thursday",
+  "cleanMeetingAddress": "315 West 22nd Street, New York, NY",
+  "cleanMeetingNames": "NEVER HAD A LEGAL DRINK"
  },
  {
   "meetingName": "NEVER TOO LATE - Never Too Late",
@@ -2667,7 +3061,9 @@
   ],
   "meetingLocation": "West End Collegiate Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All meetings are non-smoking."
+  "meetingAddInfo": "All meetings are non-smoking.",
+  "cleanMeetingAddress": "368 West End Ave, New York, NY",
+  "cleanMeetingNames": "NEVER TOO LATE"
  },
  {
   "meetingName": "NEW BUT WEST - New But West",
@@ -2699,7 +3095,9 @@
   ],
   "meetingLocation": "St. Mary the Virgin Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tue.Step=#'s 4-7, Wed.5:30=Grapevine Topic, Thu.12:30 Step=#'s 4-7 Thu.5:30=T last Thu.,Fri.BB=T last Fri. Fri.Step=#'s 8-12"
+  "meetingAddInfo": "Tue.Step=#'s 4-7, Wed.5:30=Grapevine Topic, Thu.12:30 Step=#'s 4-7 Thu.5:30=T last Thu.,Fri.BB=T last Fri. Fri.Step=#'s 8-12",
+  "cleanMeetingAddress": "133 West 46th Street, New York, NY",
+  "cleanMeetingNames": "NEW BUT WEST"
  },
  {
   "meetingName": "NEW CHOICES - New Choices",
@@ -2711,11 +3109,13 @@
   ],
   "meetingLocation": "Congregational Kehilath Jeshurun",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "125 East 85th Street, New York, NY",
+  "cleanMeetingNames": "NEW CHOICES"
  },
  {
   "meetingName": "NEW GROUP - New Group",
-  "meetingAddress": "83 Christopher Street (Red Door, Left of Church),",
+  "meetingAddress": "83 Christopher Street ,Red Door, Left of Church),",
   "meetingDetails": [
    "<b>Sundays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>O = Open meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
    "<b>Wednesdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -2724,7 +3124,9 @@
   ],
   "meetingLocation": "St. John's Lutheran Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Gay & Lesbian focus.  All are welcome."
+  "meetingAddInfo": "Gay & Lesbian focus.  All are welcome.",
+  "cleanMeetingAddress": "83 Christopher Street , New York, NY",
+  "cleanMeetingNames": "NEW GROUP"
  },
  {
   "meetingName": "NEW LIFE IN SOBRIETY - New Life In Sobriety",
@@ -2737,7 +3139,9 @@
   ],
   "meetingLocation": "Friends Meeting House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T 1st Monday, Anniv Last Friday. All meetings are non-smoking."
+  "meetingAddInfo": "T 1st Monday, Anniv Last Friday. All meetings are non-smoking.",
+  "cleanMeetingAddress": "15 Rutherford Place, New York, NY",
+  "cleanMeetingNames": "NEW LIFE IN SOBRIETY"
  },
  {
   "meetingName": "NEW PHOENIX -",
@@ -2754,7 +3158,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "303 West 42nd Street, New York, NY",
+  "cleanMeetingNames": "NEW PHOENIX"
  },
  {
   "meetingName": "NIGHT LIGHT - Night Light",
@@ -2765,7 +3171,9 @@
   ],
   "meetingLocation": "St. Michael's Parish House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T 1st Monday Non-Smoking Meeting."
+  "meetingAddInfo": "T 1st Monday Non-Smoking Meeting.",
+  "cleanMeetingAddress": "225 West 99th Street, New York, NY",
+  "cleanMeetingNames": "NIGHT LIGHT"
  },
  {
   "meetingName": "NIGHT LIGHT BEGINNERS - Night Light Beginners",
@@ -2776,7 +3184,9 @@
   ],
   "meetingLocation": "Anshe Chesed Synagogue",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "251 West 100th Street, New York, NY",
+  "cleanMeetingNames": "NIGHT LIGHT BEGINNERS"
  },
  {
   "meetingName": "NINETY-SIXTH STREET WORKSHOP - Ninety-Sixth Street Workshop",
@@ -2791,21 +3201,25 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It"
+  "meetingAddInfo": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "IXTH STREET WORKSHOP - NINETY-SIXTH STREET WORKSHOP"
  },
  {
   "meetingName": "NINJAS IN RECOVERY -",
-  "meetingAddress": "25 East 15th- Conference Room H, \r\n\t\t\t\t\t\t10003",
+  "meetingAddress": "25 East 15th, Conference Room H, \r\n\t\t\t\t\t\t10003",
   "meetingDetails": [
    "<b>Wednesdays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
   ],
   "meetingLocation": "The Realization Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "25 East 15th, New York, NY",
+  "cleanMeetingNames": "NINJAS IN RECOVERY"
  },
  {
-  "meetingName": "NINTH AVENUE (:I) - Ninth Avenue (:I)",
+  "meetingName": "NINTH AVENUE  - Ninth Avenue (:I)",
   "meetingAddress": "296 9th Avenue, 2nd Floor,",
   "meetingDetails": [
    "<b>Wednesdays From</b>6:15 PM<b>to</b>7:15 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -2818,10 +3232,12 @@
   ],
   "meetingLocation": "Holy Apostles Church Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Business meeting held on 1st Monday at 7:45pm LGBTQ Friendly.  All are welcome."
+  "meetingAddInfo": "Business meeting held on 1st Monday at 7:45pm LGBTQ Friendly.  All are welcome.",
+  "cleanMeetingAddress": "296 9th Avenue, New York, NY",
+  "cleanMeetingNames": "NINTH AVENUE (:I)"
  },
  {
-  "meetingName": "NINTH AVENUE (:II) - Ninth Avenue (:II)",
+  "meetingName": "NINTH AVENUE  - Ninth Avenue (:II)",
   "meetingAddress": "175 9th Avenue, 1st and 2nd Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -2836,7 +3252,9 @@
   ],
   "meetingLocation": "General Theological Seminary",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Fri.6pm OD=11th Step Meditation, Fri.7:15pm O=Anniv Last Friday, +HIV Topic LGBTQ Friendly.  All are welcome. Fri 7:15 CD=Relationships in Sobriety Business meeting at Holy Apostoles on 1st Monday a"
+  "meetingAddInfo": "Fri.6pm OD=11th Step Meditation, Fri.7:15pm O=Anniv Last Friday, +HIV Topic LGBTQ Friendly.  All are welcome. Fri 7:15 CD=Relationships in Sobriety Business meeting at Holy Apostoles on 1st Monday a",
+  "cleanMeetingAddress": "175 9th Avenue, New York, NY",
+  "cleanMeetingNames": "NINTH AVENUE (:II)"
  },
  {
   "meetingName": "NU GARDEN - Nu Garden",
@@ -2849,7 +3267,9 @@
   ],
   "meetingLocation": "St. Francis of Assisi Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All meetings are non-smoking."
+  "meetingAddInfo": "All meetings are non-smoking.",
+  "cleanMeetingAddress": "139 West 31st Street, New York, NY",
+  "cleanMeetingNames": "NU GARDEN"
  },
  {
   "meetingName": "OPEN BOOK -",
@@ -2860,7 +3280,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Big Book Study"
+  "meetingAddInfo": "Big Book Study",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "OPEN BOOK"
  },
  {
   "meetingName": "OUR PRIMARY PURPOSE -",
@@ -2871,10 +3293,12 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Women's Meeting."
+  "meetingAddInfo": "Women's Meeting.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "OUR PRIMARY PURPOSE"
  },
  {
-  "meetingName": "OXFORD (:I) - Oxford",
+  "meetingName": "OXFORD  - Oxford",
   "meetingAddress": "26 West 84th Street,",
   "meetingDetails": [
    "<b>s From</b>12:00 AM<b>to</b>12:00 AM",
@@ -2885,7 +3309,9 @@
   ],
   "meetingLocation": "Church of St. Matthew & St. Timothy",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Interpreted for the Deaf and Hard of Hearing No meetings on holidays On Ground Floor Mon. & Wed.; Basement on Thurs."
+  "meetingAddInfo": "Interpreted for the Deaf and Hard of Hearing No meetings on holidays On Ground Floor Mon. & Wed.; Basement on Thurs.",
+  "cleanMeetingAddress": "26 West 84th Street, New York, NY",
+  "cleanMeetingNames": "OXFORD"
  },
  {
   "meetingName": "P.A.X - P.A.X",
@@ -2900,10 +3326,12 @@
   ],
   "meetingLocation": "Church of the Village",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Tue.6:45pm=T Last Tue. Meeting moved temporarily due to construction In the Gregory Sanctuary"
+  "meetingAddInfo": "Tue.6:45pm=T Last Tue. Meeting moved temporarily due to construction In the Gregory Sanctuary",
+  "cleanMeetingAddress": "201 West 13th Street , New York, NY",
+  "cleanMeetingNames": "P.A.X"
  },
  {
-  "meetingName": "PARK BENCH (:I) -",
+  "meetingName": "PARK BENCH  -",
   "meetingAddress": "1 West 53rd Street, 3rd Floor, \r\n\t\t\t\t\t\t10019",
   "meetingDetails": [
    "<b>Tuesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -2911,10 +3339,12 @@
   ],
   "meetingLocation": "St. Thomas Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "1 West 53rd Street, New York, NY",
+  "cleanMeetingNames": "PARK BENCH "
  },
  {
-  "meetingName": "PARK BENCH (:II) -",
+  "meetingName": "PARK BENCH  -",
   "meetingAddress": "865 Madison Avenue, 3rd Floor,",
   "meetingDetails": [
    "<b>Wednesdays From</b>12:30 PM<b>to</b>1:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -2923,7 +3353,9 @@
   ],
   "meetingLocation": "St. James Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "865 Madison Avenue, New York, NY",
+  "cleanMeetingNames": "PARK BENCH "
  },
  {
   "meetingName": "PARK MADISON - Park Madison",
@@ -2937,11 +3369,13 @@
   ],
   "meetingLocation": "Brick Church Parish House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Tue.8pm=Topic Round Robin, Anniv Last Fri.@ 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking."
+  "meetingAddInfo": "Tue.8pm=Topic Round Robin, Anniv Last Fri.@ 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking.",
+  "cleanMeetingAddress": "62 East 92nd Street, New York, NY",
+  "cleanMeetingNames": "PARK MADISON"
  },
  {
   "meetingName": "PASSING THE BAR - Passing The Bar",
-  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church.,",
+  "meetingAddress": "20 Cardinal Hayes Place, Enter thru driveway behind Church,,",
   "meetingDetails": [
    "<b>Mondays From</b>1:15 PM<b>to</b>2:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Tuesdays From</b>1:15 PM<b>to</b>2:15 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -2952,10 +3386,12 @@
   ],
   "meetingLocation": "St. Andrew's Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE"
+  "meetingAddInfo": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
+  "cleanMeetingAddress": "20 Cardinal Hayes Place, New York, NY",
+  "cleanMeetingNames": "PASSING THE BAR"
  },
  {
-  "meetingName": "PERRY STREET WORKSHOP - Perry Street Workshop (:I)",
+  "meetingName": "PERRY STREET WORKSHOP - Perry Street Workshop",
   "meetingAddress": "50 Perry Street, Ground Floor,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Meeting Type</b>S = Step meeting",
@@ -3020,7 +3456,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed."
+  "meetingAddInfo": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+  "cleanMeetingAddress": "50 Perry Street, New York, NY",
+  "cleanMeetingNames": "PERRY STREET WORKSHOP"
  },
  {
   "meetingName": "PERSEVERANCE - Perseverance",
@@ -3031,7 +3469,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "PERSEVERANCE"
  },
  {
   "meetingName": "POT LUCK -",
@@ -3042,7 +3482,9 @@
   ],
   "meetingLocation": "Veterans Administration Hospital",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "423 East 23rd Street, New York, NY",
+  "cleanMeetingNames": "POT LUCK"
  },
  {
   "meetingName": "POTPOURRI - Potpourri",
@@ -3057,7 +3499,9 @@
   ],
   "meetingLocation": "St. George's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Tuesday, Thu.=Topic"
+  "meetingAddInfo": "T Last Tuesday, Thu.=Topic",
+  "cleanMeetingAddress": "209 East 16th Street, New York, NY",
+  "cleanMeetingNames": "POTPOURRI"
  },
  {
   "meetingName": "POWERLESS - Powerless",
@@ -3072,7 +3516,9 @@
   ],
   "meetingLocation": "Manhattan Plaza Health Club",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Fri=Living Sober, Sat=Promises"
+  "meetingAddInfo": "Fri=Living Sober, Sat=Promises",
+  "cleanMeetingAddress": "484 West 43rd Street, New York, NY",
+  "cleanMeetingNames": "POWERLESS"
  },
  {
   "meetingName": "PRIMARY PURPOSE - Primary Purpose",
@@ -3083,7 +3529,9 @@
   ],
   "meetingLocation": "Riverside Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "91 Claremont Avenue, New York, NY",
+  "cleanMeetingNames": "PRIMARY PURPOSE"
  },
  {
   "meetingName": "PRIMETIME NYC (I) -",
@@ -3095,7 +3543,9 @@
   ],
   "meetingLocation": "Seventh Day Adventist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "232 West 11th Street, New York, NY",
+  "cleanMeetingNames": "PRIMETIME NYC (I)"
  },
  {
   "meetingName": "PRIMETIME NYC (II) -",
@@ -3106,7 +3556,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "411 East 12th Street, New York, NY",
+  "cleanMeetingNames": "PRIMETIME NYC (II)"
  },
  {
   "meetingName": "PROGRESS NOT PERFECTION -",
@@ -3117,7 +3569,9 @@
   ],
   "meetingLocation": "COATHA Church on the Hill Senior Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Open Discussion 1st, 2nd, 4th,and 5th when applicable. OPEN meeting is 3rd Fridays"
+  "meetingAddInfo": "Open Discussion 1st, 2nd, 4th,and 5th when applicable. OPEN meeting is 3rd Fridays",
+  "cleanMeetingAddress": "2005 Amsterdam Avenue, New York, NY",
+  "cleanMeetingNames": "PROGRESS NOT PERFECTION"
  },
  {
   "meetingName": "PROMISES - Promises",
@@ -3128,7 +3582,9 @@
   ],
   "meetingLocation": "Fifth Av Presbyterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "7 West 55th Street, New York, NY",
+  "cleanMeetingNames": "PROMISES"
  },
  {
   "meetingName": "PROMISES -",
@@ -3139,7 +3595,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "PROMISES"
  },
  {
   "meetingName": "PROMISES PROMISES - Promises Promises",
@@ -3150,11 +3608,13 @@
   ],
   "meetingLocation": "West Side YMCA",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "5 West 63rd Street, New York, NY",
+  "cleanMeetingNames": "PROMISES PROMISES"
  },
  {
   "meetingName": "PROMISES TWO FOR ONE - Promises Two For One",
-  "meetingAddress": "1727 Amsterdam Avenue, 1st Floor in the rear.,",
+  "meetingAddress": "1727 Amsterdam Avenue, 1st Floor in the rear,,",
   "meetingDetails": [
    "<b>Sundays From</b>9:30 AM<b>to</b>10:30 AM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Sundays From</b>11:00 AM<b>to</b>12:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -3162,7 +3622,9 @@
   ],
   "meetingLocation": "Upper Manhattan Mental Health Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD"
+  "meetingAddInfo": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD",
+  "cleanMeetingAddress": "1727 Amsterdam Avenue, New York, NY",
+  "cleanMeetingNames": "PROMISES TWO FOR ONE"
  },
  {
   "meetingName": "RAINBOW ROOM - Rainbow Room",
@@ -3193,7 +3655,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. *Last Saturday of month=\"Open Anniversary\""
+  "meetingAddInfo": "Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. *Last Saturday of month=\"Open Anniversary\"",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "RAINBOW ROOM"
  },
  {
   "meetingName": "REALITY CHECK - Reality Check",
@@ -3204,7 +3668,9 @@
   ],
   "meetingLocation": "Our Lady of Lourdes Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "S 4th Saturday Men's Meeting"
+  "meetingAddInfo": "S 4th Saturday Men's Meeting",
+  "cleanMeetingAddress": "469 West 142nd Street, New York, NY",
+  "cleanMeetingNames": "REALITY CHECK"
  },
  {
   "meetingName": "REBELLION DOGS -",
@@ -3215,7 +3681,9 @@
   ],
   "meetingLocation": "St. Peter's Lutheran Church at CitiCorp Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Living Sober"
+  "meetingAddInfo": "Living Sober",
+  "cleanMeetingAddress": "619 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "REBELLION DOGS"
  },
  {
   "meetingName": "RECOVERY ROOM - Recovery Room",
@@ -3226,11 +3694,13 @@
   ],
   "meetingLocation": "St. Joseph's School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "420 East 87th Street, New York, NY",
+  "cleanMeetingNames": "RECOVERY ROOM"
  },
  {
   "meetingName": "RED DOOR - Red Door",
-  "meetingAddress": "224 Waverly Place, 1st floor event room.,",
+  "meetingAddress": "224 Waverly Place, 1st floor event room,,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
    "<b>Fridays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Promises",
@@ -3241,7 +3711,9 @@
   ],
   "meetingLocation": "St. John's Episcopal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Fri.7:00pm=Promises Meeting All meetings are Gay & Lesbian focused.  All are welcome."
+  "meetingAddInfo": "Fri.7:00pm=Promises Meeting All meetings are Gay & Lesbian focused.  All are welcome.",
+  "cleanMeetingAddress": "224 Waverly Place, New York, NY",
+  "cleanMeetingNames": "RED DOOR"
  },
  {
   "meetingName": "RENAISSANCE - Renaissance",
@@ -3256,7 +3728,9 @@
   ],
   "meetingLocation": "The Learning Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "4 West 43rd Street, New York, NY",
+  "cleanMeetingNames": "RENAISSANCE"
  },
  {
   "meetingName": "RENEWAL EAST -",
@@ -3267,7 +3741,9 @@
   ],
   "meetingLocation": "Central Presbyterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "593 Park Avenue, New York, NY",
+  "cleanMeetingNames": "RENEWAL EAST"
  },
  {
   "meetingName": "RENEWAL NORTH -",
@@ -3278,7 +3754,9 @@
   ],
   "meetingLocation": "St. Thomas More Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "65 East 89th Street, New York, NY",
+  "cleanMeetingNames": "RENEWAL NORTH"
  },
  {
   "meetingName": "RENEWAL WEST - Renewal West",
@@ -3289,7 +3767,9 @@
   ],
   "meetingLocation": "St. Ignatius Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv.  Last Sunday"
+  "meetingAddInfo": "Anniv.  Last Sunday",
+  "cleanMeetingAddress": "552 West End Avenue, New York, NY",
+  "cleanMeetingNames": "RENEWAL WEST"
  },
  {
   "meetingName": "RHINELANDER - Rhinelander",
@@ -3303,18 +3783,22 @@
   ],
   "meetingLocation": "St. James Episcopal Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon.6pm & Thu.6pm Meetings end @ 6:50pm."
+  "meetingAddInfo": "Mon.6pm & Thu.6pm Meetings end @ 6:50pm.",
+  "cleanMeetingAddress": "865 Madison Avenue, New York, NY",
+  "cleanMeetingNames": "RHINELANDER"
  },
  {
   "meetingName": "RIVERSIDE - Riverside",
-  "meetingAddress": "91 Claremont Avenue,  @ The Cloisters Club Room,",
+  "meetingAddress": "91 Claremont Avenue,  , The Cloisters Club Room,",
   "meetingDetails": [
    "<b>Mondays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
   ],
   "meetingLocation": "Riverside Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "91 Claremont Avenue, New York, NY",
+  "cleanMeetingNames": "RIVERSIDE"
  },
  {
   "meetingName": "RIVERTON - Riverton",
@@ -3327,10 +3811,12 @@
   ],
   "meetingLocation": "St. Aloysius School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings."
+  "meetingAddInfo": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
+  "cleanMeetingAddress": "219 West 132nd Street, New York, NY",
+  "cleanMeetingNames": "RIVERTON"
  },
  {
-  "meetingName": "ROOM FOR IMPROVEMENT (:I) - Room For Improvement",
+  "meetingName": "ROOM FOR IMPROVEMENT  - Room For Improvement",
   "meetingAddress": "154 Sullivan Street,",
   "meetingDetails": [
    "<b>Mondays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -3342,10 +3828,12 @@
   ],
   "meetingLocation": "St. Anthony's of Padua",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Wed.=Topic, Thu.=Promises & Fri.=T Last Fri."
+  "meetingAddInfo": "Wed.=Topic, Thu.=Promises & Fri.=T Last Fri.",
+  "cleanMeetingAddress": "154 Sullivan Street, New York, NY",
+  "cleanMeetingNames": "ROOM FOR IMPROVEMENT"
  },
  {
-  "meetingName": "ROOM FOR IMPROVEMENT (:II) -",
+  "meetingName": "ROOM FOR IMPROVEMENT  -",
   "meetingAddress": "273 Bowery Street, \r\n\t\t\t\t\t\t10012",
   "meetingDetails": [
    "<b>Sundays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Special Interest</b>Topic",
@@ -3354,22 +3842,26 @@
   ],
   "meetingLocation": "Chinatown YMCA",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "273 Bowery Street, New York, NY",
+  "cleanMeetingNames": "ROOM FOR IMPROVEMENT "
  },
  {
   "meetingName": "ROOSEVELT ISLAND SERENITY -",
-  "meetingAddress": "Church of the Good Shepard, 543 Main St., Basement 10044,",
+  "meetingAddress": "Church of the Good Shepard, 543 Main St,, Basement 10044,",
   "meetingDetails": [
    "<b>Saturdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "Church of the Good Shepard, New York, NY",
+  "cleanMeetingNames": "ROOSEVELT ISLAND SERENITY"
  },
  {
   "meetingName": "ROUTES -",
-  "meetingAddress": "164 West 74 Street, 1st Floor, (ask at Front Desk),",
+  "meetingAddress": "164 West 74 Street, 1st Floor, ,ask at Front Desk),",
   "meetingDetails": [
    "<b>Saturdays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -3377,7 +3869,9 @@
   ],
   "meetingLocation": "Phoenix House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "164 West 74 Street, New York, NY",
+  "cleanMeetingNames": "ROUTES"
  },
  {
   "meetingName": "RUDE AAENING - Rude Awakening",
@@ -3388,18 +3882,22 @@
   ],
   "meetingLocation": "Volunteers of America",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Living Sober"
+  "meetingAddInfo": "Living Sober",
+  "cleanMeetingAddress": "340 West 85th Street, New York, NY",
+  "cleanMeetingNames": "RUDE AWAKENING"
  },
  {
   "meetingName": "S.O.B.E.R. -",
-  "meetingAddress": "22 Barclay Street (Basement),",
+  "meetingAddress": "22 Barclay Street ,Basement),",
   "meetingDetails": [
    "<b>Thursdays From</b>7:30 PM<b>to</b>8:45 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
    ""
   ],
   "meetingLocation": "Saint Peter's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Enter on Church Street Lower floor, Parish Office Room"
+  "meetingAddInfo": "Enter on Church Street Lower floor, Parish Office Room",
+  "cleanMeetingAddress": "22 Barclay Street , New York, NY",
+  "cleanMeetingNames": "S.O.B.E.R."
  },
  {
   "meetingName": "SALEM - Salem",
@@ -3410,7 +3908,9 @@
   ],
   "meetingLocation": "Salem United Methodist Church Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "O 2nd Wednesday"
+  "meetingAddInfo": "O 2nd Wednesday",
+  "cleanMeetingAddress": "211 West 129th Street, New York, NY",
+  "cleanMeetingNames": "SALEM"
  },
  {
   "meetingName": "SANE AND SOBER -",
@@ -3421,7 +3921,9 @@
   ],
   "meetingLocation": "Hazelden Tribeca",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Mental Health Challenges in Sobriety. *Alternating Closed & rotating 1, 2, 3 Step every other week. Open – Last Wednesday."
+  "meetingAddInfo": "Mental Health Challenges in Sobriety. *Alternating Closed & rotating 1, 2, 3 Step every other week. Open – Last Wednesday.",
+  "cleanMeetingAddress": "283 West Broadway, New York, NY",
+  "cleanMeetingNames": "SANE AND SOBER"
  },
  {
   "meetingName": "SATURDAY AFTERNOON DISCUSSION - Saturday Afternoon Discussion",
@@ -3432,7 +3934,9 @@
   ],
   "meetingLocation": "Municipal Union Bldg DC 37",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Ask security guard for room #"
+  "meetingAddInfo": "Ask security guard for room #",
+  "cleanMeetingAddress": "125 Barclay Street, New York, NY",
+  "cleanMeetingNames": "SATURDAY AFTERNOON DISCUSSION"
  },
  {
   "meetingName": "SATURDAY BEGINNERS - Saturday Beginners",
@@ -3444,7 +3948,9 @@
   ],
   "meetingLocation": "St. George's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Beginners meeting meets in Olmsted Hall Big Book topic meeting meets in the Music Room"
+  "meetingAddInfo": "Beginners meeting meets in Olmsted Hall Big Book topic meeting meets in the Music Room",
+  "cleanMeetingAddress": "209 East 16th Street, New York, NY",
+  "cleanMeetingNames": "SATURDAY BEGINNERS"
  },
  {
   "meetingName": "SATURDAY EAST - Saturday East",
@@ -3455,7 +3961,9 @@
   ],
   "meetingLocation": "Church of the Good Shepherd",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Focus is on members under 60 days.  All are welcome. Anniversaries last week of month"
+  "meetingAddInfo": "Focus is on members under 60 days.  All are welcome. Anniversaries last week of month",
+  "cleanMeetingAddress": "240 East 31st Street, New York, NY",
+  "cleanMeetingNames": "SATURDAY EAST"
  },
  {
   "meetingName": "SATURDAY ROTATING 12 STEP -",
@@ -3466,7 +3974,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Rotating Step meeting."
+  "meetingAddInfo": "Rotating Step meeting.",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "SATURDAY ROTATING 12 STEP"
  },
  {
   "meetingName": "SATURDAY STEP - Saturday Step",
@@ -3477,7 +3987,9 @@
   ],
   "meetingLocation": "The New York New Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "114 East 35th Street, New York, NY",
+  "cleanMeetingNames": "SATURDAY STEP"
  },
  {
   "meetingName": "SATURDAY WEEKENDERS -",
@@ -3488,11 +4000,13 @@
   ],
   "meetingLocation": "Epiphany Roman Catholic Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "239 East 21st Street, New York, NY",
+  "cleanMeetingNames": "SATURDAY WEEKENDERS"
  },
  {
   "meetingName": "SAVE HER A SEAT - Save Her A Seat",
-  "meetingAddress": "12 West 12th Street, 6th Floor-Roof Level,",
+  "meetingAddress": "12 West 12th Street, 6th Floor,Roof Level,",
   "meetingDetails": [
    "<b>Fridays From</b>6:30 PM<b>to</b>7:45 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Women",
    "<b>Tuesdays From</b>7:15 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Women",
@@ -3500,7 +4014,9 @@
   ],
   "meetingLocation": "First Presbyterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Tue=S Last Tue. & focus is on women with 5 years of sobriety or more.  All are welcome Fri=O Last Fri. & focus is on women with 5 years of sobriety or less.  All are welcome. Friday beginners = Trans Welcome"
+  "meetingAddInfo": "Tue=S Last Tue. & focus is on women with 5 years of sobriety or more.  All are welcome Fri=O Last Fri. & focus is on women with 5 years of sobriety or less.  All are welcome. Friday beginners = Trans Welcome",
+  "cleanMeetingAddress": "12 West 12th Street, New York, NY",
+  "cleanMeetingNames": "SAVE HER A SEAT"
  },
  {
   "meetingName": "SEAMEN'S GROUP -",
@@ -3511,7 +4027,9 @@
   ],
   "meetingLocation": "St. Margaret's House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "\"Closed Meeting\""
+  "meetingAddInfo": "\"Closed Meeting\"",
+  "cleanMeetingAddress": "49 Fulton Street, New York, NY",
+  "cleanMeetingNames": "SEAMEN'S GROUP"
  },
  {
   "meetingName": "SEAPORT - Seaport",
@@ -3526,7 +4044,9 @@
   ],
   "meetingLocation": "St. Margaret's House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "11th Step Meditation (Mon), Topic (Thu)"
+  "meetingAddInfo": "11th Step Meditation (Mon), Topic (Thu)",
+  "cleanMeetingAddress": "49 Fulton Street, New York, NY",
+  "cleanMeetingNames": "SEAPORT"
  },
  {
   "meetingName": "SECOND AVENUE CLEAN AND DRY - Second Avenue Clean And Dry",
@@ -3537,11 +4057,13 @@
   ],
   "meetingLocation": "Most Holy Redeemer Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "173 East 3rd Street, New York, NY",
+  "cleanMeetingNames": "SECOND AVENUE CLEAN AND DRY"
  },
  {
   "meetingName": "SERENITY EAST - Serenity East",
-  "meetingAddress": "230 East 60th Street (Basement) ,",
+  "meetingAddress": "230 East 60th Street ,Basement) ,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 AM<b>to</b>8:30 AM<br><b>Meeting Type</b>BB = Big Book meeting",
    "<b>Fridays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>S = Step meeting",
@@ -3550,10 +4072,12 @@
   ],
   "meetingLocation": "ALL SAINTS CHURCH",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Fri.6:30=Steps 3 & 11"
+  "meetingAddInfo": "Fri.6:30=Steps 3 & 11",
+  "cleanMeetingAddress": "230 East 60th Street , New York, NY",
+  "cleanMeetingNames": "SERENITY EAST"
  },
  {
-  "meetingName": "SERENITY EAST (:I) -",
+  "meetingName": "SERENITY EAST  -",
   "meetingAddress": "244 East 58th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>5:30 PM<b>to</b>6:30 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -3561,10 +4085,12 @@
   ],
   "meetingLocation": "Caron Foundation",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "244 East 58th Street, New York, NY",
+  "cleanMeetingNames": "SERENITY EAST "
  },
  {
-  "meetingName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop (:I)",
+  "meetingName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop",
   "meetingAddress": "413 East 79th Street,  Basement,",
   "meetingDetails": [
    "<b>Fridays From</b>6:00 AM<b>to</b>7:00 AM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -3630,7 +4156,9 @@
   ],
   "meetingLocation": "St. Monica's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun.10am=11th S, Tue.6am=Came To Believe Thu.6am=Step & Trad."
+  "meetingAddInfo": "Sun.10am=11th S, Tue.6am=Came To Believe Thu.6am=Step & Trad.",
+  "cleanMeetingAddress": "413 East 79th Street, New York, NY",
+  "cleanMeetingNames": "INTH STREET WORKSHOP - SEVENTY-NINTH STREET WORKSHOP"
  },
  {
   "meetingName": "SHERIDAN SQUARE FOLLIES - Sheridan Square Follies",
@@ -3641,7 +4169,9 @@
   ],
   "meetingLocation": "St. Joseph's Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Gay & Lesbian Focus.  All are welcome."
+  "meetingAddInfo": "Gay & Lesbian Focus.  All are welcome.",
+  "cleanMeetingAddress": "371 6th Avenue, New York, NY",
+  "cleanMeetingNames": "SHERIDAN SQUARE FOLLIES"
  },
  {
   "meetingName": "SILKWORTH WOMEN'S - Silkworth Women's",
@@ -3652,7 +4182,9 @@
   ],
   "meetingLocation": "St. Peter's Lutheran Church at CitiCorp Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Women's Meeting."
+  "meetingAddInfo": "Women's Meeting.",
+  "cleanMeetingAddress": "619 Lexington Avenue, New York, NY",
+  "cleanMeetingNames": "SILKWORTH WOMEN'S"
  },
  {
   "meetingName": "SMITHEREENS - Smithereens",
@@ -3664,7 +4196,9 @@
   ],
   "meetingLocation": "West End Collegiate Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "All Meetings Are Non-Smoking."
+  "meetingAddInfo": "All Meetings Are Non-Smoking.",
+  "cleanMeetingAddress": "368 West End Avenue, New York, NY",
+  "cleanMeetingNames": "SMITHEREENS"
  },
  {
   "meetingName": "SOBER ADULT MEN - Sober Adult Men",
@@ -3675,7 +4209,9 @@
   ],
   "meetingLocation": "Convent Baptist Church Education Building",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Men's Meeting"
+  "meetingAddInfo": "Men's Meeting",
+  "cleanMeetingAddress": "425 West 144th Street, New York, NY",
+  "cleanMeetingNames": "SOBER ADULT MEN"
  },
  {
   "meetingName": "SOBER MIRACLES - Sober Miracles",
@@ -3686,7 +4222,9 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "S&M Lifestyles"
+  "meetingAddInfo": "S&M Lifestyles",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "SOBER MIRACLES"
  },
  {
   "meetingName": "SOBER STEPPING - Sober Stepping",
@@ -3697,7 +4235,9 @@
   ],
   "meetingLocation": "Blessed Sacrament Church Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Alternates Betw.the Steps & Promises."
+  "meetingAddInfo": "Alternates Betw.the Steps & Promises.",
+  "cleanMeetingAddress": "152 West 71st Street, New York, NY",
+  "cleanMeetingNames": "SOBER STEPPING"
  },
  {
   "meetingName": "SOBER WOMEN - Sober Women",
@@ -3708,7 +4248,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Women's Meeting"
+  "meetingAddInfo": "Women's Meeting",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "SOBER WOMEN"
  },
  {
   "meetingName": "SOBRIETY ON THE SQUARE - Sobriety On The Square",
@@ -3724,10 +4266,12 @@
   ],
   "meetingLocation": "Church of the Ascension Parish House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Tue., Fri=Topic, Sat=11th Step Meditation"
+  "meetingAddInfo": "T Last Tue., Fri=Topic, Sat=11th Step Meditation",
+  "cleanMeetingAddress": "12 West 11th Street, New York, NY",
+  "cleanMeetingNames": "SOBRIETY ON THE SQUARE"
  },
  {
-  "meetingName": "SOHO (:I) -",
+  "meetingName": "SOHO  -",
   "meetingAddress": "155 Sullivan Street, Basement,",
   "meetingDetails": [
    "<b>Fridays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Interpreted for the Deaf",
@@ -3738,7 +4282,9 @@
   ],
   "meetingLocation": "St. Anthony of Padua Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Mon.7pm=Anniv Last Mon., Fri.6:30pm=Interpreted for Deaf and Hard of Hearing. Friday Meeting occasionally changes the location;  please call New York Inter-Group to confirm meeting location."
+  "meetingAddInfo": "Mon.7pm=Anniv Last Mon., Fri.6:30pm=Interpreted for Deaf and Hard of Hearing. Friday Meeting occasionally changes the location;  please call New York Inter-Group to confirm meeting location.",
+  "cleanMeetingAddress": "155 Sullivan Street, New York, NY",
+  "cleanMeetingNames": "SOHO "
  },
  {
   "meetingName": "SPEAKER MAGIC -",
@@ -3749,7 +4295,9 @@
   ],
   "meetingLocation": "PS 41 Elementary School",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "116 West 11th Street, New York, NY",
+  "cleanMeetingNames": "SPEAKER MAGIC"
  },
  {
   "meetingName": "SPIRITUAL FRIDAYS -",
@@ -3760,7 +4308,9 @@
   ],
   "meetingLocation": "Church of The Holy Apostles",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Topic meeting, focus is on Spirituality"
+  "meetingAddInfo": "Topic meeting, focus is on Spirituality",
+  "cleanMeetingAddress": "296 Ninth Avenue, New York, NY",
+  "cleanMeetingNames": "SPIRITUAL FRIDAYS"
  },
  {
   "meetingName": "SPIRITUAL WORKSHOP - Spiritual Workshop",
@@ -3771,7 +4321,9 @@
   ],
   "meetingLocation": "The Bronfman Cernter at NYU",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Lower level"
+  "meetingAddInfo": "Lower level",
+  "cleanMeetingAddress": "7 East 10th Strert, New York, NY",
+  "cleanMeetingNames": "SPIRITUAL WORKSHOP"
  },
  {
   "meetingName": "ST. BART'S TWELVE-THIRTIES - St. Bart's Twelve-Thirties",
@@ -3784,7 +4336,9 @@
   ],
   "meetingLocation": "St. Bartholomew's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv. Last Mon., T-Last Wed., Topic-Last Fri. All meetings are OPEN to Public NOTE: Monday & Wednesday in Choir Room. Friday in Vestry Room. Also check the Board at Church entrance."
+  "meetingAddInfo": "Anniv. Last Mon., T-Last Wed., Topic-Last Fri. All meetings are OPEN to Public NOTE: Monday & Wednesday in Choir Room. Friday in Vestry Room. Also check the Board at Church entrance.",
+  "cleanMeetingAddress": "325 Park Avenue, New York, NY",
+  "cleanMeetingNames": "HIRTIES - ST. BART'S TWELVE-THIRTIES"
  },
  {
   "meetingName": "ST. NICHOLAS - St. Nicholas",
@@ -3796,7 +4350,9 @@
   ],
   "meetingLocation": "St. Phillip's Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu."
+  "meetingAddInfo": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu.",
+  "cleanMeetingAddress": "204 West 134th Street, New York, NY",
+  "cleanMeetingNames": "ST. NICHOLAS"
  },
  {
   "meetingName": "ST. THOMAS A.M. - St. Thomas A.M.",
@@ -3807,7 +4363,9 @@
   ],
   "meetingLocation": "St. Thomas Church Parish House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Round Robin Meeting."
+  "meetingAddInfo": "Round Robin Meeting.",
+  "cleanMeetingAddress": "1 West 53rd Street, New York, NY",
+  "cleanMeetingNames": "ST. THOMAS A.M."
  },
  {
   "meetingName": "STATLER AT NOON - Statler At Noon",
@@ -3819,7 +4377,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Thursday; S other Thursdays All meetings are non-smoking."
+  "meetingAddInfo": "T Last Thursday; S other Thursdays All meetings are non-smoking.",
+  "cleanMeetingAddress": "213 West 30th Street , New York, NY",
+  "cleanMeetingNames": "STATLER AT NOON"
  },
  {
   "meetingName": "STEP BY STEP - Step By Step",
@@ -3830,7 +4390,9 @@
   ],
   "meetingLocation": "New York Blood Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "310 East 67th Street, New York, NY",
+  "cleanMeetingNames": "STEP BY STEP"
  },
  {
   "meetingName": "STEPS 3 and 11 - Steps Three-Eleven",
@@ -3841,7 +4403,9 @@
   ],
   "meetingLocation": "Harlem Hospital King Pavilion",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "B 1st, OD 2nd, S3 3rd, C Literature 4th, & S11 5th Sun."
+  "meetingAddInfo": "B 1st, OD 2nd, S3 3rd, C Literature 4th, & S11 5th Sun.",
+  "cleanMeetingAddress": "506 Lenox Avenue, New York, NY",
+  "cleanMeetingNames": "STEPS THREE-ELEVEN"
  },
  {
   "meetingName": "STEPS AND TRADITIONS ON WEDNESDAY - Eightieth Street",
@@ -3852,7 +4416,9 @@
   ],
   "meetingLocation": "Trinity Presbyterian Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T-1st Wednesday"
+  "meetingAddInfo": "T-1st Wednesday",
+  "cleanMeetingAddress": "422 West 57th Street, New York, NY",
+  "cleanMeetingNames": "EIGHTIETH STREET"
  },
  {
   "meetingName": "STRAIGHT 12 -",
@@ -3864,10 +4430,12 @@
   ],
   "meetingLocation": "CHURCH OF THE GOOD SHEPARD",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "236 EAST 31st STREET , New York, NY",
+  "cleanMeetingNames": "STRAIGHT 12"
  },
  {
-  "meetingName": "STRAIGHT 12 (:II) DOWNTOWN SATURDAY NIGHT -",
+  "meetingName": "STRAIGHT 12  DOWNTOWN SATURDAY NIGHT -",
   "meetingAddress": "80 5th Avenue, 14th Floor, Room #1408C,",
   "meetingDetails": [
    "<b>Saturdays From</b>6:15 PM<b>to</b>7:15 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -3875,7 +4443,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "80 5th Avenue, New York, NY",
+  "cleanMeetingNames": "STRAIGHT 12  DOWNTOWN SATURDAY NIGHT"
  },
  {
   "meetingName": "SUGAR HILL -",
@@ -3886,18 +4456,22 @@
   ],
   "meetingLocation": "Council Center for Problems of Living",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "1727 Amsterdam Avenue, New York, NY",
+  "cleanMeetingNames": "SUGAR HILL"
  },
  {
   "meetingName": "SUNDAY AT SIX - Sunday At Six",
-  "meetingAddress": "116 W. 11th Street, Cafeteria,",
+  "meetingAddress": "116 W, 11th Street, Cafeteria,",
   "meetingDetails": [
    "<b>Sundays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>BB = Big Book meeting",
    ""
   ],
   "meetingLocation": "P.S. 41 (see footnote re: temp location)",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "TEMPORARILY MEETING AT THE LGBT CENTER 208 W 13TH UNTIL FURTHER NOTICE"
+  "meetingAddInfo": "TEMPORARILY MEETING AT THE LGBT CENTER 208 W 13TH UNTIL FURTHER NOTICE",
+  "cleanMeetingAddress": "116 West 11th Street, New York, NY",
+  "cleanMeetingNames": "SUNDAY AT SIX"
  },
  {
   "meetingName": "SUNDAY MEN'S TOPIC - Sunday Men's Topic",
@@ -3908,7 +4482,9 @@
   ],
   "meetingLocation": "West Side YMCA",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Men's Meeting"
+  "meetingAddInfo": "Men's Meeting",
+  "cleanMeetingAddress": "5 West 63rd Street, New York, NY",
+  "cleanMeetingNames": "SUNDAY MEN'S TOPIC"
  },
  {
   "meetingName": "SUNDAY MORNING MEDITATION -",
@@ -3919,7 +4495,9 @@
   ],
   "meetingLocation": "Gustavus Adolphus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Meeting In Basement 11th Step Meditation Meeting"
+  "meetingAddInfo": "Meeting In Basement 11th Step Meditation Meeting",
+  "cleanMeetingAddress": "155 East 22nd Street, New York, NY",
+  "cleanMeetingNames": "SUNDAY MORNING MEDITATION"
  },
  {
   "meetingName": "SUNDAY NIGHT BEGINNERS -",
@@ -3930,7 +4508,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "SUNDAY NIGHT BEGINNERS"
  },
  {
   "meetingName": "SUNDAY NOONERS - Sunday Nooners",
@@ -3941,7 +4521,9 @@
   ],
   "meetingLocation": "East Midtown Plaza (Community Room H)",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "319 Eastr 24th Street, New York, NY",
+  "cleanMeetingNames": "SUNDAY NOONERS"
  },
  {
   "meetingName": "SUNDAY ON 70TH - Sunday On 70th",
@@ -3952,7 +4534,9 @@
   ],
   "meetingLocation": "Lenox Hill Neighborhood House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "331 E 70th St, New York, NY",
+  "cleanMeetingNames": "SUNDAY ON 70TH"
  },
  {
   "meetingName": "SUNDAY WEST - Sunday West",
@@ -3963,18 +4547,22 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Round Robin Topic Meeting."
+  "meetingAddInfo": "Round Robin Topic Meeting.",
+  "cleanMeetingAddress": "131 West 72nd Street, New York, NY",
+  "cleanMeetingNames": "SUNDAY WEST"
  },
  {
   "meetingName": "SURVIVORS IN SOBRIETY -",
-  "meetingAddress": "10 East Union Square, 4th Floor, Conf.Rm.#4A18,",
+  "meetingAddress": "10 East Union Square, 4th Floor, Conf,Rm.#4A18,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Special Purpose Groups",
    ""
   ],
   "meetingLocation": "Beth Israel Hospital at Karpas Cancer Center Library",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Focus is on dealing with cancer in recovery.  All are welcome"
+  "meetingAddInfo": "Focus is on dealing with cancer in recovery.  All are welcome",
+  "cleanMeetingAddress": "10 East Union Square, New York, NY",
+  "cleanMeetingNames": "SURVIVORS IN SOBRIETY"
  },
  {
   "meetingName": "SUTTON - Sutton",
@@ -3985,11 +4573,13 @@
   ],
   "meetingLocation": "Church of St. Catherine of Siena",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Enter through Parish House"
+  "meetingAddInfo": "Enter through Parish House",
+  "cleanMeetingAddress": "411 East 68th Street, New York, NY",
+  "cleanMeetingNames": "SUTTON"
  },
  {
   "meetingName": "SVOBODA -",
-  "meetingAddress": "206-208 East 11th Street,",
+  "meetingAddress": "206,208 East 11th Street,",
   "meetingDetails": [
    "<b>Sundays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>As Bill Sees It",
    "<b>Mondays From</b>7:00 PM<b>to</b>8:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -3998,10 +4588,12 @@
   ],
   "meetingLocation": "All Saints Ukrainian Orthodox Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sunday=As Bill Sees It Ukrainian language translation is available if needed."
+  "meetingAddInfo": "Sunday=As Bill Sees It Ukrainian language translation is available if needed.",
+  "cleanMeetingAddress": "206, New York, NY",
+  "cleanMeetingNames": "SVOBODA"
  },
  {
-  "meetingName": "TOGETHERNESS & ACTION -",
+  "meetingName": "TandA-TOGETHERNESS & ACTION -",
   "meetingAddress": "232 West 11th Street, Basement,",
   "meetingDetails": [
    "<b>Mondays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Special Interest</b>Women",
@@ -4009,10 +4601,12 @@
   ],
   "meetingLocation": "Seventh Adventist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Literature"
+  "meetingAddInfo": "Literature",
+  "cleanMeetingAddress": "232 West 11th Street, New York, NY",
+  "cleanMeetingNames": "OGETHERNESS & ACTION -"
  },
  {
-  "meetingName": "T.G.I.F. & S. - T.G.I.F. & S.",
+  "meetingName": "T.G.I.F. and S. - T.G.I.F. & S.",
   "meetingAddress": "123 East 15th Street, 2nd Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -4023,7 +4617,9 @@
   ],
   "meetingLocation": "Seafarers & International House",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Fri B = 1st Time in AA Only"
+  "meetingAddInfo": "Fri B = 1st Time in AA Only",
+  "cleanMeetingAddress": "123 East 15th Street, New York, NY",
+  "cleanMeetingNames": "T.G.I.F. & S."
  },
  {
   "meetingName": "TEMPLETON - Templeton",
@@ -4034,7 +4630,9 @@
   ],
   "meetingLocation": "Conservative Synagogue",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "308 East 55th Street, New York, NY",
+  "cleanMeetingNames": "TEMPLETON"
  },
  {
   "meetingName": "TEN PLUS -",
@@ -4045,7 +4643,9 @@
   ],
   "meetingLocation": "St. John's Lutheran Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "The speaker will have 10+ years of sobriety. All welcome. Please ring Meeting Bell only"
+  "meetingAddInfo": "The speaker will have 10+ years of sobriety. All welcome. Please ring Meeting Bell only",
+  "cleanMeetingAddress": "81 Christopher Street, New York, NY",
+  "cleanMeetingNames": "TEN PLUS"
  },
  {
   "meetingName": "THE 12th STREET WORKSHOP -",
@@ -4114,7 +4714,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun.4:30=Business Mtg Only 1st & Anniv Last Sunday Sun.7:30pm,Tue.5:30,Wed.8:30pm & Sat.10:30am=11th Step Meditation Mon.5:30=Gratitude & Sat.7:30am=AA Grapevine"
+  "meetingAddInfo": "Sun.4:30=Business Mtg Only 1st & Anniv Last Sunday Sun.7:30pm,Tue.5:30,Wed.8:30pm & Sat.10:30am=11th Step Meditation Mon.5:30=Gratitude & Sat.7:30am=AA Grapevine",
+  "cleanMeetingAddress": "411 East 12th Street, New York, NY",
+  "cleanMeetingNames": "THE 12th STREET WORKSHOP"
  },
  {
   "meetingName": "THE CAPTAIN'S TABLE -",
@@ -4125,7 +4727,9 @@
   ],
   "meetingLocation": "University Settlement (The Chinatown YMCA)",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Men's Meeting"
+  "meetingAddInfo": "Men's Meeting",
+  "cleanMeetingAddress": "273 Bowery, New York, NY",
+  "cleanMeetingNames": "THE CAPTAIN'S TABLE"
  },
  {
   "meetingName": "THE FELLOWSHIP CLUB - Fellowship Club",
@@ -4136,18 +4740,22 @@
   ],
   "meetingLocation": "McBurney YMCA",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "125 West 14th Street, New York, NY",
+  "cleanMeetingNames": "FELLOWSHIP CLUB"
  },
  {
   "meetingName": "THE MEN UPSTAIRS -",
-  "meetingAddress": "178 Bennett Avenue, 2nd Floor (Lorenz Library),",
+  "meetingAddress": "178 Bennett Avenue, 2nd Floor ,Lorenz Library),",
   "meetingDetails": [
    "<b>Mondays From</b>8:00 PM<b>to</b>9:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Men",
    ""
   ],
   "meetingLocation": "Our Saviour's Atonement Lutheran Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Men's Meeting"
+  "meetingAddInfo": "Men's Meeting",
+  "cleanMeetingAddress": "178 Bennett Avenue, New York, NY",
+  "cleanMeetingNames": "THE MEN UPSTAIRS"
  },
  {
   "meetingName": "THE MISSING LINK - Missing Link",
@@ -4158,7 +4766,9 @@
   ],
   "meetingLocation": "Our Saviour's Atonement Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD"
+  "meetingAddInfo": "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD",
+  "cleanMeetingAddress": "178 Bennett Avenue, New York, NY",
+  "cleanMeetingNames": "MISSING LINK"
  },
  {
   "meetingName": "THREE TWELVES - Three Twelves",
@@ -4170,7 +4780,9 @@
   ],
   "meetingLocation": "Church of the Heavenly Rest",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "2 East 90th Street, New York, NY",
+  "cleanMeetingNames": "THREE TWELVES"
  },
  {
   "meetingName": "TOGETHER WE CAN -",
@@ -4181,7 +4793,9 @@
   ],
   "meetingLocation": "Manhattan Seventh-Day Adventist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "232 West 11th Street, New York, NY",
+  "cleanMeetingNames": "TOGETHER WE CAN"
  },
  {
   "meetingName": "TOWER -",
@@ -4192,7 +4806,9 @@
   ],
   "meetingLocation": "Church of Saint Andrew",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Step 1st Wednesday"
+  "meetingAddInfo": "Step 1st Wednesday",
+  "cleanMeetingAddress": "20 Cardinal Hayes Place, New York, NY",
+  "cleanMeetingNames": "TOWER"
  },
  {
   "meetingName": "TRAAGAR - Trafalgar",
@@ -4203,7 +4819,9 @@
   ],
   "meetingLocation": "The Caron Foundation",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "244 East 58th Street, New York, NY",
+  "cleanMeetingNames": "TRAFALGAR"
  },
  {
   "meetingName": "TRANSGENDER FOCUS -",
@@ -4214,7 +4832,9 @@
   ],
   "meetingLocation": "LGBT Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Trans-female focus"
+  "meetingAddInfo": "Trans-female focus",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "TRANSGENDER FOCUS"
  },
  {
   "meetingName": "TRIANGLE GROUP -",
@@ -4228,10 +4848,12 @@
   ],
   "meetingLocation": "Tribeca 12 Building",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full"
+  "meetingAddInfo": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
+  "cleanMeetingAddress": "283 West Broadway, New York, NY",
+  "cleanMeetingNames": "TRIANGLE GROUP"
  },
  {
-  "meetingName": "TRIBECA GROUP @ Elizabeth Seton Shrine - Tribeca",
+  "meetingName": "TRIBECA GROUP at Elizabeth Seton Shrine - Tribeca",
   "meetingAddress": "7 State Street,",
   "meetingDetails": [
    "<b>Wednesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -4239,10 +4861,12 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com"
+  "meetingAddInfo": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com",
+  "cleanMeetingAddress": "7 State Street, New York, NY",
+  "cleanMeetingNames": "TRIBECA"
  },
  {
-  "meetingName": "TRIBECA GROUP @ ST. MARGARET'S HOUSE -",
+  "meetingName": "TRIBECA GROUP at ST. MARGARET'S HOUSE -",
   "meetingAddress": "49 Fulton Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>BB = Big Book meeting",
@@ -4254,11 +4878,13 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com"
+  "meetingAddInfo": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
+  "cleanMeetingAddress": "49 Fulton Street, New York, NY",
+  "cleanMeetingNames": "TRIBECA GROUP at ST. MARGARET'S HOUSE"
  },
  {
   "meetingName": "TRINITY - Trinity",
-  "meetingAddress": "341 East 87th Street,  Choir Room (Ring Bell),",
+  "meetingAddress": "341 East 87th Street,  Choir Room ,Ring Bell),",
   "meetingDetails": [
    "<b>Fridays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>S = Step meeting",
    "<b>Tuesdays From</b>7:15 PM<b>to</b>8:15 PM<br><b>Meeting Type</b>B = Beginners meeting",
@@ -4268,7 +4894,9 @@
   ],
   "meetingLocation": "Holy Trinity Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv Last Tuesday @ 7:15pm All meetings are non-smoking. Last Fri. @ 7PM = T"
+  "meetingAddInfo": "Anniv Last Tuesday @ 7:15pm All meetings are non-smoking. Last Fri. @ 7PM = T",
+  "cleanMeetingAddress": "341 East 87th Street, New York, NY",
+  "cleanMeetingNames": "TRINITY"
  },
  {
   "meetingName": "TUDOR - Tudor",
@@ -4279,7 +4907,9 @@
   ],
   "meetingLocation": "Caron Foundation",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "244 East 58th Street, New York, NY",
+  "cleanMeetingNames": "TUDOR"
  },
  {
   "meetingName": "TUESDAY BIG BOOK STUDY - Tuesday Big Book Study",
@@ -4290,18 +4920,22 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "1854 Amsterdam Avenue, New York, NY",
+  "cleanMeetingNames": "TUESDAY BIG BOOK STUDY"
  },
  {
   "meetingName": "TUESDAY SOBER AGNOSTICS -",
-  "meetingAddress": "134 West 29th Street - 2nd floor Studio 203, \r\n\t\t\t\t\t\t10001",
+  "meetingAddress": "134 West 29th Street , 2nd floor Studio 203, \r\n\t\t\t\t\t\t10001",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Agnostic",
    ""
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Agnostic- no prayer"
+  "meetingAddInfo": "Agnostic- no prayer",
+  "cleanMeetingAddress": "134 West 29th Street , New York, NY",
+  "cleanMeetingNames": "TUESDAY SOBER AGNOSTICS"
  },
  {
   "meetingName": "TURN IT OVER - Turn It Over",
@@ -4316,7 +4950,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "T Last Friday"
+  "meetingAddInfo": "T Last Friday",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "TURN IT OVER"
  },
  {
   "meetingName": "TWELVE AT SIX - Twelve At Six",
@@ -4327,7 +4963,9 @@
   ],
   "meetingLocation": "Beth Israel Phillips Ambulatory Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "10 Union Square East, New York, NY",
+  "cleanMeetingNames": "TWELVE AT SIX"
  },
  {
   "meetingName": "UPON AAENING -",
@@ -4338,7 +4976,9 @@
   ],
   "meetingLocation": "St. Francis Residence",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "155 West 22nd Street, New York, NY",
+  "cleanMeetingNames": "UPON AAENING"
  },
  {
   "meetingName": "UPPER MANHATTAN - Upper Manhattan",
@@ -4349,7 +4989,9 @@
   ],
   "meetingLocation": "Our Lady Queen of Martyrs",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "91 Arden Street, New York, NY",
+  "cleanMeetingNames": "UPPER MANHATTAN"
  },
  {
   "meetingName": "UPTOWN BIG BOOK WORKSHOP -",
@@ -4360,7 +5002,9 @@
   ],
   "meetingLocation": "Our Lady of Lourdes Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Meeting meets each Saturday from mid-August thru mid-December"
+  "meetingAddInfo": "Meeting meets each Saturday from mid-August thru mid-December",
+  "cleanMeetingAddress": "469 West 142nd Street, New York, NY",
+  "cleanMeetingNames": "UPTOWN BIG BOOK WORKSHOP"
  },
  {
   "meetingName": "UPTOWN SATURDAY NIGHT - Uptown Saturday Night",
@@ -4371,7 +5015,9 @@
   ],
   "meetingLocation": "Holy Trinity Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "20 Cummings Street, New York, NY",
+  "cleanMeetingNames": "UPTOWN SATURDAY NIGHT"
  },
  {
   "meetingName": "VILLAGE AGNOSTICS - Village Agnostics",
@@ -4383,10 +5029,12 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Sun.5:30pm meets only on the last Sunday of the month No Prayers - All Welcome - Check listing for Rm #"
+  "meetingAddInfo": "Sun.5:30pm meets only on the last Sunday of the month No Prayers - All Welcome - Check listing for Rm #",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "VILLAGE AGNOSTICS"
  },
  {
-  "meetingName": "VILLAGE OPEN DISCUSSION (V.O.D.) - Village Open Discussion",
+  "meetingName": "VILLAGE OPEN DISCUSSION  - Village Open Discussion",
   "meetingAddress": "12 West 12th Street, Third Floor,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting",
@@ -4394,10 +5042,12 @@
   ],
   "meetingLocation": "First Presbyterian Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "1st & 3rd Wk=Step/Big Book , 2nd & 4th Wk=Promises"
+  "meetingAddInfo": "1st & 3rd Wk=Step/Big Book , 2nd & 4th Wk=Promises",
+  "cleanMeetingAddress": "12 West 12th Street, New York, NY",
+  "cleanMeetingNames": "VILLAGE OPEN DISCUSSION"
  },
  {
-  "meetingName": "VILLAGE SOBER - OVER & UNDER 60 -",
+  "meetingName": "VILLAGE SOBER - OVER and UNDER 60 -",
   "meetingAddress": "20 Washington Square North, 2nd Floor,",
   "meetingDetails": [
    "<b>Thursdays From</b>3:30 PM<b>to</b>4:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -4405,10 +5055,12 @@
   ],
   "meetingLocation": "The Caring Community",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "20 Washington Square North, New York, NY",
+  "cleanMeetingNames": "OVER AND UNDER 60 -"
  },
  {
-  "meetingName": "WASHINGTON HEIGHTS (:I) - Washington Heights (:I)",
+  "meetingName": "WASHINGTON HEIGHTS  - Washington Heights (:I)",
   "meetingAddress": "715 West 179th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>O = Open meeting",
@@ -4416,10 +5068,12 @@
   ],
   "meetingLocation": "Holy Rood Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "715 West 179th Street, New York, NY",
+  "cleanMeetingNames": "WASHINGTON HEIGHTS (:I)"
  },
  {
-  "meetingName": "WASHINGTON HEIGHTS (:II) - Washington Heights (:II)",
+  "meetingName": "WASHINGTON HEIGHTS  - Washington Heights (:II)",
   "meetingAddress": "189th Street &amp; Bennett Avenue, Kitchen,",
   "meetingDetails": [
    "<b>Thursdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
@@ -4427,7 +5081,9 @@
   ],
   "meetingLocation": "Cornerstone Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "189th Street and Bennett Avenue, New York, NY",
+  "cleanMeetingNames": "WASHINGTON HEIGHTS (:II)"
  },
  {
   "meetingName": "WAY OF LIFE - Way Of Life",
@@ -4439,7 +5095,9 @@
   ],
   "meetingLocation": "Blessed Sacrament Church Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "10am=As Bill Sees It, 11:15am=Topic Meeting"
+  "meetingAddInfo": "10am=As Bill Sees It, 11:15am=Topic Meeting",
+  "cleanMeetingAddress": "152 West 71st Street, New York, NY",
+  "cleanMeetingNames": "WAY OF LIFE"
  },
  {
   "meetingName": "WE AGNOSTICS OF NYC - We Agnostics Of NYC",
@@ -4450,7 +5108,9 @@
   ],
   "meetingLocation": "Stephen Wise Free Synagogue",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "S Last Thursday,  No Prayers."
+  "meetingAddInfo": "S Last Thursday,  No Prayers.",
+  "cleanMeetingAddress": "30 West 68th Street, New York, NY",
+  "cleanMeetingNames": "WE AGNOSTICS OF NYC"
  },
  {
   "meetingName": "WE ARE NOT DOCTORS (WESTSIDE) -",
@@ -4461,7 +5121,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Issues of medication in recovery are discussed.  All are welcome."
+  "meetingAddInfo": "Issues of medication in recovery are discussed.  All are welcome.",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "WE ARE NOT DOCTORS (WESTSIDE)"
  },
  {
   "meetingName": "WE HUMANISTS - We Humanists",
@@ -4472,7 +5134,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "No prayers & a Non-Smoking Meeting."
+  "meetingAddInfo": "No prayers & a Non-Smoking Meeting.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "WE HUMANISTS"
  },
  {
   "meetingName": "WEDNESDAY EAST ON THURSDAY - Wednesday East",
@@ -4483,7 +5147,9 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Round Robin format"
+  "meetingAddInfo": "Round Robin format",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "WEDNESDAY EAST"
  },
  {
   "meetingName": "WEDNESDAY FOCUS - Wednesday Focus",
@@ -4494,7 +5160,9 @@
   ],
   "meetingLocation": "Manhattan Church of The Seventh-day Adventist",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "232 West 11th Street, New York, NY",
+  "cleanMeetingNames": "WEDNESDAY FOCUS"
  },
  {
   "meetingName": "WEEKENDERS -",
@@ -4505,7 +5173,9 @@
   ],
   "meetingLocation": "14th Street Y",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Please Do Not Call the Y for Meeting Info."
+  "meetingAddInfo": "Please Do Not Call the Y for Meeting Info.",
+  "cleanMeetingAddress": "344 East 14th Street, New York, NY",
+  "cleanMeetingNames": "WEEKENDERS"
  },
  {
   "meetingName": "WEST 22nd STREET SOBRIETY - West 22nd Street Sobriety",
@@ -4516,18 +5186,22 @@
   ],
   "meetingLocation": "St. Francis Residence",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "155 West 22nd Street, New York, NY",
+  "cleanMeetingNames": "WEST 22ND STREET SOBRIETY"
  },
  {
   "meetingName": "WEST 58th STREET STEP - West 58th Street Step",
-  "meetingAddress": "1000 Tenth Avenue, 8th Fl, Room #8G-49,",
+  "meetingAddress": "1000 Tenth Avenue, 8th Fl, Room #8G,49,",
   "meetingDetails": [
    "<b>Fridays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
   ],
   "meetingLocation": "Mount Sinai - Roosevelt Hospital",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "1000 Tenth Avenue, New York, NY",
+  "cleanMeetingNames": "WEST 58TH STREET STEP"
  },
  {
   "meetingName": "WEST END - West End",
@@ -4541,7 +5215,9 @@
   ],
   "meetingLocation": "Church of St. Paul & St. Andrew",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "263 West 86th Street, New York, NY",
+  "cleanMeetingNames": "WEST END"
  },
  {
   "meetingName": "WEST VILLAGE WOMEN -",
@@ -4552,7 +5228,9 @@
   ],
   "meetingLocation": "St. John's Lutheran Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Focus women 5+ years of sobriety. All are welcome. Enter through Red Door left of church, Buzzer-Meeting Room"
+  "meetingAddInfo": "Focus women 5+ years of sobriety. All are welcome. Enter through Red Door left of church, Buzzer-Meeting Room",
+  "cleanMeetingAddress": "83 Christopher Street, New York, NY",
+  "cleanMeetingNames": "WEST VILLAGE WOMEN"
  },
  {
   "meetingName": "WESTSIDE 11th STEP MEDITATION WORKSHOP - Westside 11th Step Meditation Workshop",
@@ -4563,7 +5241,9 @@
   ],
   "meetingLocation": "Addiction Institute",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "306 West 102nd Street, New York, NY",
+  "cleanMeetingNames": "WESTSIDE 11TH STEP MEDITATION WORKSHOP"
  },
  {
   "meetingName": "WESTSIDE STEP - Westside Step",
@@ -4574,21 +5254,25 @@
   ],
   "meetingLocation": "Blessed Sacrament Church Rectory",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "152 West 71st Street, New York, NY",
+  "cleanMeetingNames": "WESTSIDE STEP"
  },
  {
   "meetingName": "WESTSIDE YOUNG PEOPLE - Westside Young People",
-  "meetingAddress": "26 West 84th Street, Stanford Room (blue door),",
+  "meetingAddress": "26 West 84th Street, Stanford Room ,blue door),",
   "meetingDetails": [
    "<b>Saturdays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Young People",
    ""
   ],
   "meetingLocation": "Church of St.Matthew & St. Timothy",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Anniv. Meeting Last Saturday."
+  "meetingAddInfo": "Anniv. Meeting Last Saturday.",
+  "cleanMeetingAddress": "26 West 84th Street, New York, NY",
+  "cleanMeetingNames": "WESTSIDE YOUNG PEOPLE"
  },
  {
-  "meetingName": "WESTWINGERS - Westwingers (:I)",
+  "meetingName": "WESTWINGERS - Westwingers",
   "meetingAddress": "208 West 13th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>7:30 PM<b>to</b>8:30 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>Gay, Lesbian and Bisexual",
@@ -4597,7 +5281,9 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Lesbian and gay focus.  All are welcome Meeting format is \"Round Robin.\""
+  "meetingAddInfo": "Lesbian and gay focus.  All are welcome Meeting format is \"Round Robin.\"",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "WESTWINGERS"
  },
  {
   "meetingName": "WHAT WE ARE LIKE NOW -",
@@ -4608,7 +5294,9 @@
   ],
   "meetingLocation": "The Corner Stone Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "178 Bennett Avenue, New York, NY",
+  "cleanMeetingNames": "WHAT WE ARE LIKE NOW"
  },
  {
   "meetingName": "WHOLESALE MIRACLES -",
@@ -4619,7 +5307,9 @@
   ],
   "meetingLocation": "Trinity Lutheran Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "602 East 9th Street, New York, NY",
+  "cleanMeetingNames": "WHOLESALE MIRACLES"
  },
  {
   "meetingName": "WITHOUT A PRAYER -",
@@ -4630,7 +5320,9 @@
   ],
   "meetingLocation": "Goddard Riverside Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "595 Columbus Avenue, New York, NY",
+  "cleanMeetingNames": "WITHOUT A PRAYER"
  },
  {
   "meetingName": "WOMEN INTO ACTION - Women Straight Ahead Saturday",
@@ -4641,7 +5333,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Women's Meeting"
+  "meetingAddInfo": "Women's Meeting",
+  "cleanMeetingAddress": "220 West Houston Street, New York, NY",
+  "cleanMeetingNames": "WOMEN STRAIGHT AHEAD SATURDAY"
  },
  {
   "meetingName": "WOMEN LIVING SOBER - Women Living Sober",
@@ -4653,7 +5347,9 @@
   ],
   "meetingLocation": "Trinity Halfway House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "S 2nd Wednesday"
+  "meetingAddInfo": "S 2nd Wednesday",
+  "cleanMeetingAddress": "306 West 102nd Street, New York, NY",
+  "cleanMeetingNames": "WOMEN LIVING SOBER"
  },
  {
   "meetingName": "WOMEN NOW - Women Now",
@@ -4664,7 +5360,9 @@
   ],
   "meetingLocation": "Gay, Lesbian, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Topic Meeting & Anniv. Last Tuesday."
+  "meetingAddInfo": "Topic Meeting & Anniv. Last Tuesday.",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "WOMEN NOW"
  },
  {
   "meetingName": "WOMEN OVER FORTY - Women Over Forty",
@@ -4675,10 +5373,12 @@
   ],
   "meetingLocation": "GMHC",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday Women's Meeting."
+  "meetingAddInfo": "S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday Women's Meeting.",
+  "cleanMeetingAddress": "446 West 33rd Street, New York, NY",
+  "cleanMeetingNames": "WOMEN OVER FORTY"
  },
  {
-  "meetingName": "WOMEN TOGETHER (:I) - Women Together (:I)",
+  "meetingName": "WOMEN TOGETHER  - Women Together (:I)",
   "meetingAddress": "208 West 13th Street,",
   "meetingDetails": [
    "<b>Saturdays From</b>6:00 PM<b>to</b>7:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Lesbian",
@@ -4686,10 +5386,12 @@
   ],
   "meetingLocation": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Women's Meeting Lesbian Focus.  All are welcome"
+  "meetingAddInfo": "Women's Meeting Lesbian Focus.  All are welcome",
+  "cleanMeetingAddress": "208 West 13th Street, New York, NY",
+  "cleanMeetingNames": "WOMEN TOGETHER (:I)"
  },
  {
-  "meetingName": "WOMEN TOGETHER (:II) - Women Together (:II)",
+  "meetingName": "WOMEN TOGETHER  - Women Together (:II)",
   "meetingAddress": "273 Bowery, Classroom Floor,",
   "meetingDetails": [
    "<b>Fridays From</b>6:15 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>C = Closed Discussion meeting<br><b>Special Interest</b>Lesbian",
@@ -4697,7 +5399,9 @@
   ],
   "meetingLocation": "University Settlement at Houston Street Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "*Women's Meeting Lesbian focus.  All are welcome."
+  "meetingAddInfo": "*Women's Meeting Lesbian focus.  All are welcome.",
+  "cleanMeetingAddress": "273 Bowery, New York, NY",
+  "cleanMeetingNames": "WOMEN TOGETHER (:II)"
  },
  {
   "meetingName": "WOMEN WEST AA - Women West AA",
@@ -4708,7 +5412,9 @@
   ],
   "meetingLocation": "Holy Trinity Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Women's Meeting"
+  "meetingAddInfo": "Women's Meeting",
+  "cleanMeetingAddress": "213 West 82nd Street, New York, NY",
+  "cleanMeetingNames": "WOMEN WEST AA"
  },
  {
   "meetingName": "WOMEN'S BEGINNING LITERATURE -",
@@ -4721,7 +5427,9 @@
   ],
   "meetingLocation": "Blessed Sacrament (Rectory)",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Wed= Alternate BB and Living Sober."
+  "meetingAddInfo": "Wed= Alternate BB and Living Sober.",
+  "cleanMeetingAddress": "152 West 71st Street, New York, NY",
+  "cleanMeetingNames": "WOMEN'S BEGINNING LITERATURE"
  },
  {
   "meetingName": "WOMEN'S DOWNTOWN AA STEP MEETING -",
@@ -4732,7 +5440,9 @@
   ],
   "meetingLocation": "St. Andrew's Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "20 Cardinal Hayes Place, New York, NY",
+  "cleanMeetingNames": "WOMEN'S DOWNTOWN AA STEP MEETING"
  },
  {
   "meetingName": "WOMEN'S ELEVENTH STEP - Women's Eleventh Step",
@@ -4743,7 +5453,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "11th Step, Anniv. 3rd Wednesday No Smoking"
+  "meetingAddInfo": "11th Step, Anniv. 3rd Wednesday No Smoking",
+  "cleanMeetingAddress": "109 East 50th Street, New York, NY",
+  "cleanMeetingNames": "WOMEN'S ELEVENTH STEP"
  },
  {
   "meetingName": "WOMEN'S ELEVENTH STEP MEETING -",
@@ -4754,7 +5466,9 @@
   ],
   "meetingLocation": "",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "152 west 71st street, New York, NY",
+  "cleanMeetingNames": "WOMEN'S ELEVENTH STEP MEETING"
  },
  {
   "meetingName": "WOMEN'S NITE - Women's Nite",
@@ -4765,18 +5479,22 @@
   ],
   "meetingLocation": "Cornerstone Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "178 Bennett Avenue, New York, NY",
+  "cleanMeetingNames": "WOMEN'S NITE"
  },
  {
   "meetingName": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION - Women's Saturday Eleventh Step Meditation",
-  "meetingAddress": "19 Union Square West, 7th Floor, Ask for room #.,",
+  "meetingAddress": "19 Union Square West, 7th Floor, Ask for room #,,",
   "meetingDetails": [
    "<b>Saturdays From</b>11:00 AM<b>to</b>12:00 PM<br><b>Meeting Type</b>C = Closed Discussion meeting",
    ""
   ],
   "meetingLocation": "Realization Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "11th Step Meditation Meeting."
+  "meetingAddInfo": "11th Step Meditation Meeting.",
+  "cleanMeetingAddress": "19 Union Square West, New York, NY",
+  "cleanMeetingNames": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION"
  },
  {
   "meetingName": "WOMEN'S TELL IT LIKE IT IS - Women's Tell It Like It Is",
@@ -4787,7 +5505,9 @@
   ],
   "meetingLocation": "Blessed Sacrament (Rectory)",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Women's Meeting"
+  "meetingAddInfo": "Women's Meeting",
+  "cleanMeetingAddress": "152 West 71st Street, New York, NY",
+  "cleanMeetingNames": "WOMEN'S TELL IT LIKE IT IS"
  },
  {
   "meetingName": "WOMEN'S WESTSIDE TOPIC - Women's Westside Topic",
@@ -4798,18 +5518,22 @@
   ],
   "meetingLocation": "Universalist Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Women's Meeting"
+  "meetingAddInfo": "Women's Meeting",
+  "cleanMeetingAddress": "160 Central Park West, New York, NY",
+  "cleanMeetingNames": "WOMEN'S WESTSIDE TOPIC"
  },
  {
   "meetingName": "WORKS IN PROGRESS -",
-  "meetingAddress": "173 East 3rd Street- basement,",
+  "meetingAddress": "173 East 3rd Street, basement,",
   "meetingDetails": [
    "<b>Mondays From</b>7:00 PM<b>to</b>8:00 PM<br><b>Meeting Type</b>OD = Open Discussion meeting<br><b>Special Interest</b>AA Literature",
    ""
   ],
   "meetingLocation": "Most Holy Redeemer Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Rotating Literature"
+  "meetingAddInfo": "Rotating Literature",
+  "cleanMeetingAddress": "173 East 3rd Street, New York, NY",
+  "cleanMeetingNames": "WORKS IN PROGRESS"
  },
  {
   "meetingName": "WRITING SOBER - Writing Sober",
@@ -4820,7 +5544,9 @@
   ],
   "meetingLocation": "Holy Name Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "207 West 96th Street, New York, NY",
+  "cleanMeetingNames": "WRITING SOBER"
  },
  {
   "meetingName": "YORKVILLE-BUTTERFIELD - Yorkville",
@@ -4831,18 +5557,22 @@
   ],
   "meetingLocation": "Jan Hus Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "351 East 74th Street, New York, NY",
+  "cleanMeetingNames": "UTTERFIELD - YORKVILLE"
  },
  {
   "meetingName": "YOU MAY CARE AFTER - You May Care After",
-  "meetingAddress": "58-66 West 135th Street,",
+  "meetingAddress": "58,66 West 135th Street,",
   "meetingDetails": [
    "<b>Tuesdays From</b>6:30 PM<b>to</b>7:30 PM<br><b>Meeting Type</b>S = Step meeting",
    ""
   ],
   "meetingLocation": "Metropolitan AME Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Non-Smoking Meeting."
+  "meetingAddInfo": "Non-Smoking Meeting.",
+  "cleanMeetingAddress": "58-66 West 135th Street, New York, NY",
+  "cleanMeetingNames": "YOU MAY CARE AFTER"
  },
  {
   "meetingName": "YOUNG AND WISE - Young And Wise",
@@ -4853,7 +5583,9 @@
   ],
   "meetingLocation": "Middle Collegiate Church",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Basement"
+  "meetingAddInfo": "Basement",
+  "cleanMeetingAddress": "50 East 7th Street, New York, NY",
+  "cleanMeetingNames": "YOUNG AND WISE"
  },
  {
   "meetingName": "YOUNG IN 164 -",
@@ -4864,7 +5596,9 @@
   ],
   "meetingLocation": "St. Clements Church",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "423 West 46th Street, New York, NY",
+  "cleanMeetingNames": "YOUNG IN 164"
  },
  {
   "meetingName": "YOUNG PEOPLE'S DIVERSITY -",
@@ -4875,7 +5609,9 @@
   ],
   "meetingLocation": "Hazelden Center",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Lesbian, Gay, Bi-sexual & Transgendered Focus All are welcome."
+  "meetingAddInfo": "Lesbian, Gay, Bi-sexual & Transgendered Focus All are welcome.",
+  "cleanMeetingAddress": "283 West Broadway, New York, NY",
+  "cleanMeetingNames": "YOUNG PEOPLE'S DIVERSITY"
  },
  {
   "meetingName": "YOUNG PEOPLE'S MEETING -",
@@ -4886,7 +5622,9 @@
   ],
   "meetingLocation": "46th Street Club House",
   "wheelChairAccessable": "",
-  "meetingAddInfo": "Young People BB Meeting"
+  "meetingAddInfo": "Young People BB Meeting",
+  "cleanMeetingAddress": "252 West 46th Street, New York, NY",
+  "cleanMeetingNames": "YOUNG PEOPLE'S MEETING"
  },
  {
   "meetingName": "YOUNG PEOPLE'S STEP -",
@@ -4897,17 +5635,21 @@
   ],
   "meetingLocation": "Hazelden Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": ""
+  "meetingAddInfo": "",
+  "cleanMeetingAddress": "283 West Broadway, New York, NY",
+  "cleanMeetingNames": "YOUNG PEOPLE'S STEP"
  },
  {
-  "meetingName": "YOUTH ENJOYING SOBRIETY (Y.E.S.) - Youth Enjoying Sobriety (Yes)",
-  "meetingAddress": "283 W. Broadway,",
+  "meetingName": "YOUTH ENJOYING SOBRIETY (YES) - Youth Enjoying Sobriety (Yes)",
+  "meetingAddress": "283 W, Broadway,",
   "meetingDetails": [
    "<b>Saturdays From</b>7:00 PM<b>to</b>8:15 PM<br><b>Meeting Type</b>B = Beginners meeting<br><b>Special Interest</b>Young People",
    ""
   ],
   "meetingLocation": "Hazelden Center",
   "wheelChairAccessable": "Wheelchair access",
-  "meetingAddInfo": "Open Anniv. Last Saturday."
+  "meetingAddInfo": "Open Anniv. Last Saturday.",
+  "cleanMeetingAddress": "283 West Broadway, New York, NY",
+  "cleanMeetingNames": "YOUTH ENJOYING SOBRIETY (YES)"
  }
 ]

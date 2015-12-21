@@ -2,12 +2,7 @@ var request = require("request"); //call request
 var fs = require("fs"); //call fs
 var cheerio = require("cheerio"); //call cheerio
 
-var meetingDetails = [];
-var daysNumb = [];
 var meetings = [];
-
-var cleanMeetingNames = JSON.parse(fs.readFileSync('/home/ubuntu/workspace/FinalProject1/cleanMeetingNames.txt'));
-var cleanAddresses = JSON.parse(fs.readFileSync('/home/ubuntu/workspace/FinalProject1/cleanAddresses.txt'));
 
 var content = fs.readFileSync('/home/ubuntu/workspace/FinalProject1/aameetinglist.txt'); //Pull in website text
 var $ = cheerio.load(content); //loading cheerio content into $
@@ -15,11 +10,13 @@ var $ = cheerio.load(content); //loading cheerio content into $
 $('table[cellpadding=5]').find('tbody').find('tr').each(function(i, elem) { //pulling info from table with cellpadding 5 which is all the meeting info and running through a loop of all the data
         var meetingsObj = new Object;
 
-        meetingsObj.meetingName = cleanMeetingNames[i];
+        meetingsObj.meetingName = $(elem).find('b').eq(0).text().replace(/\s+/g, ' ').replace(/A.A./g, "AA").replace(/\(\)/g, "").replace("T&A-", "").trim();
 
-        meetingsObj.meetingAddress = cleanAddresses[i];
+        meetingsObj.meetingAddress = $(elem).find('td').eq(0).html().split('<br>')[2].trim();
 
-        meetingDetails.push($(elem).find('td').eq(1).html().trim().replace(/>\s*/g, '>').replace(/\s*</g, "<").split("<br><br>")); // fill array with meeting details
+        meetingsObj.meetingDetails = $(elem).find('td').eq(1).html().trim().replace(/>\s*/g, '>').replace(/\s*</g, "<").split("<br><br>"); // fill array with meeting details
+        
+        console.log(meetingDetails);
         for (var j in meetingDetails) {
             var meetdet = meetingDetails[j].toString().split("b>");
             var days = meetdet[1].substr(0, meetdet[1].indexOf('From')).trim();
@@ -29,7 +26,8 @@ $('table[cellpadding=5]').find('tbody').find('tr').each(function(i, elem) { //pu
                 var type = meetdet[6].substr(0, meetdet[6].indexOf('<')).replace(/"/g, "").replace(",", "").trim();
                 for (var l = 1; l < meetdet.length; l++) {
                     if (meetdet[l].substr(0, 7) === "Special") {
-                        var specInt = meetdet[l + 1].replace(",", "").replace(",", "").replace("<", "").trim();
+                        if (meetdet[l + 1]){
+                        var specInt = meetdet[l + 1].replace(",", "").replace("<", "").trim();}
                         // console.log(days + " " + starttimes + " " + endtimes + " " + type + " " + specInt);
                         if (days == 'Sundays') {
                             days = 'Sundays';
@@ -88,7 +86,7 @@ $('table[cellpadding=5]').find('tbody').find('tr').each(function(i, elem) { //pu
 
         meetings.push(meetingsObj);
 
-        console.log(meetings);
+        // console.log(meetings);
     }),
     fs.writeFileSync('/home/ubuntu/workspace/FinalProject1/aameetingsMeetings.txt', JSON.stringify(meetings, null, 1));
 

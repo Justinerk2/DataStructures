@@ -1,3 +1,5 @@
+obj.addresses =function to clean (obj.addresses)
+
 var request = require("request"); //call request
 var fs = require("fs"); //call fs
 var async = require('async'); // call async
@@ -17,7 +19,6 @@ $('table[cellpadding=5]').find('tbody').find('tr').each(function(i, elem) { //pu
     addresses = $(elem).find('td').eq(0).html().split('<br>')[2].trim(); //filling array with first line of meeting addresses
     for (var i = 0; i < addresses.length; i++) {
         addressClean.push((addresses[i].substring(0, addresses[i].indexOf(',')) + ', New York, NY').split(' ').join('+')); // fixing addresses, removing comma issues, replacing spaces with + for the google api, and adding New York, NY at the end of each address line
-        console.log(addressClean);
 
     }
     async.eachSeries(addressClean, function(value, callback) { // eachSeries in the async module iterates over an array and operates on each item in the array in series
