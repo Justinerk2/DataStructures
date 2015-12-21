@@ -6,8 +6,10 @@ var meetingObj = JSON.parse(fs.readFileSync('/home/ubuntu/workspace/FinalProject
 for (var i = 0; i < meetingObj.length; i++) {
 
     meetingObj[i].cleanMeetingAddress = cleanAddresses(meetingObj[i].meetingAddress);
-    meetingObj[i].cleanMeetingDetails = cleanMeetingDet(splitDet(meetingObj[i].meetingDetails));
     meetingObj[i].cleanMeetingName = cleanMeetingNames(meetingObj[i].meetingName);
+    meetingObj[i].NumberDay =cleanMeetingDays(meetingObj[i].days);
+    meetingObj[i].NumberstartTime = cleanTimes(meetingObj[i].starttimes);
+    meetingObj[i].NumberendTime = cleanTimes(meetingObj[i].endtimes);
     console.log(meetingObj[i]);
 }
 
@@ -36,81 +38,67 @@ function cleanMeetingNames(oldName) {
     }
     return cleanMeetingName;
 
+
 }
 
-function splitDet(details) {
+function cleanMeetingDays(days) {
 
-    for (var i = 0; i < details.length - 1; i++) {
+                    var daysNumb;
 
-        var splitdetails = details[i].split("</b>").toString();
-
-        return splitdetails
-    }
-}
-
-function cleanMeetingDet(details) {
-    for (var j = 0; j < details.length - 1; i++) {
-        var days = details[1].substr(0, details[1].indexOf("From")).replace("<b>", "");
-        if (days != "s") {
-            var starttimes = details[2].substr(0, details[2].indexOf('<')).trim();
-            var endtimes = details[4].substr(0, details[4].indexOf('<')).replace(",", "").trim();
-            var type = details[6].substr(0, details[6].indexOf('<')).replace(/"/g, "").replace(",", "").trim();
-            for (var l = 1; l < details.length; l++) {
-                if (details[l].substr(0, 7) === "Special") {
-                    if (details[l + 1]) {
-                        var specInt = details[l + 1].replace(",", "").replace("<", "").trim();
+                    if (days == 'Sundays') {
+                        days = 'Sundays';
+                        daysNumb = 0;
                     }
+                    else if (days == 'Mondays') {
+                        days = 'Mondays';
+                        daysNumb = 1;
+                    }
+                    else if (days == 'Tuesdays') {
+                        days = 'Tuesdays';
+                        daysNumb = 2;
+                    }
+                    else if (days == 'Wednesdays') {
+                        days = 'Wednesdays';
+                        daysNumb = 3;
+                    }
+                    else if (days == 'Thursdays') {
+                        days = 'Thursdays';
+                        daysNumb = 4;
+                    }
+                    else if (days == 'Fridays') {
+                        days = 'Fridays';
+                        daysNumb = 5;
+                    }
+                    else if (days == 'Saturdays') {
+                        days = 'Saturdays';
+                        daysNumb = 6;
+                    }
+return daysNumb;
 
+}
+function cleanTimes(time){
 
-                    // if (days == 'Sundays') {
-                    //     days = 'Sundays';
-                    //     daysNumb = 0;
-                    // }
-                    // else if (days == 'Mondays') {
-                    //     days = 'Mondays';
-                    //     daysNumb = 1;
-                    // }
-                    // else if (days == 'Tuesdays') {
-                    //     days = 'Tuesdays';
-                    //     daysNumb = 2;
-                    // }
-                    // else if (days == 'Wednesdays') {
-                    //     days = 'Wednesdays';
-                    //     daysNumb = 3;
-                    // }
-                    // else if (days == 'Thursdays') {
-                    //     days = 'Thursdays';
-                    //     daysNumb = 4;
-                    // }
-                    // else if (days == 'Fridays') {
-                    //     days = 'Fridays';
-                    //     daysNumb = 5;
-                    // }
-                    // else if (days == 'Saturdays') {
-                    //     days = 'Saturdays';
-                    //     daysNumb = 6;
-                    // }
+    var ampm = time.substr(time.length - 2, time.length); //am or pm
 
-                    // meetingObj.meetingDay = days;
-
-                    // meetingObj.meetingDayNumb = daysNumb;
-
-                    // meetingObj.meetingStartTime = starttimes;
-
-                    // meetingObj.meetingEndTime = endtimes;
-
-                    // meetingObj.meetingType = type;
-
-                    // meetingObj.meetingSpecialInt = specInt;
-
-                }
-
-            }
-        }
-
+    var fulltime = time.split(":"); //seperate minutes and hours
+    var hour = parseInt(fulltime[0], 10); // pull out hours
+    var mins = parseInt(fulltime[1], 10).trim(); //pull out minutes
+    if (ampm == "AM" && hour == "12") {
+        var midnight = mins;
+        return midnight;
     }
-
-
+    if (ampm == "AM" && hour < 12) {
+       var morningtime = ((hour * 1) * 60) + (mins);
+       return(morningtime);
+    }
+    if (ampm == "PM" && hour === 12) {
+       var noon = 720 + mins;
+       return noon;
+    }
+    if (ampm == "PM" && hour < 12) {
+        var night = (((hour * 1) + 12) * 60) + (mins);
+        return night;
+    }
 }
 
 function emptyval(value) {

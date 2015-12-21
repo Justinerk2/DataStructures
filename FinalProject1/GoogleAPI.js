@@ -33,7 +33,7 @@ async.eachSeries(address, function(value, callback) { // eachSeries in the async
                   var  latLong = JSON.parse(body).results[0].geometry.location;
                  console.log(latLong);
                  meetingsObj[i].latLong;
-console.log(meetingsObj[i]);
+                console.log(meetingsObj[i]);
                 }
             });
 
